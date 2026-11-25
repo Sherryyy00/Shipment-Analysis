@@ -10,10 +10,6 @@ read these reviews most accurately.
 It covers Evri (and Hermes), DPD, Royal Mail, Yodel, Amazon Logistics, DHL, Parcelforce, InPost,
 UPS and FedEx.
 
-> **Note on the charts below:** they come from a small **synthetic** demo file
-> (`data/sample/demo_reviews_synthetic.csv`) so the repo runs out of the box. The numbers are made up.
-> Real findings come from running the pipeline on the Kaggle data (see *Quick start*).
-
 ## What it does
 
 | Step | How |
@@ -27,12 +23,49 @@ UPS and FedEx.
 | Evaluation | Compares every model against the reviewer's own star rating (accuracy, macro F1, confusion matrix) |
 | Outputs | Clean CSVs, six charts, a `summary.md`, and an interactive Streamlit dashboard |
 
-## Charts (demo data)
+## Results
 
-| | |
-|---|---|
-| ![Net sentiment](reports/demo/figures/01_courier_net_sentiment.png) | ![Aspect heatmap](reports/demo/figures/02_aspect_heatmap.png) |
-| ![Complaint aspects](reports/demo/figures/03_negative_aspects.png) | ![Model comparison](reports/demo/figures/04_model_comparison.png) |
+Run on the [Trustpilot Reviews 123k](https://www.kaggle.com/datasets/jerassy/trustpilot-reviews-123k) Kaggle
+dataset: **3,592 reviews** that name at least one courier.
+
+![Net sentiment by courier](reports/full/figures/01_courier_net_sentiment.png)
+
+| Courier | Reviews | % negative | Net sentiment (courier sentences) | Net sentiment (whole review) |
+|---|---:|---:|---:|---:|
+| Yodel | 220 | 65% | **-43** | -28 |
+| FedEx | 172 | 59% | **-30** | -8 |
+| Evri | 623 | 56% | **-26** | -10 |
+| Parcelforce | 195 | 54% | **-24** | +4 |
+| InPost | 44 | 50% | **-16** | -18 |
+| DPD | 934 | 49% | **-11** | -8 |
+| DHL | 400 | 47% | **-10** | +4 |
+| UPS | 157 | 48% | **-8** | +3 |
+| Royal Mail | 1,075 | 46% | **-7** | +4 |
+
+**What stood out**
+
+* **Scoring the whole review hides the courier problem.** Most of these reviews are on shops' pages, and
+  happy comments about the product pull the score up. Once only the sentences about the courier are scored,
+  Parcelforce drops from +4 to -24 and FedEx from -8 to -30. Every courier ends up net negative.
+* **Yodel comes out worst by a clear margin** (-43). It's also the worst on lost parcels and parcel
+  condition (heatmap below).
+* **Royal Mail, UPS, DHL and DPD form a "least bad" group**, between -7 and -11.
+* **Parcelforce's weak spot is lost parcels** (-0.47, the most negative cell in the heatmap).
+* **Speed, customer service and tracking** are the three most common complaints. The complaint themes also
+  include a clear Christmas cluster, plus parcels sent to the wrong address and parcels left outside.
+
+![Aspect heatmap](reports/full/figures/02_aspect_heatmap.png)
+
+**Read these with care**
+
+* People mostly name the courier when something has gone wrong, so the absolute numbers lean negative.
+  The *ranking* between couriers is more meaningful than any single score.
+* InPost has only 44 reviews, so treat its position as a rough guide.
+* The model-vs-stars agreement (about 55%) is low because the stars rate the *shop*, not the courier.
+  A hand-labelled set of courier sentences is the next step for a proper accuracy test.
+
+The repo also includes a synthetic demo file (`data/sample/`) so anyone can run the pipeline without
+downloading the data. Its outputs in `reports/demo/` are made up.
 
 ## Quick start
 
@@ -114,7 +147,7 @@ A GPU helps but isn't required. Use `--sample 5000` for a quicker first run.
 
 * Courier detection is keyword based. A review naming two couriers counts for both.
 * Aspect keywords are hand-written. `aspect_sentences.csv` makes misses easy to spot and extend.
-* Next ideas: hand-label 300 reviews for a proper test set, fine-tune a small transformer on courier
+* Next ideas: hand-label 300 courier sentences for a proper test set, fine-tune a small transformer on courier
   reviews, and add a Power BI version of the dashboard.
 
 ## Version history

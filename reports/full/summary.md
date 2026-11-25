@@ -36,18 +36,18 @@ Net sentiment is scored on the sentences about each courier. 'Whole review' scor
 
 ## Complaint themes
 
-- (27%) lost, customer, refund, problem, sent, arrive, took, send
-- (19%) received, tracking, email, number, saying, tracking number, december, received email
-- (18%) left, door, house, driver, box, did, leave, outside
-- (17%) arrived, late, unfortunately, arrived late, damaged, failed, christmas, product
-- (11%) good, let, force, unfortunately, product, fault, communication, experience
-- (8%) address, wrong, wrong address, correct, delivering, correct address, force, sent
+- (41%) arrived, late, failed, problem, unfortunately, poor, arrive, damaged
+- (16%) left, door, house, driver, leave, box, outside, bell
+- (15%) lost, customer, refund, replacement, post, christmas, wait, money
+- (14%) received, tracking, email, number, tracking number, december, received email, response
+- (8%) address, wrong, wrong address, correct, delivering, correct address, refund, house
+- (7%) good, product, fault, probably, price, communication, completely, products
 
 ## Praise themes
 
-- (37%) customer, did, like, left, address, issue, box, arrive
-- (16%) arrived, excellent, quickly, packed, condition, helpful, packaged, hours
-- (15%) tracking, number, tracking number, received, email, information, sent, provided
-- (14%) great, product, products, price, let, great price, quick, quality
-- (12%) good, let, easy, good price, price, good quality, late, quality
-- (6%) fault, box, expected, happy, despite, perfect, better, attempt
+- (52%) customer, received, left, address, issue, email, post, paid
+- (15%) arrived, excellent, quickly, packed, condition, packaged, helpful, free
+- (10%) good, easy, good price, price, product, good quality, late, good customer
+- (9%) great, product, products, price, quality, great price, quick, selection
+- (9%) tracking, number, tracking number, received, email, information, provided, track
+- (5%) fault, box, despite, expected, happy, better, perfect, attempt

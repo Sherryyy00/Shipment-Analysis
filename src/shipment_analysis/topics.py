@@ -19,6 +19,7 @@ DOMAIN_STOP_WORDS = {
     "deliver", "service", "company", "courier", "couriers", "item", "items", "just", "got", "get",
     "im", "ive", "dont", "didnt", "wasnt", "youre", "theyre", "cant", "wont", "said", "told", "time",
     "day", "days", "today", "yesterday", "week", "really", "use", "used", "using", "thank", "thanks",
+    "force", "let", "did", "like", "sent", "send", "say", "saying", "went", "came", "come", "took",
 }
 STOP_WORDS = sorted(ENGLISH_STOP_WORDS | DOMAIN_STOP_WORDS)
 

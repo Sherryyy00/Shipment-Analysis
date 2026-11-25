@@ -50,8 +50,11 @@ def courier_net_sentiment(summary: pd.DataFrame, path: Path):
     colours = [BLUE if v >= 0 else RED for v in s["net_sentiment"]]
     ax.barh(s["courier"], s["net_sentiment"], color=colours, height=0.6)
     ax.axvline(0, color=TEXT_2, lw=1)
-    lim = max(10, s["net_sentiment"].abs().max() * 1.25)
-    ax.set_xlim(-lim, lim)
+    # Leave room on each side for the value labels, and only show the positive
+    # side when there is something there (avoids a half-empty chart)
+    lo, hi = s["net_sentiment"].min(), s["net_sentiment"].max()
+    span = max(10, hi - min(lo, 0), max(hi, 0) - lo)
+    ax.set_xlim(min(0, lo) - 0.45 * span, max(0, hi) + 0.45 * span if hi > 0 else 0.08 * span)
     for y, (v, n) in enumerate(zip(s["net_sentiment"], s["n_reviews"])):
         ax.text(v + (2 if v >= 0 else -2), y, f"{v:+.0f}  (n={n:,})", va="center",
                 ha="left" if v >= 0 else "right", color=TEXT, fontsize=9)
@@ -59,7 +62,7 @@ def courier_net_sentiment(summary: pd.DataFrame, path: Path):
     ax.grid(axis="x", color=GRID, lw=0.8)
     ax.set_axisbelow(True)
     ax.set_title("Net sentiment by courier", pad=22)
-    _subtitle(ax, "Reviews that mention each courier")
+    _subtitle(ax, "Scored on the sentences about each courier")
     fig.savefig(path)
     plt.close(fig)
 
