@@ -20,6 +20,8 @@ import pandas as pd
 URL_RE = re.compile(r"https?://\S+|www\.\S+", re.IGNORECASE)
 EMAIL_RE = re.compile(r"\b[\w.+-]+@[\w-]+\.[\w.-]+\b")
 NON_ALPHA_RE = re.compile(r"[^a-z\s]")
+# "20th", "1st", "3rd" -> removed, otherwise "th"/"st" survive as junk tokens
+ORDINAL_RE = re.compile(r"\b\d+(st|nd|rd|th)\b")
 WS_RE = re.compile(r"\s+")
 # Trustpilot-style truncation marker
 SEE_MORE_RE = re.compile(r"\.{3}\s*see more\s*$", re.IGNORECASE)
@@ -36,6 +38,7 @@ def light_clean(text: str) -> str:
 def deep_clean(text: str) -> str:
     text = light_clean(text).lower()
     text = text.replace("'", "")  # don't -> dont, keeps the token together
+    text = ORDINAL_RE.sub(" ", text)
     text = NON_ALPHA_RE.sub(" ", text)
     return WS_RE.sub(" ", text).strip()
 

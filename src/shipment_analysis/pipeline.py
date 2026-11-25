@@ -15,12 +15,12 @@ from pathlib import Path
 import pandas as pd
 
 from . import plots
-from .aspects import ASPECT_ORDER, aspect_mentions, aspect_review_level
-from .clean import clean_reviews
-from .couriers import COURIER_ORDER, explode_couriers, tag_couriers
+from .aspects import ASPECT_ORDER, aspect_mentions
+from .clean import clean_reviews, deep_clean
+from .couriers import COURIER_ORDER, courier_snippets, explode_couriers, tag_couriers
 from .evaluate import model_scores
 from .io import load_reviews
-from .sentiment import (MODEL_NAMES, add_lexicon_sentiment, add_transformer_sentiment, best_score_column,
+from .sentiment import (MODEL_NAMES, _vader_courier, to_label, add_lexicon_sentiment, add_transformer_sentiment, best_score_column,
                         net_sentiment, sentiment_columns)
 from .topics import fit_bertopic, fit_topics
 
@@ -79,16 +79,26 @@ def run(args: argparse.Namespace) -> dict:
     label_col, score_col = best_label_column(df), best_score_column(df)
     log.info("Headline model: %s", MODEL_NAMES[label_col])
 
-    # Aspects
-    asp = aspect_mentions(df)
-    asp_review = aspect_review_level(asp)
-
-    # Courier level
-    mentions = explode_couriers(df)
-    summary = courier_summary(mentions, label_col, score_col, args.min_courier_n)
+    # Courier-focused sentiment: score only the text about each courier
+    snips = courier_snippets(df)
+    snips["courier_score"] = snips["courier_text"].map(lambda t: _vader_courier.polarity_scores(t)["compound"])
+    snips["courier_label"] = snips["courier_score"].map(to_label)
+    mentions = explode_couriers(df).merge(snips, on=["review_id", "courier"], how="left")
+    summary = courier_summary(mentions, "courier_label", "courier_score", args.min_courier_n)
+    review_summary = courier_summary(mentions, label_col, score_col, args.min_courier_n)
+    summary["net_whole_review"] = summary["courier"].map(review_summary.set_index("courier")["net_sentiment"])
     keep = summary["courier"].tolist()
 
-    asp_c = asp_review.merge(mentions[["review_id", "courier"]], on="review_id")
+    # Aspects, also on courier text only, so the shop's own customer service
+    # or product quality isn't blamed on the courier
+    snip_in = snips.reset_index().rename(columns={"index": "snip_id"})
+    asp = aspect_mentions(snip_in.rename(columns={"review_id": "orig_review_id", "snip_id": "review_id",
+                                                  "courier_text": "text_model"}))
+    asp = asp.rename(columns={"review_id": "snip_id"}).merge(
+        snip_in[["snip_id", "review_id", "courier", "courier_label"]], on="snip_id").drop(columns="snip_id")
+    asp_c = (asp.groupby(["review_id", "courier", "aspect"], as_index=False)
+             .agg(aspect_score=("aspect_score", "mean"), courier_label=("courier_label", "first")))
+    asp_c["aspect_label"] = asp_c["aspect_score"].map(to_label)
     asp_c = asp_c[asp_c["courier"].isin(keep)]
     heat = asp_c.pivot_table(index="courier", columns="aspect", values="aspect_score", aggfunc="mean")
     heat_n = asp_c.pivot_table(index="courier", columns="aspect", values="aspect_score", aggfunc="count")
@@ -96,18 +106,19 @@ def run(args: argparse.Namespace) -> dict:
     rows = [c for c in keep if c in heat.index]
     heat, heat_n = heat.reindex(index=rows, columns=cols), heat_n.reindex(index=rows, columns=cols).fillna(0)
 
-    negative_ids = set(df.loc[df[label_col] == "negative", "review_id"])
-    neg_share = (asp_review[asp_review["review_id"].isin(negative_ids)].groupby("aspect")["review_id"].nunique()
-                 / max(1, len(negative_ids))).reindex(ASPECT_ORDER).dropna()
+    neg_pairs = asp_c[asp_c["courier_label"] == "negative"]
+    n_neg = max(1, int((mentions["courier_label"] == "negative").sum()))
+    neg_share = (neg_pairs.groupby("aspect").size() / n_neg).reindex(ASPECT_ORDER).dropna()
 
     # Topics
     topic_fn = fit_bertopic if args.bertopic else (lambda t: fit_topics(t, n_topics=args.n_topics))
-    neg_df = df[df[label_col] == "negative"]
-    pos_df = df[df[label_col] == "positive"]
-    topics_neg, neg_ids = topic_fn(neg_df["text_clean"])
-    topics_pos, pos_ids = topic_fn(pos_df["text_clean"])
-    df["topic_negative"] = pd.Series(neg_ids, index=neg_df.index).reindex(df.index)
-    df["topic_positive"] = pd.Series(pos_ids, index=pos_df.index).reindex(df.index)
+    mentions["courier_text_clean"] = mentions["courier_text"].fillna("").map(deep_clean)
+    neg_m = mentions[mentions["courier_label"] == "negative"].drop_duplicates("review_id")
+    pos_m = mentions[mentions["courier_label"] == "positive"].drop_duplicates("review_id")
+    topics_neg, neg_ids = topic_fn(neg_m["courier_text_clean"])
+    topics_pos, pos_ids = topic_fn(pos_m["courier_text_clean"])
+    df["topic_negative"] = df["review_id"].map(pd.Series(neg_ids, index=neg_m["review_id"].values))
+    df["topic_positive"] = df["review_id"].map(pd.Series(pos_ids, index=pos_m["review_id"].values))
 
     # Model evaluation
     scores = model_scores(df) if df["star_label"].notna().any() else pd.DataFrame()
@@ -117,14 +128,15 @@ def run(args: argparse.Namespace) -> dict:
     if mentions["date"].notna().any():
         m = mentions.dropna(subset=["date"]).assign(month=lambda d: d["date"].dt.to_period("M").dt.to_timestamp())
         monthly = (m.groupby(["month", "courier"])
-                   .agg(n=(label_col, "size"), net_sentiment=(label_col, net_sentiment)).reset_index())
+                   .agg(n=("courier_label", "size"), net_sentiment=("courier_label", net_sentiment))
+                   .reset_index())
         monthly = monthly[(monthly["n"] >= args.min_month_n) & monthly["courier"].isin(keep)]
 
     # Save tables
     p = out / "processed"
     save_cols = [c for c in df.columns if c != "text_clean"]
     df.assign(couriers=df["couriers"].str.join("|"))[save_cols].to_csv(p / "reviews_scored.csv", index=False)
-    mentions.drop(columns=["text_clean"]).to_csv(p / "courier_mentions.csv", index=False)
+    mentions.drop(columns=["text_clean", "courier_text_clean"]).to_csv(p / "courier_mentions.csv", index=False)
     asp.to_csv(p / "aspect_sentences.csv", index=False)
     asp_c.to_csv(p / "aspect_by_courier_long.csv", index=False)
     summary.to_csv(p / "courier_summary.csv", index=False)
@@ -164,12 +176,15 @@ def write_summary(r: dict, path: Path, args) -> None:
              f"- Headline sentiment model: **{MODEL_NAMES[r['label_col']]}**", ""]
     s = r["summary"]
     if not s.empty:
-        lines += ["## Couriers", "", "| Courier | Reviews | Avg ★ | % negative | Net sentiment |",
-                  "|---|---:|---:|---:|---:|"]
+        lines += ["## Couriers", "",
+                  "Net sentiment is scored on the sentences about each courier. "
+                  "'Whole review' scores the full review, which includes the shop and product.", "",
+                  "| Courier | Reviews | Avg ★ | % negative | Net sentiment | Whole review |",
+                  "|---|---:|---:|---:|---:|---:|"]
         for _, row in s.sort_values("net_sentiment").iterrows():
             avg = "" if pd.isna(row["avg_rating"]) else f"{row['avg_rating']:.2f}"
             lines.append(f"| {row['courier']} | {row['n_reviews']:,} | {avg} | {row['pct_negative']:.0f}% | "
-                         f"{row['net_sentiment']:+.0f} |")
+                         f"{row['net_sentiment']:+.0f} | {row['net_whole_review']:+.0f} |")
         lines.append("")
     if not r["neg_share"].empty:
         top = r["neg_share"].sort_values(ascending=False).head(3)

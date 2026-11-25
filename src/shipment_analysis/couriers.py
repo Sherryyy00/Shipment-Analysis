@@ -53,3 +53,34 @@ def explode_couriers(df: pd.DataFrame) -> pd.DataFrame:
     """One row per (review, courier). Reviews with no courier are dropped."""
     out = df[df["n_couriers"] > 0].explode("couriers").rename(columns={"couriers": "courier"})
     return out.reset_index(drop=True)
+
+
+def courier_snippets(df: pd.DataFrame, window: int = 1) -> pd.DataFrame:
+    """Text about each courier only: sentences naming it plus the next ``window`` sentences.
+
+    Most real reviews are on a *retailer's* page ("Lovely dress, shame they use
+    Evri. It arrived late."). Scoring the whole review mixes the shop's
+    product and service into the courier's score, so courier-level results use
+    these snippets instead. If the review is on the courier's own page (company
+    column), the whole review is about that courier.
+    """
+    from .aspects import split_sentences  # local import avoids a cycle
+
+    rows = []
+    for rec in df[df["n_couriers"] > 0].itertuples():
+        own = courier_from_company(getattr(rec, "company", ""))
+        sents = split_sentences(rec.text_model)
+        for courier in rec.couriers:
+            if courier == own:
+                snippet, scope = rec.text_model, "whole review"
+            else:
+                pat = COURIER_PATTERNS[courier]
+                keep: set[int] = set()
+                for i, s in enumerate(sents):
+                    if pat.search(s):
+                        keep.update(range(i, min(len(sents), i + window + 1)))
+                snippet = " ".join(sents[i] for i in sorted(keep)) or rec.text_model
+                scope = "courier sentences"
+            rows.append({"review_id": rec.review_id, "courier": courier, "courier_text": snippet,
+                         "courier_scope": scope})
+    return pd.DataFrame(rows, columns=["review_id", "courier", "courier_text", "courier_scope"])

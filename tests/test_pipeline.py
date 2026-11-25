@@ -119,3 +119,23 @@ def test_dashboard_renders(tmp_path):
     at = AppTest.from_file(str(Path(__file__).resolve().parents[1] / "app" / "streamlit_app.py"), default_timeout=60).run()
     assert not at.exception
     assert len(at.tabs) == 5
+
+
+def test_courier_snippets_ignore_product_praise():
+    from shipment_analysis.couriers import courier_snippets, tag_couriers
+    from shipment_analysis.sentiment import _vader_courier
+
+    df = clean_reviews(pd.DataFrame({
+        "review_id": [0], "title": [""], "company": ["lovely-dresses.co.uk"],
+        "text": ["Absolutely gorgeous dress, amazing quality and great price. Shame they use Evri. "
+                 "It arrived four days late and soaked."]}))
+    df = tag_couriers(df)
+    snip = courier_snippets(df).iloc[0]
+    assert snip["courier"] == "Evri"
+    assert "gorgeous" not in snip["courier_text"]
+    assert _vader_courier.polarity_scores(snip["courier_text"])["compound"] < 0
+    assert _vader_courier.polarity_scores(df.loc[0, "text_model"])["compound"] > 0  # whole review looks positive
+
+
+def test_ordinals_removed():
+    assert deep_clean("Ordered on the 20th December, 1st try") == "ordered on the december try"

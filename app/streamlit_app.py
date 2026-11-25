@@ -49,6 +49,8 @@ with st.sidebar:
     reviews, mentions = data["reviews_scored"], data["courier_mentions"]
     label_col = "tf_label" if "tf_label" in reviews else "vaderx_label"
     score_col = "tf_score" if "tf_score" in reviews else "vaderx_compound"
+    # Courier-level views use the sentences about each courier when available
+    c_label = "courier_label" if "courier_label" in mentions else label_col
 
     couriers_all = data["courier_summary"]["courier"].tolist()
     picked = st.multiselect("Couriers", couriers_all, default=couriers_all)
@@ -75,8 +77,8 @@ r = reviews[reviews["review_id"].isin(ids)]
 st.title("What UK shoppers say about their couriers")
 k1, k2, k3, k4 = st.columns(4)
 k1.metric("Reviews mentioning a courier", f"{len(r):,}")
-k2.metric("Negative", f"{(r[label_col] == 'negative').mean():.0%}")
-k3.metric("Positive", f"{(r[label_col] == 'positive').mean():.0%}")
+k2.metric("Negative about the courier", f"{(m[c_label] == 'negative').mean():.0%}")
+k3.metric("Positive about the courier", f"{(m[c_label] == 'positive').mean():.0%}")
 if r["rating"].notna().any():
     k4.metric("Average rating", f"{r['rating'].mean():.2f} ★")
 
@@ -86,7 +88,7 @@ with tab1:
     g = m.groupby("courier")
     summ = pd.DataFrame({
         "reviews": g.size(),
-        "net": g[label_col].apply(lambda s: 100 * ((s == "positive").mean() - (s == "negative").mean())),
+        "net": g[c_label].apply(lambda s: 100 * ((s == "positive").mean() - (s == "negative").mean())),
         "avg_rating": g["rating"].mean(),
     }).reset_index().sort_values("net")
     fig = go.Figure(go.Bar(
@@ -123,8 +125,10 @@ with tab2:
         fig.update_traces(hovertemplate="<b>%{y}</b> · %{x}<br>Mean sentiment %{z:+.2f}<extra></extra>")
         st.plotly_chart(fig, width="stretch")
 
-        neg_ids = set(r.loc[r[label_col] == "negative", "review_id"])
-        share = (a[a["review_id"].isin(neg_ids)].groupby("aspect")["review_id"].nunique() / max(1, len(neg_ids)))
+        lab = "courier_label" if "courier_label" in a else None
+        neg = a[a[lab] == "negative"] if lab else a[a["review_id"].isin(set(r.loc[r[label_col] == "negative", "review_id"]))]
+        n_neg = max(1, int((m[c_label] == "negative").sum()))
+        share = neg.groupby("aspect").size() / n_neg
         share = share.sort_values().reset_index(name="share")
         fig = px.bar(share, x="share", y="aspect", orientation="h", title="Share of negative reviews mentioning…",
                      color_discrete_sequence=[BLUE], text_auto=".0%")

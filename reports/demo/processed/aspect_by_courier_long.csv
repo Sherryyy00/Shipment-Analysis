@@ -1,1643 +1,1623 @@
-review_id,aspect,aspect_score,aspect_label,courier
-0,Customer service,-0.5574,negative,DPD
-0,Delivery speed,-0.5574,negative,DPD
-0,Lost / not delivered,-0.5574,negative,DPD
-0,Parcel condition,-0.7003,negative,DPD
-1,Driver behaviour,0.0,neutral,DPD
-1,Parcel condition,0.0,neutral,DPD
-1,Safe place / doorstep,0.0,neutral,DPD
-2,Driver behaviour,-0.5442,negative,Evri
-2,Parcel condition,-0.7003,negative,Evri
-2,Safe place / doorstep,-0.5442,negative,Evri
-3,Delivery speed,0.7351,positive,DPD
-5,Customer service,0.6437,positive,Royal Mail
-5,Delivery speed,0.6894,positive,Royal Mail
-6,Tracking & updates,0.5256,positive,Evri
-7,Customer service,0.6437,positive,Evri
-7,Delivery speed,0.72555,positive,Evri
-7,Driver behaviour,0.8074,positive,Evri
-8,Tracking & updates,0.4767,positive,Evri
-9,Delivery speed,0.4019,positive,Amazon Logistics
-9,Tracking & updates,0.4019,positive,Amazon Logistics
-10,Delivery speed,0.0,neutral,Evri
-10,Tracking & updates,0.0,neutral,Evri
-11,Safe place / doorstep,-0.4767,negative,Yodel
-12,Driver behaviour,0.0,neutral,DPD
-12,Parcel condition,0.5719,positive,DPD
-13,Delivery speed,0.5413,positive,Royal Mail
-13,Driver behaviour,0.27065,positive,Royal Mail
-13,Parcel condition,0.5719,positive,Royal Mail
-14,Delivery speed,0.0,neutral,DPD
-14,Tracking & updates,0.0,neutral,DPD
-15,Lost / not delivered,0.0,neutral,Amazon Logistics
-16,Delivery speed,0.7351,positive,DPD
-18,Customer service,-0.3612,negative,DPD
-18,Delivery speed,-0.3612,negative,DPD
-18,Lost / not delivered,0.0,neutral,DPD
-19,Delivery speed,0.0,neutral,Evri
-19,Tracking & updates,0.0,neutral,Evri
-20,Driver behaviour,0.0,neutral,DHL
-20,Parcel condition,0.5719,positive,DHL
-21,Tracking & updates,0.4767,positive,DPD
-22,Lost / not delivered,0.0,neutral,Evri
-23,Delivery speed,0.0,neutral,Evri
-23,Driver behaviour,0.0,neutral,Evri
-24,Tracking & updates,0.4767,positive,DPD
-25,Driver behaviour,-0.7003,negative,Yodel
-25,Parcel condition,-0.7003,negative,Yodel
-26,Delivery speed,0.1779,positive,Amazon Logistics
-26,Driver behaviour,0.08895,positive,Amazon Logistics
-26,Parcel condition,0.1779,positive,Amazon Logistics
-26,Safe place / doorstep,0.1779,positive,Amazon Logistics
-27,Driver behaviour,0.0,neutral,Royal Mail
-27,Parcel condition,0.5719,positive,Royal Mail
-28,Delivery speed,0.4019,positive,Amazon Logistics
-28,Tracking & updates,0.4019,positive,Amazon Logistics
-29,Tracking & updates,-0.1027,negative,DPD
-30,Tracking & updates,0.50115,positive,DHL
-31,Tracking & updates,0.4767,positive,InPost
-32,Customer service,0.0,neutral,Evri
-32,Lost / not delivered,-0.4588,negative,Evri
-33,Delivery speed,0.49255,positive,InPost
-33,Tracking & updates,0.25,positive,InPost
-34,Customer service,0.6437,positive,DPD
-34,Delivery speed,0.6437,positive,DPD
-35,Delivery speed,0.25,positive,DHL
-35,Driver behaviour,0.0,neutral,DHL
-35,Parcel condition,0.5719,positive,DHL
-35,Tracking & updates,0.25,positive,DHL
-37,Delivery speed,0.0,neutral,Royal Mail
-37,Tracking & updates,0.0,neutral,Royal Mail
-38,Delivery speed,0.0,neutral,Royal Mail
-38,Tracking & updates,0.0,neutral,Royal Mail
-39,Customer service,-0.5574,negative,DPD
-39,Delivery speed,-0.2787,negative,DPD
-39,Driver behaviour,0.0,neutral,DPD
-39,Lost / not delivered,-0.5574,negative,DPD
-40,Customer service,-0.5574,negative,DPD
-40,Delivery speed,-0.5574,negative,DPD
-40,Lost / not delivered,-0.5574,negative,DPD
-40,Parcel condition,-0.7003,negative,DPD
-41,Customer service,0.0,neutral,DPD
-41,Delivery speed,0.0,neutral,DPD
-41,Lost / not delivered,-0.4588,negative,DPD
-41,Tracking & updates,0.0,neutral,DPD
-42,Driver behaviour,-0.5442,negative,DPD
-42,Safe place / doorstep,-0.5442,negative,DPD
-43,Driver behaviour,-0.5442,negative,Evri
-43,Lost / not delivered,0.0,neutral,Evri
-43,Safe place / doorstep,-0.5442,negative,Evri
-44,Customer service,0.6437,positive,Yodel
-44,Delivery speed,0.6437,positive,Yodel
-44,Tracking & updates,0.4767,positive,Yodel
-45,Customer service,-0.5574,negative,Yodel
-45,Delivery speed,-0.5574,negative,Yodel
-45,Lost / not delivered,-0.5574,negative,Yodel
-45,Safe place / doorstep,0.0,neutral,Yodel
-47,Driver behaviour,0.0,neutral,Evri
-47,Parcel condition,0.0,neutral,Evri
-47,Safe place / doorstep,0.0,neutral,Evri
-48,Customer service,-0.4404,negative,Amazon Logistics
-48,Delivery speed,-0.5199,negative,Amazon Logistics
-48,Lost / not delivered,-0.4404,negative,Amazon Logistics
-49,Tracking & updates,-0.1027,negative,Yodel
-50,Delivery speed,0.0,neutral,Royal Mail
-50,Tracking & updates,0.0,neutral,Royal Mail
-51,Delivery speed,0.0,neutral,Yodel
-51,Tracking & updates,0.0,neutral,Yodel
-52,Safe place / doorstep,0.0,neutral,Evri
-53,Customer service,0.0,neutral,Yodel
-53,Lost / not delivered,-0.4588,negative,Yodel
-54,Delivery speed,0.0,neutral,DPD
-54,Tracking & updates,0.0,neutral,DPD
-55,Delivery speed,-0.5994,negative,Amazon Logistics
-56,Delivery speed,0.7351,positive,DPD
-57,Driver behaviour,-0.6249,negative,Amazon Logistics
-57,Parcel condition,-0.6249,negative,Amazon Logistics
-58,Driver behaviour,0.1779,positive,Amazon Logistics
-58,Parcel condition,0.5719,positive,Amazon Logistics
-59,Delivery speed,0.8074,positive,Evri
-59,Driver behaviour,0.8074,positive,Evri
-59,Tracking & updates,0.4767,positive,Evri
-61,Driver behaviour,0.0,neutral,DPD
-61,Parcel condition,0.5719,positive,DPD
-61,Tracking & updates,0.5256,positive,DPD
-62,Driver behaviour,-0.5442,negative,Yodel
-62,Safe place / doorstep,-0.5442,negative,Yodel
-63,Customer service,-0.5574,negative,Evri
-63,Delivery speed,-0.5574,negative,Evri
-63,Lost / not delivered,-0.5574,negative,Evri
-64,Delivery speed,0.67435,positive,DHL
-64,Driver behaviour,0.67435,positive,DHL
-65,Customer service,0.6437,positive,DHL
-65,Delivery speed,0.6437,positive,DHL
-66,Delivery speed,0.5413,positive,Evri
-66,Driver behaviour,0.5413,positive,Evri
-67,Delivery speed,0.0,neutral,Evri
-67,Driver behaviour,0.0,neutral,Evri
-67,Safe place / doorstep,-0.4767,negative,Evri
-69,Delivery speed,0.8074,positive,Royal Mail
-69,Driver behaviour,0.4037,positive,Royal Mail
-69,Parcel condition,0.5719,positive,Royal Mail
-70,Delivery speed,0.5413,positive,DPD
-70,Driver behaviour,0.5413,positive,DPD
-71,Customer service,-0.3612,negative,Yodel
-71,Delivery speed,-0.1806,negative,Yodel
-71,Tracking & updates,0.0,neutral,Yodel
-72,Safe place / doorstep,-0.4767,negative,DHL
-74,Tracking & updates,0.5256,positive,DPD
-75,Driver behaviour,0.0,neutral,DPD
-75,Parcel condition,0.5719,positive,DPD
-76,Delivery speed,0.0,neutral,Evri
-76,Tracking & updates,0.0,neutral,Evri
-77,Delivery speed,0.0,neutral,Yodel
-77,Driver behaviour,0.0,neutral,Yodel
-77,Safe place / doorstep,-0.4767,negative,Yodel
-79,Customer service,0.6437,positive,Evri
-79,Delivery speed,0.6437,positive,Evri
-80,Delivery speed,0.25,positive,Evri
-80,Tracking & updates,0.25,positive,Evri
-81,Driver behaviour,-0.7003,negative,Royal Mail
-81,Parcel condition,-0.7003,negative,Royal Mail
-82,Delivery speed,0.4019,positive,Amazon Logistics
-82,Tracking & updates,0.4019,positive,Amazon Logistics
-83,Customer service,-0.5574,negative,Evri
-83,Delivery speed,-0.5574,negative,Evri
-83,Lost / not delivered,-0.5574,negative,Evri
-84,Driver behaviour,0.0,neutral,DPD
-84,Parcel condition,0.5719,positive,DPD
-85,Delivery speed,0.0,neutral,Evri
-85,Driver behaviour,0.0,neutral,Evri
-86,Delivery speed,0.6361,positive,Amazon Logistics
-86,Driver behaviour,0.6361,positive,Amazon Logistics
-87,Customer service,0.6437,positive,DPD
-87,Delivery speed,0.6437,positive,DPD
-88,Lost / not delivered,0.0,neutral,Evri
-89,Customer service,-0.3612,negative,Royal Mail
-89,Delivery speed,-0.1806,negative,Royal Mail
-89,Tracking & updates,0.0,neutral,Royal Mail
-90,Driver behaviour,-0.7003,negative,Royal Mail
-90,Parcel condition,-0.7003,negative,Royal Mail
-91,Delivery speed,0.8074,positive,Yodel
-91,Driver behaviour,0.8074,positive,Yodel
-92,Tracking & updates,0.4767,positive,DHL
-93,Tracking & updates,-0.1027,negative,Evri
-94,Parcel condition,-0.7003,negative,Evri
-95,Delivery speed,0.8074,positive,DPD
-95,Driver behaviour,0.8074,positive,DPD
-95,Tracking & updates,0.4767,positive,DPD
-96,Customer service,0.0,neutral,Evri
-96,Driver behaviour,-0.5442,negative,Evri
-96,Lost / not delivered,-0.4588,negative,Evri
-96,Safe place / doorstep,-0.5442,negative,Evri
-97,Tracking & updates,-0.1027,negative,Evri
-99,Customer service,0.6437,positive,Yodel
-99,Delivery speed,0.6437,positive,Yodel
-100,Delivery speed,0.5413,positive,DPD
-100,Driver behaviour,0.5413,positive,DPD
-100,Tracking & updates,0.4767,positive,DPD
-101,Delivery speed,0.7845,positive,Amazon Logistics
-101,Tracking & updates,0.5859,positive,Amazon Logistics
-102,Tracking & updates,0.4767,positive,DHL
-103,Customer service,0.6437,positive,DPD
-103,Delivery speed,0.6437,positive,DPD
-104,Driver behaviour,-0.7003,negative,Evri
-104,Parcel condition,-0.7003,negative,Evri
-105,Delivery speed,0.77125,positive,InPost
-105,Driver behaviour,0.8074,positive,InPost
-106,Customer service,0.6437,positive,DPD
-106,Delivery speed,0.5925,positive,DPD
-106,Driver behaviour,0.5413,positive,DPD
-107,Customer service,-0.3612,negative,Yodel
-107,Delivery speed,-0.3612,negative,Yodel
-108,Customer service,0.0,neutral,Evri
-108,Lost / not delivered,-0.4588,negative,Evri
-109,Delivery speed,-0.6808,negative,Evri
-110,Safe place / doorstep,0.0,neutral,InPost
-111,Driver behaviour,-0.7003,negative,Evri
-111,Lost / not delivered,0.0,neutral,Evri
-111,Parcel condition,-0.7003,negative,Evri
-112,Delivery speed,0.8074,positive,DPD
-112,Driver behaviour,0.8074,positive,DPD
-113,Safe place / doorstep,0.0,neutral,Yodel
-114,Customer service,0.0,neutral,Evri
-114,Lost / not delivered,-0.4588,negative,Evri
-116,Delivery speed,0.8074,positive,DHL
-116,Driver behaviour,0.8074,positive,DHL
-116,Tracking & updates,0.5256,positive,DHL
-117,Delivery speed,0.6361,positive,Amazon Logistics
-117,Driver behaviour,0.6361,positive,Amazon Logistics
-118,Driver behaviour,0.0,neutral,Evri
-118,Parcel condition,0.0,neutral,Evri
-118,Safe place / doorstep,0.0,neutral,Evri
-119,Parcel condition,-0.7003,negative,Yodel
-119,Safe place / doorstep,-0.4767,negative,Yodel
-120,Lost / not delivered,0.0,neutral,Evri
-121,Customer service,0.0,neutral,Evri
-121,Delivery speed,-0.6808,negative,Evri
-121,Lost / not delivered,-0.4588,negative,Evri
-123,Tracking & updates,0.5256,positive,DPD
-124,Delivery speed,0.0,neutral,Evri
-124,Driver behaviour,0.0,neutral,Evri
-125,Delivery speed,0.25,positive,Royal Mail
-125,Tracking & updates,0.25,positive,Royal Mail
-126,Customer service,0.6437,positive,DHL
-126,Delivery speed,0.6437,positive,DHL
-127,Delivery speed,0.7351,positive,DHL
-128,Driver behaviour,0.0,neutral,Evri
-128,Parcel condition,0.5719,positive,Evri
-129,Customer service,0.6437,positive,Evri
-129,Delivery speed,0.6437,positive,Evri
-129,Tracking & updates,0.5256,positive,Evri
-131,Delivery speed,0.25,positive,Evri
-131,Tracking & updates,0.25,positive,Evri
-132,Delivery speed,0.0,neutral,Yodel
-132,Driver behaviour,0.0,neutral,Yodel
-134,Safe place / doorstep,0.0,neutral,Evri
-136,Delivery speed,0.0,neutral,Evri
-136,Tracking & updates,0.0,neutral,Evri
-137,Delivery speed,0.7845,positive,Amazon Logistics
-137,Driver behaviour,0.1779,positive,Amazon Logistics
-137,Parcel condition,0.5719,positive,Amazon Logistics
-138,Customer service,-0.5574,negative,Yodel
-138,Delivery speed,-0.5574,negative,Yodel
-138,Lost / not delivered,-0.5574,negative,Yodel
-139,Tracking & updates,0.5256,positive,Royal Mail
-140,Tracking & updates,0.5256,positive,DHL
-141,Delivery speed,-0.6808,negative,DPD
-142,Delivery speed,0.8074,positive,DPD
-142,Driver behaviour,0.8074,positive,DPD
-144,Delivery speed,0.0,neutral,Evri
-144,Tracking & updates,0.0,neutral,Evri
-146,Customer service,-0.3612,negative,Evri
-146,Delivery speed,-0.3612,negative,Evri
-147,Tracking & updates,0.4767,positive,DHL
-148,Driver behaviour,0.0,neutral,Royal Mail
-148,Parcel condition,0.0,neutral,Royal Mail
-148,Safe place / doorstep,0.0,neutral,Royal Mail
-149,Delivery speed,0.6361,positive,Amazon Logistics
-149,Driver behaviour,0.6361,positive,Amazon Logistics
-150,Customer service,0.7147,positive,Amazon Logistics
-150,Delivery speed,0.7147,positive,Amazon Logistics
-151,Delivery speed,0.5413,positive,Royal Mail
-151,Driver behaviour,0.5413,positive,Royal Mail
-152,Delivery speed,0.0,neutral,Yodel
-152,Driver behaviour,0.0,neutral,Yodel
-153,Delivery speed,0.25,positive,Royal Mail
-153,Tracking & updates,0.25,positive,Royal Mail
-154,Delivery speed,0.25,positive,DPD
-154,Tracking & updates,0.25,positive,DPD
-155,Tracking & updates,0.4767,positive,Evri
-156,Delivery speed,0.0,neutral,DPD
-156,Driver behaviour,0.0,neutral,DPD
-157,Customer service,0.6437,positive,Royal Mail
-157,Delivery speed,0.6894,positive,Royal Mail
-158,Delivery speed,0.5413,positive,Yodel
-158,Driver behaviour,0.5413,positive,Yodel
-160,Delivery speed,0.8402,positive,Amazon Logistics
-160,Driver behaviour,0.8402,positive,Amazon Logistics
-161,Customer service,0.6437,positive,DPD
-161,Delivery speed,0.6894,positive,DPD
-162,Driver behaviour,0.0,neutral,Royal Mail
-162,Parcel condition,0.0,neutral,Royal Mail
-162,Safe place / doorstep,0.0,neutral,Royal Mail
-163,Tracking & updates,-0.1027,negative,DHL
-164,Delivery speed,0.25,positive,DPD
-164,Tracking & updates,0.25,positive,DPD
-165,Tracking & updates,0.4767,positive,DPD
-166,Customer service,-0.5574,negative,Royal Mail
-166,Delivery speed,-0.6191,negative,Royal Mail
-166,Lost / not delivered,-0.5574,negative,Royal Mail
-167,Customer service,-0.45930000000000004,negative,Yodel
-167,Delivery speed,-0.45930000000000004,negative,Yodel
-167,Lost / not delivered,-0.5574,negative,Yodel
-168,Customer service,-0.5574,negative,Royal Mail
-168,Delivery speed,-0.5574,negative,Royal Mail
-168,Driver behaviour,-0.5442,negative,Royal Mail
-168,Lost / not delivered,-0.5574,negative,Royal Mail
-168,Safe place / doorstep,-0.5442,negative,Royal Mail
-169,Safe place / doorstep,-0.4767,negative,Evri
-170,Customer service,0.6437,positive,InPost
-170,Delivery speed,0.6437,positive,InPost
-171,Customer service,0.6437,positive,Royal Mail
-171,Delivery speed,0.6437,positive,Royal Mail
-172,Tracking & updates,0.5256,positive,Royal Mail
-173,Customer service,-0.3612,negative,Royal Mail
-173,Delivery speed,-0.1806,negative,Royal Mail
-173,Driver behaviour,0.0,neutral,Royal Mail
-174,Tracking & updates,0.5256,positive,Evri
-175,Customer service,0.6437,positive,DPD
-175,Delivery speed,0.6894,positive,DPD
-176,Delivery speed,0.5413,positive,DHL
-176,Driver behaviour,0.5413,positive,DHL
-176,Tracking & updates,0.4767,positive,DHL
-177,Customer service,0.6437,positive,Royal Mail
-177,Delivery speed,0.6437,positive,Royal Mail
-178,Customer service,0.0,neutral,Yodel
-178,Driver behaviour,0.0,neutral,Yodel
-178,Lost / not delivered,-0.4588,negative,Yodel
-178,Parcel condition,0.0,neutral,Yodel
-178,Safe place / doorstep,0.0,neutral,Yodel
-179,Delivery speed,0.25,positive,InPost
-179,Driver behaviour,0.0,neutral,InPost
-179,Parcel condition,0.5719,positive,InPost
-179,Tracking & updates,0.25,positive,InPost
-180,Customer service,0.6437,positive,Yodel
-180,Delivery speed,0.6437,positive,Yodel
-180,Tracking & updates,0.4767,positive,Yodel
-181,Customer service,0.6437,positive,DPD
-181,Delivery speed,0.72555,positive,DPD
-181,Driver behaviour,0.8074,positive,DPD
-182,Lost / not delivered,0.0,neutral,Yodel
-183,Delivery speed,0.8074,positive,DHL
-183,Driver behaviour,0.8074,positive,DHL
-184,Customer service,0.0,neutral,Evri
-184,Lost / not delivered,-0.4588,negative,Evri
-185,Driver behaviour,-0.7003,negative,Evri
-185,Parcel condition,-0.7003,negative,Evri
-185,Safe place / doorstep,-0.4767,negative,Evri
-186,Delivery speed,0.7351,positive,Royal Mail
-186,Driver behaviour,0.0,neutral,Royal Mail
-186,Parcel condition,0.5719,positive,Royal Mail
-187,Delivery speed,0.5413,positive,DPD
-187,Driver behaviour,0.5413,positive,DPD
-188,Customer service,0.0,neutral,Evri
-188,Lost / not delivered,-0.4588,negative,Evri
-188,Safe place / doorstep,0.0,neutral,Evri
-189,Driver behaviour,-0.7003,negative,Royal Mail
-189,Parcel condition,-0.7003,negative,Royal Mail
-190,Tracking & updates,-0.1027,negative,Evri
-191,Delivery speed,0.5413,positive,DPD
-191,Driver behaviour,0.5413,positive,DPD
-192,Tracking & updates,0.4767,positive,DPD
-193,Delivery speed,0.0,neutral,Yodel
-193,Safe place / doorstep,0.0,neutral,Yodel
-193,Tracking & updates,0.0,neutral,Yodel
-194,Delivery speed,0.6382,positive,Yodel
-194,Driver behaviour,0.5413,positive,Yodel
-195,Customer service,-0.3612,negative,Evri
-195,Delivery speed,-0.3612,negative,Evri
-195,Safe place / doorstep,-0.4767,negative,Evri
-196,Tracking & updates,-0.1027,negative,Evri
-197,Delivery speed,0.0,neutral,Evri
-197,Tracking & updates,0.0,neutral,Evri
-198,Tracking & updates,-0.1027,negative,Evri
-199,Delivery speed,0.5413,positive,Evri
-199,Driver behaviour,0.5413,positive,Evri
-200,Parcel condition,-0.7003,negative,Amazon Logistics
-201,Customer service,-0.2787,negative,Evri
-201,Delivery speed,-0.5574,negative,Evri
-201,Lost / not delivered,-0.5081,negative,Evri
-203,Customer service,-0.3612,negative,Evri
-203,Delivery speed,-0.1806,negative,Evri
-203,Driver behaviour,0.0,neutral,Evri
-204,Tracking & updates,0.4767,positive,DPD
-205,Delivery speed,0.25,positive,Yodel
-205,Tracking & updates,0.25,positive,Yodel
-206,Delivery speed,0.1779,positive,Amazon Logistics
-206,Tracking & updates,0.1779,positive,Amazon Logistics
-207,Customer service,0.0,neutral,Evri
-207,Lost / not delivered,-0.4588,negative,Evri
-207,Safe place / doorstep,0.0,neutral,Evri
-208,Tracking & updates,0.5256,positive,Royal Mail
-209,Tracking & updates,0.4767,positive,Evri
-210,Tracking & updates,-0.1027,negative,Evri
-211,Tracking & updates,0.4767,positive,Royal Mail
-212,Tracking & updates,0.5256,positive,DPD
-213,Customer service,-0.3612,negative,DPD
-213,Delivery speed,-0.3612,negative,DPD
-213,Safe place / doorstep,-0.4767,negative,DPD
-214,Customer service,-0.3612,negative,DHL
-214,Delivery speed,-0.3612,negative,DHL
-214,Driver behaviour,-0.5442,negative,DHL
-214,Safe place / doorstep,-0.5442,negative,DHL
-215,Delivery speed,0.8074,positive,Royal Mail
-215,Driver behaviour,0.8074,positive,Royal Mail
-216,Customer service,0.0,neutral,Royal Mail
-216,Lost / not delivered,-0.4588,negative,Royal Mail
-217,Tracking & updates,0.5256,positive,DPD
-218,Delivery speed,0.7845,positive,Amazon Logistics
-219,Driver behaviour,0.0,neutral,Royal Mail
-219,Parcel condition,0.5719,positive,Royal Mail
-220,Delivery speed,0.5413,positive,Royal Mail
-220,Driver behaviour,0.5413,positive,Royal Mail
-221,Driver behaviour,-0.7003,negative,DPD
-221,Lost / not delivered,0.0,neutral,DPD
-221,Parcel condition,-0.7003,negative,DPD
-222,Driver behaviour,-0.7003,negative,DPD
-222,Parcel condition,-0.7003,negative,DPD
-223,Delivery speed,0.5413,positive,Royal Mail
-223,Driver behaviour,0.5413,positive,Royal Mail
-224,Customer service,-0.5574,negative,DPD
-224,Delivery speed,-0.5574,negative,DPD
-224,Lost / not delivered,-0.5574,negative,DPD
-225,Delivery speed,0.5413,positive,Evri
-225,Driver behaviour,0.5413,positive,Evri
-226,Customer service,0.6437,positive,Evri
-226,Delivery speed,0.6437,positive,Evri
-227,Customer service,0.6437,positive,DPD
-227,Delivery speed,0.6437,positive,DPD
-227,Driver behaviour,0.0,neutral,DPD
-227,Parcel condition,0.5719,positive,DPD
-228,Tracking & updates,0.5256,positive,DPD
-230,Delivery speed,-0.6808,negative,DPD
-230,Driver behaviour,-0.7003,negative,DPD
-230,Parcel condition,-0.7003,negative,DPD
-231,Tracking & updates,0.5859,positive,Amazon Logistics
-232,Driver behaviour,0.0,neutral,DHL
-232,Parcel condition,0.5719,positive,DHL
-233,Tracking & updates,0.4767,positive,DPD
-234,Tracking & updates,0.4767,positive,Evri
-235,Delivery speed,0.25,positive,Evri
-235,Tracking & updates,0.25,positive,Evri
-236,Customer service,0.0,neutral,DHL
-236,Lost / not delivered,-0.4588,negative,DHL
-237,Delivery speed,0.7351,positive,InPost
-238,Delivery speed,0.0,neutral,Evri
-238,Driver behaviour,-0.2721,negative,Evri
-238,Safe place / doorstep,-0.5442,negative,Evri
-239,Customer service,-0.5574,negative,Evri
-239,Delivery speed,-0.5574,negative,Evri
-239,Lost / not delivered,-0.2787,negative,Evri
-240,Customer service,0.0,neutral,Royal Mail
-240,Lost / not delivered,-0.4588,negative,Royal Mail
-241,Driver behaviour,-0.5442,negative,Royal Mail
-241,Safe place / doorstep,-0.5442,negative,Royal Mail
-242,Tracking & updates,0.4767,positive,Royal Mail
-243,Driver behaviour,-0.5442,negative,Royal Mail
-243,Lost / not delivered,0.0,neutral,Royal Mail
-243,Safe place / doorstep,-0.5442,negative,Royal Mail
-244,Parcel condition,-0.7003,negative,Evri
-245,Driver behaviour,-0.5442,negative,Royal Mail
-245,Safe place / doorstep,-0.5442,negative,Royal Mail
-246,Customer service,0.0,neutral,Evri
-246,Lost / not delivered,-0.2294,negative,Evri
-247,Delivery speed,0.7351,positive,DPD
-247,Tracking & updates,0.5256,positive,DPD
-248,Driver behaviour,-0.5442,negative,Evri
-248,Parcel condition,-0.7003,negative,Evri
-248,Safe place / doorstep,-0.5442,negative,Evri
-249,Delivery speed,0.5413,positive,Evri
-249,Driver behaviour,0.5413,positive,Evri
-250,Tracking & updates,0.5256,positive,Yodel
-251,Customer service,-0.4404,negative,Amazon Logistics
-251,Delivery speed,-0.4404,negative,Amazon Logistics
-251,Lost / not delivered,-0.2202,negative,Amazon Logistics
-252,Delivery speed,0.7351,positive,Yodel
-252,Driver behaviour,0.0,neutral,Yodel
-252,Parcel condition,0.5719,positive,Yodel
-253,Customer service,0.0,neutral,DPD
-253,Lost / not delivered,-0.4588,negative,DPD
-253,Safe place / doorstep,-0.4767,negative,DPD
-255,Delivery speed,-0.6808,negative,DPD
-256,Tracking & updates,0.4767,positive,InPost
-259,Delivery speed,0.8074,positive,Royal Mail
-259,Driver behaviour,0.4037,positive,Royal Mail
-259,Parcel condition,0.5719,positive,Royal Mail
-260,Customer service,0.6437,positive,Evri
-260,Delivery speed,0.6437,positive,Evri
-261,Tracking & updates,0.4767,positive,Royal Mail
-263,Delivery speed,0.8074,positive,DPD
-263,Driver behaviour,0.8074,positive,DPD
-263,Tracking & updates,0.5256,positive,DPD
-264,Driver behaviour,0.0,neutral,DPD
-264,Parcel condition,0.5719,positive,DPD
-265,Customer service,0.0,neutral,Amazon Logistics
-265,Lost / not delivered,-0.3182,negative,Amazon Logistics
-266,Delivery speed,0.7351,positive,Royal Mail
-266,Driver behaviour,0.0,neutral,Royal Mail
-266,Parcel condition,0.5719,positive,Royal Mail
-267,Driver behaviour,-0.35015,negative,Yodel
-267,Parcel condition,-0.35015,negative,Yodel
-267,Safe place / doorstep,0.0,neutral,Yodel
-268,Delivery speed,0.25,positive,Royal Mail
-268,Tracking & updates,0.25,positive,Royal Mail
-269,Driver behaviour,-0.7003,negative,Yodel
-269,Parcel condition,-0.7003,negative,Yodel
-270,Delivery speed,0.7351,positive,DPD
-271,Delivery speed,0.0,neutral,Evri
-271,Tracking & updates,0.0,neutral,Evri
-272,Safe place / doorstep,-0.4767,negative,Evri
-273,Tracking & updates,0.4767,positive,Royal Mail
-274,Tracking & updates,0.5256,positive,Royal Mail
-276,Customer service,0.0,neutral,Evri
-276,Lost / not delivered,-0.4588,negative,Evri
-277,Delivery speed,0.8402,positive,Amazon Logistics
-277,Driver behaviour,0.8402,positive,Amazon Logistics
-278,Safe place / doorstep,-0.4767,negative,Yodel
-279,Customer service,0.6437,positive,DPD
-279,Delivery speed,0.6437,positive,DPD
-280,Customer service,-0.2023,negative,Amazon Logistics
-280,Delivery speed,-0.2023,negative,Amazon Logistics
-280,Driver behaviour,-0.6249,negative,Amazon Logistics
-280,Parcel condition,-0.6249,negative,Amazon Logistics
-281,Delivery speed,0.25,positive,DPD
-281,Tracking & updates,0.25,positive,DPD
-282,Tracking & updates,0.5256,positive,Evri
-283,Delivery speed,0.5413,positive,DPD
-283,Driver behaviour,0.5413,positive,DPD
-285,Tracking & updates,-0.1027,negative,Evri
-286,Tracking & updates,0.5256,positive,DPD
-288,Delivery speed,0.39565,positive,DPD
-288,Driver behaviour,0.5413,positive,DPD
-288,Tracking & updates,0.25,positive,DPD
-289,Delivery speed,0.5413,positive,DPD
-289,Driver behaviour,0.5413,positive,DPD
-291,Driver behaviour,0.0,neutral,DPD
-291,Parcel condition,0.5719,positive,DPD
-292,Delivery speed,-0.6808,negative,Royal Mail
-293,Tracking & updates,-0.1027,negative,DHL
-294,Customer service,0.0,neutral,Evri
-294,Lost / not delivered,-0.4588,negative,Evri
-295,Delivery speed,0.4019,positive,Amazon Logistics
-295,Tracking & updates,0.4019,positive,Amazon Logistics
-296,Customer service,0.0,neutral,Amazon Logistics
-296,Lost / not delivered,-0.3182,negative,Amazon Logistics
-297,Customer service,0.6437,positive,Evri
-297,Delivery speed,0.6437,positive,Evri
-297,Tracking & updates,0.4767,positive,Evri
-298,Driver behaviour,-0.7003,negative,DHL
-298,Parcel condition,-0.7003,negative,DHL
-299,Delivery speed,0.0,neutral,InPost
-299,Driver behaviour,0.0,neutral,InPost
-300,Delivery speed,0.5413,positive,Yodel
-300,Driver behaviour,0.5413,positive,Yodel
-301,Tracking & updates,0.4767,positive,Evri
-302,Driver behaviour,0.1779,positive,Amazon Logistics
-302,Parcel condition,0.5719,positive,Amazon Logistics
-303,Delivery speed,-0.6808,negative,Evri
-304,Delivery speed,0.25,positive,Yodel
-304,Tracking & updates,0.25,positive,Yodel
-305,Delivery speed,0.39565,positive,Yodel
-305,Driver behaviour,0.5413,positive,Yodel
-305,Tracking & updates,0.25,positive,Yodel
-306,Delivery speed,0.6361,positive,Amazon Logistics
-306,Driver behaviour,0.6361,positive,Amazon Logistics
-307,Tracking & updates,0.5256,positive,Yodel
-308,Parcel condition,-0.7003,negative,Yodel
-309,Tracking & updates,0.5256,positive,Evri
-310,Customer service,0.0,neutral,Evri
-310,Lost / not delivered,-0.4588,negative,Evri
-311,Delivery speed,0.8074,positive,DPD
-311,Driver behaviour,0.8074,positive,DPD
-311,Tracking & updates,0.4767,positive,DPD
-312,Customer service,-0.3612,negative,Royal Mail
-312,Delivery speed,-0.3612,negative,Royal Mail
-313,Customer service,0.0,neutral,Royal Mail
-313,Lost / not delivered,-0.4588,negative,Royal Mail
-313,Parcel condition,-0.7003,negative,Royal Mail
-314,Driver behaviour,-0.7003,negative,Royal Mail
-314,Parcel condition,-0.7003,negative,Royal Mail
-316,Lost / not delivered,0.0,neutral,Yodel
-317,Driver behaviour,0.0,neutral,DPD
-317,Parcel condition,0.5719,positive,DPD
-318,Delivery speed,0.1779,positive,Amazon Logistics
-318,Driver behaviour,-0.4238,negative,Amazon Logistics
-318,Safe place / doorstep,-0.4238,negative,Amazon Logistics
-318,Tracking & updates,0.1779,positive,Amazon Logistics
-319,Delivery speed,0.0,neutral,Yodel
-319,Tracking & updates,0.0,neutral,Yodel
-320,Customer service,0.0,neutral,Yodel
-320,Lost / not delivered,-0.2294,negative,Yodel
-321,Delivery speed,-0.6808,negative,Evri
-322,Tracking & updates,0.4767,positive,InPost
-324,Delivery speed,0.4019,positive,Amazon Logistics
-324,Tracking & updates,0.4019,positive,Amazon Logistics
-325,Driver behaviour,0.0,neutral,DPD
-325,Parcel condition,0.5719,positive,DPD
-326,Customer service,0.6437,positive,DHL
-326,Delivery speed,0.5925,positive,DHL
-326,Driver behaviour,0.5413,positive,DHL
-327,Delivery speed,0.8074,positive,DHL
-327,Driver behaviour,0.4037,positive,DHL
-327,Parcel condition,0.5719,positive,DHL
-328,Tracking & updates,0.4767,positive,Evri
-329,Delivery speed,0.7351,positive,Yodel
-330,Driver behaviour,-0.7003,negative,Royal Mail
-330,Lost / not delivered,0.0,neutral,Royal Mail
-330,Parcel condition,-0.7003,negative,Royal Mail
-331,Tracking & updates,-0.1027,negative,DPD
-332,Customer service,-0.3612,negative,DPD
-332,Delivery speed,-0.3612,negative,DPD
-333,Delivery speed,0.5413,positive,DPD
-333,Driver behaviour,0.5413,positive,DPD
-334,Delivery speed,-0.6808,negative,DPD
-335,Delivery speed,-0.6808,negative,Evri
-336,Customer service,-0.1806,negative,Evri
-336,Delivery speed,-0.3612,negative,Evri
-336,Lost / not delivered,-0.4588,negative,Evri
-337,Driver behaviour,-0.7003,negative,Yodel
-337,Parcel condition,-0.7003,negative,Yodel
-338,Customer service,0.0,neutral,Royal Mail
-338,Lost / not delivered,-0.4588,negative,Royal Mail
-338,Safe place / doorstep,-0.4767,negative,Royal Mail
-340,Delivery speed,0.0,neutral,Royal Mail
-340,Parcel condition,-0.7003,negative,Royal Mail
-340,Tracking & updates,0.0,neutral,Royal Mail
-341,Driver behaviour,0.0,neutral,InPost
-341,Parcel condition,0.5719,positive,InPost
-342,Safe place / doorstep,0.0,neutral,Evri
-343,Delivery speed,0.0,neutral,Royal Mail
-343,Driver behaviour,0.0,neutral,Royal Mail
-344,Tracking & updates,-0.1027,negative,Evri
-345,Delivery speed,0.8074,positive,DPD
-345,Driver behaviour,0.4037,positive,DPD
-345,Parcel condition,0.5719,positive,DPD
-346,Tracking & updates,0.5256,positive,Evri
-348,Tracking & updates,0.4767,positive,Royal Mail
-349,Tracking & updates,0.4767,positive,Yodel
-350,Delivery speed,0.25,positive,InPost
-350,Tracking & updates,0.25,positive,InPost
-351,Delivery speed,0.5413,positive,Royal Mail
-351,Driver behaviour,0.5413,positive,Royal Mail
-352,Tracking & updates,0.5256,positive,Royal Mail
-353,Customer service,0.6437,positive,Royal Mail
-353,Delivery speed,0.6437,positive,Royal Mail
-354,Delivery speed,0.6382,positive,DPD
-354,Driver behaviour,0.5413,positive,DPD
-356,Delivery speed,0.8074,positive,DPD
-356,Driver behaviour,0.8074,positive,DPD
-358,Delivery speed,-0.6808,negative,Royal Mail
-359,Delivery speed,0.8074,positive,DPD
-359,Driver behaviour,0.8074,positive,DPD
-360,Delivery speed,0.7351,positive,Evri
-361,Customer service,-0.3612,negative,DPD
-361,Delivery speed,-0.3612,negative,DPD
-361,Safe place / doorstep,-0.4767,negative,DPD
-362,Delivery speed,0.8074,positive,DPD
-362,Driver behaviour,0.8074,positive,DPD
-363,Delivery speed,0.25,positive,InPost
-363,Tracking & updates,0.25,positive,InPost
-364,Delivery speed,0.5413,positive,Evri
-364,Driver behaviour,0.5413,positive,Evri
-364,Tracking & updates,0.4767,positive,Evri
-365,Customer service,0.6437,positive,DPD
-365,Delivery speed,0.6437,positive,DPD
-365,Tracking & updates,0.5256,positive,DPD
-366,Customer service,0.6437,positive,DPD
-366,Delivery speed,0.44685,positive,DPD
-366,Tracking & updates,0.25,positive,DPD
-367,Customer service,0.6437,positive,Evri
-367,Delivery speed,0.6437,positive,Evri
-368,Delivery speed,0.1779,positive,Amazon Logistics
-368,Parcel condition,-0.7003,negative,Amazon Logistics
-368,Tracking & updates,0.1779,positive,Amazon Logistics
-369,Delivery speed,0.7351,positive,InPost
-370,Delivery speed,0.7351,positive,Royal Mail
-371,Tracking & updates,0.5859,positive,Amazon Logistics
-372,Driver behaviour,-0.5442,negative,Evri
-372,Safe place / doorstep,-0.5104500000000001,negative,Evri
-373,Driver behaviour,0.0,neutral,Evri
-373,Parcel condition,0.5719,positive,Evri
-374,Delivery speed,0.25,positive,Yodel
-374,Tracking & updates,0.25,positive,Yodel
-375,Driver behaviour,0.0,neutral,Evri
-375,Parcel condition,0.0,neutral,Evri
-375,Safe place / doorstep,0.0,neutral,Evri
-376,Customer service,0.6437,positive,Royal Mail
-376,Delivery speed,0.5925,positive,Royal Mail
-376,Driver behaviour,0.5413,positive,Royal Mail
-377,Delivery speed,0.5413,positive,Evri
-377,Driver behaviour,0.27065,positive,Evri
-377,Parcel condition,0.5719,positive,Evri
-378,Driver behaviour,-0.5442,negative,Yodel
-378,Safe place / doorstep,-0.5442,negative,Yodel
-379,Customer service,-0.5574,negative,Royal Mail
-379,Delivery speed,-0.5574,negative,Royal Mail
-379,Lost / not delivered,-0.5574,negative,Royal Mail
-381,Delivery speed,-0.6808,negative,Yodel
-382,Delivery speed,0.25,positive,DPD
-382,Tracking & updates,0.25,positive,DPD
-383,Tracking & updates,0.5256,positive,Evri
-384,Driver behaviour,0.0,neutral,Yodel
-384,Parcel condition,0.0,neutral,Yodel
-384,Safe place / doorstep,0.0,neutral,Yodel
-385,Delivery speed,0.5413,positive,DPD
-385,Driver behaviour,0.5413,positive,DPD
-386,Delivery speed,0.7845,positive,Amazon Logistics
-386,Tracking & updates,0.5859,positive,Amazon Logistics
-387,Safe place / doorstep,-0.4767,negative,DPD
-388,Delivery speed,0.5413,positive,Yodel
-388,Driver behaviour,0.5413,positive,Yodel
-388,Tracking & updates,0.5256,positive,Yodel
-389,Customer service,0.6437,positive,DPD
-389,Delivery speed,0.6437,positive,DPD
-390,Delivery speed,0.0,neutral,Yodel
-390,Tracking & updates,0.0,neutral,Yodel
-391,Driver behaviour,0.0,neutral,DPD
-391,Parcel condition,0.5719,positive,DPD
-392,Delivery speed,0.0,neutral,Evri
-392,Driver behaviour,0.0,neutral,Evri
-393,Delivery speed,0.7351,positive,Evri
-394,Delivery speed,0.8074,positive,Royal Mail
-394,Driver behaviour,0.8074,positive,Royal Mail
-395,Customer service,0.6437,positive,Royal Mail
-395,Delivery speed,0.6437,positive,Royal Mail
-396,Driver behaviour,0.0,neutral,Evri
-396,Parcel condition,0.5719,positive,Evri
-397,Delivery speed,0.49255,positive,Yodel
-397,Tracking & updates,0.25,positive,Yodel
-398,Driver behaviour,0.0,neutral,Evri
-398,Parcel condition,0.0,neutral,Evri
-398,Safe place / doorstep,0.0,neutral,Evri
-399,Delivery speed,0.5413,positive,DHL
-399,Driver behaviour,0.5413,positive,DHL
-400,Delivery speed,-0.6808,negative,Evri
-402,Driver behaviour,0.0,neutral,Evri
-402,Parcel condition,0.5719,positive,Evri
-403,Customer service,0.6437,positive,DPD
-403,Delivery speed,0.5925,positive,DPD
-403,Driver behaviour,0.5413,positive,DPD
-404,Delivery speed,0.5413,positive,Evri
-404,Driver behaviour,0.5413,positive,Evri
-405,Customer service,-0.3612,negative,Yodel
-405,Delivery speed,-0.1806,negative,Yodel
-405,Driver behaviour,0.0,neutral,Yodel
-406,Delivery speed,0.49255,positive,Royal Mail
-406,Tracking & updates,0.25,positive,Royal Mail
-407,Delivery speed,0.25,positive,Royal Mail
-407,Tracking & updates,0.25,positive,Royal Mail
-408,Delivery speed,0.7351,positive,DPD
-409,Customer service,0.0,neutral,Evri
-409,Lost / not delivered,-0.4588,negative,Evri
-409,Safe place / doorstep,-0.4767,negative,Evri
-410,Driver behaviour,0.0,neutral,Evri
-410,Parcel condition,0.0,neutral,Evri
-410,Safe place / doorstep,0.0,neutral,Evri
-411,Tracking & updates,0.4767,positive,Evri
-412,Delivery speed,0.7351,positive,DPD
-413,Delivery speed,0.8074,positive,Royal Mail
-413,Driver behaviour,0.8074,positive,Royal Mail
-414,Lost / not delivered,0.0,neutral,Amazon Logistics
-415,Driver behaviour,0.0,neutral,DPD
-415,Parcel condition,0.5719,positive,DPD
-416,Lost / not delivered,0.0,neutral,Evri
-417,Lost / not delivered,0.0,neutral,Evri
-418,Delivery speed,-0.6808,negative,Yodel
-419,Lost / not delivered,0.0,neutral,DPD
-421,Tracking & updates,-0.1027,negative,Amazon Logistics
-422,Delivery speed,0.25,positive,DPD
-422,Tracking & updates,0.25,positive,DPD
-423,Delivery speed,0.5413,positive,DPD
-423,Driver behaviour,0.5413,positive,DPD
-424,Delivery speed,0.0,neutral,Royal Mail
-424,Safe place / doorstep,0.0,neutral,Royal Mail
-424,Tracking & updates,0.0,neutral,Royal Mail
-425,Customer service,0.0,neutral,Royal Mail
-425,Lost / not delivered,-0.2294,negative,Royal Mail
-427,Driver behaviour,0.0,neutral,Evri
-427,Parcel condition,0.0,neutral,Evri
-427,Safe place / doorstep,0.0,neutral,Evri
-428,Delivery speed,0.7351,positive,InPost
-429,Delivery speed,0.25,positive,DPD
-429,Tracking & updates,0.25,positive,DPD
-430,Tracking & updates,0.5256,positive,Royal Mail
-431,Delivery speed,0.25,positive,Evri
-431,Tracking & updates,0.25,positive,Evri
-432,Lost / not delivered,0.0,neutral,Evri
-433,Delivery speed,0.8074,positive,Evri
-433,Driver behaviour,0.8074,positive,Evri
-434,Delivery speed,0.0,neutral,Evri
-434,Driver behaviour,0.0,neutral,Evri
-434,Parcel condition,-0.7003,negative,Evri
-436,Delivery speed,0.25,positive,DPD
-436,Tracking & updates,0.25,positive,DPD
-437,Customer service,-0.3612,negative,Yodel
-437,Delivery speed,-0.3612,negative,Yodel
-438,Driver behaviour,-0.35015,negative,Yodel
-438,Parcel condition,-0.35015,negative,Yodel
-438,Safe place / doorstep,0.0,neutral,Yodel
-439,Delivery speed,0.7351,positive,DHL
-439,Driver behaviour,0.0,neutral,DHL
-439,Parcel condition,0.5719,positive,DHL
-440,Driver behaviour,-0.5442,negative,Royal Mail
-440,Safe place / doorstep,-0.5442,negative,Royal Mail
-441,Customer service,-0.3612,negative,Evri
-441,Delivery speed,-0.3612,negative,Evri
-443,Delivery speed,-0.6808,negative,Evri
-444,Customer service,0.6437,positive,Evri
-444,Delivery speed,0.6437,positive,Evri
-444,Driver behaviour,0.0,neutral,Evri
-444,Parcel condition,0.5719,positive,Evri
-445,Delivery speed,0.0,neutral,Evri
-445,Parcel condition,-0.7003,negative,Evri
-445,Tracking & updates,0.0,neutral,Evri
-446,Customer service,0.0,neutral,Evri
-446,Lost / not delivered,-0.4588,negative,Evri
-447,Customer service,-0.3612,negative,Yodel
-447,Delivery speed,-0.1806,negative,Yodel
-447,Driver behaviour,0.0,neutral,Yodel
-448,Tracking & updates,0.5256,positive,Yodel
-449,Delivery speed,-0.6808,negative,DPD
-450,Tracking & updates,0.5256,positive,Yodel
-451,Delivery speed,0.6361,positive,Amazon Logistics
-451,Driver behaviour,0.6361,positive,Amazon Logistics
-451,Tracking & updates,0.5859,positive,Amazon Logistics
-453,Safe place / doorstep,0.0,neutral,Yodel
-454,Customer service,0.6437,positive,DPD
-454,Delivery speed,0.6437,positive,DPD
-455,Delivery speed,-0.6808,negative,Evri
-456,Customer service,0.7147,positive,Amazon Logistics
-456,Delivery speed,0.7147,positive,Amazon Logistics
-456,Driver behaviour,0.1779,positive,Amazon Logistics
-456,Parcel condition,0.5719,positive,Amazon Logistics
-457,Delivery speed,0.5413,positive,Royal Mail
-457,Driver behaviour,0.5413,positive,Royal Mail
-458,Tracking & updates,0.6566,positive,Amazon Logistics
-459,Delivery speed,0.0,neutral,DPD
-459,Driver behaviour,0.0,neutral,DPD
-460,Delivery speed,0.25,positive,Yodel
-460,Tracking & updates,0.25,positive,Yodel
-461,Safe place / doorstep,0.0,neutral,Royal Mail
-462,Customer service,0.6437,positive,DHL
-462,Delivery speed,0.6437,positive,DHL
-463,Customer service,0.0,neutral,Evri
-463,Lost / not delivered,-0.2294,negative,Evri
-464,Delivery speed,0.25,positive,Yodel
-464,Tracking & updates,0.25,positive,Yodel
-465,Driver behaviour,0.0,neutral,Yodel
-465,Parcel condition,0.0,neutral,Yodel
-465,Safe place / doorstep,0.0,neutral,Yodel
-466,Driver behaviour,0.1779,positive,Amazon Logistics
-466,Parcel condition,0.5719,positive,Amazon Logistics
-466,Tracking & updates,0.6566,positive,Amazon Logistics
-467,Driver behaviour,0.0,neutral,Evri
-467,Parcel condition,0.0,neutral,Evri
-467,Safe place / doorstep,0.0,neutral,Evri
-468,Delivery speed,0.77125,positive,DPD
-468,Driver behaviour,0.8074,positive,DPD
-469,Parcel condition,-0.7003,negative,Yodel
-471,Customer service,0.6437,positive,Royal Mail
-471,Delivery speed,0.6437,positive,Royal Mail
-471,Driver behaviour,0.0,neutral,Royal Mail
-471,Parcel condition,0.5719,positive,Royal Mail
-472,Customer service,0.6437,positive,DPD
-472,Delivery speed,0.5925,positive,DPD
-472,Driver behaviour,0.5413,positive,DPD
-473,Safe place / doorstep,-0.4767,negative,Royal Mail
-474,Delivery speed,0.5413,positive,DPD
-474,Driver behaviour,0.5413,positive,DPD
-475,Delivery speed,0.0,neutral,DPD
-475,Driver behaviour,0.0,neutral,DPD
-476,Customer service,0.6437,positive,DPD
-476,Delivery speed,0.6437,positive,DPD
-476,Driver behaviour,0.0,neutral,DPD
-476,Parcel condition,0.5719,positive,DPD
-477,Customer service,0.7147,positive,Amazon Logistics
-477,Delivery speed,0.7147,positive,Amazon Logistics
-479,Customer service,0.6437,positive,DPD
-479,Delivery speed,0.5925,positive,DPD
-479,Driver behaviour,0.5413,positive,DPD
-480,Delivery speed,0.8074,positive,Royal Mail
-480,Driver behaviour,0.8074,positive,Royal Mail
-481,Delivery speed,-0.6808,negative,DPD
-482,Tracking & updates,0.5256,positive,Royal Mail
-483,Tracking & updates,0.5256,positive,DPD
-485,Driver behaviour,0.0,neutral,Evri
-485,Parcel condition,0.0,neutral,Evri
-485,Safe place / doorstep,0.0,neutral,Evri
-487,Lost / not delivered,0.0,neutral,InPost
-488,Delivery speed,0.0,neutral,Evri
-488,Driver behaviour,-0.2721,negative,Evri
-488,Safe place / doorstep,-0.5442,negative,Evri
-489,Tracking & updates,0.5256,positive,Evri
-490,Tracking & updates,0.5256,positive,DPD
-491,Parcel condition,-0.7003,negative,Evri
-492,Tracking & updates,0.4767,positive,DPD
-493,Delivery speed,0.25,positive,DPD
-493,Tracking & updates,0.25,positive,DPD
-494,Delivery speed,0.6382,positive,Royal Mail
-494,Driver behaviour,0.5413,positive,Royal Mail
-495,Driver behaviour,-0.5442,negative,Royal Mail
-495,Safe place / doorstep,-0.5442,negative,Royal Mail
-497,Parcel condition,-0.7003,negative,Yodel
-498,Customer service,-0.5574,negative,Royal Mail
-498,Delivery speed,-0.5574,negative,Royal Mail
-498,Lost / not delivered,-0.5574,negative,Royal Mail
-499,Delivery speed,0.0,neutral,Royal Mail
-499,Driver behaviour,0.0,neutral,Royal Mail
-500,Delivery speed,0.7351,positive,DPD
-501,Driver behaviour,-0.6249,negative,Amazon Logistics
-501,Parcel condition,-0.6249,negative,Amazon Logistics
-502,Delivery speed,0.25,positive,Evri
-502,Tracking & updates,0.25,positive,Evri
-503,Tracking & updates,0.5256,positive,DPD
-504,Tracking & updates,0.5256,positive,Evri
-505,Driver behaviour,0.0,neutral,Evri
-505,Parcel condition,0.0,neutral,Evri
-505,Safe place / doorstep,-0.23835,negative,Evri
-506,Delivery speed,-0.3404,negative,Royal Mail
-506,Tracking & updates,0.0,neutral,Royal Mail
-507,Tracking & updates,0.4767,positive,DHL
-509,Delivery speed,0.67435,positive,InPost
-509,Driver behaviour,0.67435,positive,InPost
-510,Driver behaviour,0.0,neutral,DPD
-510,Parcel condition,0.5719,positive,DPD
-510,Tracking & updates,0.4767,positive,DPD
-511,Tracking & updates,0.5256,positive,Royal Mail
-512,Tracking & updates,0.5859,positive,Amazon Logistics
-513,Tracking & updates,0.4767,positive,DPD
-515,Lost / not delivered,0.0,neutral,Royal Mail
-516,Delivery speed,0.8402,positive,Amazon Logistics
-516,Driver behaviour,0.8402,positive,Amazon Logistics
-517,Driver behaviour,-0.35015,negative,Evri
-517,Parcel condition,-0.35015,negative,Evri
-517,Safe place / doorstep,0.0,neutral,Evri
-518,Driver behaviour,0.0,neutral,Royal Mail
-518,Parcel condition,0.5719,positive,Royal Mail
-519,Tracking & updates,-0.1027,negative,Royal Mail
-520,Parcel condition,-0.7003,negative,Evri
-521,Delivery speed,0.5413,positive,Evri
-521,Driver behaviour,0.5413,positive,Evri
-522,Tracking & updates,-0.1027,negative,DPD
-523,Parcel condition,-0.7003,negative,Evri
-525,Customer service,-0.5574,negative,DPD
-525,Delivery speed,-0.5574,negative,DPD
-525,Lost / not delivered,-0.5574,negative,DPD
-526,Delivery speed,0.0,neutral,Yodel
-526,Driver behaviour,0.0,neutral,Yodel
-527,Delivery speed,0.67435,positive,InPost
-527,Driver behaviour,0.67435,positive,InPost
-528,Customer service,0.0,neutral,Yodel
-528,Delivery speed,0.0,neutral,Yodel
-528,Driver behaviour,0.0,neutral,Yodel
-528,Lost / not delivered,-0.4588,negative,Yodel
-529,Customer service,0.0,neutral,DPD
-529,Lost / not delivered,-0.4588,negative,DPD
-530,Customer service,-0.3612,negative,Evri
-530,Delivery speed,-0.3612,negative,Evri
-530,Safe place / doorstep,-0.4767,negative,Evri
-531,Delivery speed,0.8074,positive,Yodel
-531,Driver behaviour,0.8074,positive,Yodel
-532,Delivery speed,0.25,positive,Yodel
-532,Tracking & updates,0.25,positive,Yodel
-533,Tracking & updates,0.5256,positive,Royal Mail
-534,Delivery speed,0.25,positive,InPost
-534,Tracking & updates,0.25,positive,InPost
-535,Delivery speed,0.0,neutral,Evri
-535,Tracking & updates,0.0,neutral,Evri
-536,Customer service,-0.5574,negative,InPost
-536,Delivery speed,-0.5574,negative,InPost
-536,Driver behaviour,-0.7003,negative,InPost
-536,Lost / not delivered,-0.5574,negative,InPost
-536,Parcel condition,-0.7003,negative,InPost
-537,Tracking & updates,0.5256,positive,Evri
-538,Delivery speed,0.5413,positive,DPD
-538,Driver behaviour,0.5413,positive,DPD
-539,Tracking & updates,-0.1027,negative,Evri
-540,Tracking & updates,0.5256,positive,Royal Mail
-541,Delivery speed,0.0,neutral,Evri
-541,Driver behaviour,-0.2721,negative,Evri
-541,Safe place / doorstep,-0.5442,negative,Evri
-542,Delivery speed,-0.6808,negative,DPD
-543,Tracking & updates,-0.1027,negative,Evri
-544,Delivery speed,0.25,positive,DHL
-544,Tracking & updates,0.25,positive,DHL
-545,Customer service,0.6437,positive,DPD
-545,Delivery speed,0.6437,positive,DPD
-545,Tracking & updates,0.5256,positive,DPD
-546,Delivery speed,0.8074,positive,DPD
-546,Driver behaviour,0.4037,positive,DPD
-546,Parcel condition,0.5719,positive,DPD
-547,Tracking & updates,-0.1027,negative,Yodel
-548,Delivery speed,0.7351,positive,Evri
-550,Customer service,0.0,neutral,Evri
-550,Lost / not delivered,-0.4588,negative,Evri
-552,Delivery speed,0.49255,positive,Yodel
-552,Tracking & updates,0.25,positive,Yodel
-553,Driver behaviour,-0.7003,negative,Yodel
-553,Parcel condition,-0.7003,negative,Yodel
-555,Driver behaviour,0.0,neutral,Royal Mail
-555,Parcel condition,0.0,neutral,Royal Mail
-555,Safe place / doorstep,0.0,neutral,Royal Mail
-556,Customer service,0.0,neutral,Royal Mail
-556,Lost / not delivered,-0.4588,negative,Royal Mail
-557,Delivery speed,0.7351,positive,DPD
-558,Driver behaviour,0.0,neutral,Yodel
-558,Parcel condition,0.0,neutral,Yodel
-558,Safe place / doorstep,0.0,neutral,Yodel
-559,Driver behaviour,0.1779,positive,Amazon Logistics
-559,Parcel condition,0.5719,positive,Amazon Logistics
-560,Customer service,0.6437,positive,DPD
-560,Delivery speed,0.6437,positive,DPD
-562,Safe place / doorstep,-0.4767,negative,Royal Mail
-563,Tracking & updates,0.5256,positive,Royal Mail
-564,Delivery speed,0.8074,positive,DPD
-564,Driver behaviour,0.8074,positive,DPD
-565,Delivery speed,0.0,neutral,Royal Mail
-565,Driver behaviour,0.0,neutral,Royal Mail
-566,Customer service,0.6437,positive,DPD
-566,Delivery speed,0.6437,positive,DPD
-567,Delivery speed,0.7351,positive,Evri
-569,Delivery speed,0.6361,positive,Amazon Logistics
-569,Driver behaviour,0.40700000000000003,positive,Amazon Logistics
-569,Parcel condition,0.5719,positive,Amazon Logistics
-570,Delivery speed,0.0,neutral,Evri
-570,Driver behaviour,-0.5442,negative,Evri
-570,Safe place / doorstep,-0.5442,negative,Evri
-570,Tracking & updates,0.0,neutral,Evri
-571,Delivery speed,0.5413,positive,Yodel
-571,Driver behaviour,0.27065,positive,Yodel
-571,Parcel condition,0.5719,positive,Yodel
-572,Delivery speed,-0.6808,negative,DPD
-573,Lost / not delivered,0.0,neutral,Evri
-573,Safe place / doorstep,0.0,neutral,Evri
-574,Delivery speed,0.8074,positive,Royal Mail
-574,Driver behaviour,0.8074,positive,Royal Mail
-575,Delivery speed,0.8402,positive,Amazon Logistics
-575,Driver behaviour,0.8402,positive,Amazon Logistics
-576,Customer service,0.0,neutral,Evri
-576,Lost / not delivered,-0.4588,negative,Evri
-578,Tracking & updates,-0.1027,negative,Yodel
-579,Delivery speed,0.7351,positive,DPD
-580,Delivery speed,0.7351,positive,Royal Mail
-581,Driver behaviour,-0.7003,negative,Yodel
-581,Parcel condition,-0.7003,negative,Yodel
-582,Tracking & updates,-0.1027,negative,Evri
-583,Delivery speed,0.5413,positive,DPD
-583,Driver behaviour,0.5413,positive,DPD
-584,Driver behaviour,0.0,neutral,Evri
-584,Parcel condition,-0.35015,negative,Evri
-584,Safe place / doorstep,0.0,neutral,Evri
-586,Driver behaviour,0.0,neutral,DPD
-586,Parcel condition,0.5719,positive,DPD
-587,Customer service,0.0,neutral,Evri
-587,Lost / not delivered,-0.4588,negative,Evri
-588,Tracking & updates,-0.1027,negative,DPD
-589,Driver behaviour,0.0,neutral,Royal Mail
-589,Parcel condition,0.5719,positive,Royal Mail
-590,Delivery speed,0.5413,positive,InPost
-590,Driver behaviour,0.5413,positive,InPost
-590,Tracking & updates,0.4767,positive,InPost
-591,Tracking & updates,0.4767,positive,DPD
-592,Delivery speed,0.25,positive,Evri
-592,Tracking & updates,0.25,positive,Evri
-593,Customer service,-0.5574,negative,Evri
-593,Delivery speed,-0.5574,negative,Evri
-593,Lost / not delivered,-0.5574,negative,Evri
-593,Parcel condition,-0.7003,negative,Evri
-594,Tracking & updates,0.4767,positive,Royal Mail
-595,Driver behaviour,-0.7003,negative,DPD
-595,Parcel condition,-0.7003,negative,DPD
-596,Customer service,0.6437,positive,Evri
-596,Delivery speed,0.72555,positive,Evri
-596,Driver behaviour,0.8074,positive,Evri
-597,Driver behaviour,0.0,neutral,Evri
-597,Parcel condition,0.0,neutral,Evri
-597,Safe place / doorstep,0.0,neutral,Evri
-598,Safe place / doorstep,0.0,neutral,Royal Mail
-599,Customer service,-0.3612,negative,Evri
-599,Delivery speed,-0.1806,negative,Evri
-599,Driver behaviour,0.0,neutral,Evri
-600,Parcel condition,-0.7003,negative,Royal Mail
-601,Customer service,0.6437,positive,DHL
-601,Delivery speed,0.6437,positive,DHL
-602,Driver behaviour,0.0,neutral,Evri
-602,Parcel condition,0.5719,positive,Evri
-602,Tracking & updates,0.4767,positive,Evri
-603,Delivery speed,0.1779,positive,Amazon Logistics
-603,Lost / not delivered,0.0,neutral,Amazon Logistics
-603,Tracking & updates,0.1779,positive,Amazon Logistics
-604,Lost / not delivered,0.0,neutral,Evri
-605,Delivery speed,0.8074,positive,Evri
-605,Driver behaviour,0.8074,positive,Evri
-605,Tracking & updates,0.5256,positive,Evri
-606,Delivery speed,0.8074,positive,InPost
-606,Driver behaviour,0.8074,positive,InPost
-607,Delivery speed,0.0,neutral,Royal Mail
-607,Tracking & updates,0.0,neutral,Royal Mail
-608,Delivery speed,-0.6808,negative,Yodel
-609,Customer service,-0.2023,negative,Amazon Logistics
-609,Delivery speed,-0.2023,negative,Amazon Logistics
-609,Safe place / doorstep,-0.34,negative,Amazon Logistics
-610,Delivery speed,0.5413,positive,DHL
-610,Driver behaviour,0.5413,positive,DHL
-611,Delivery speed,0.5413,positive,Yodel
-611,Driver behaviour,0.5413,positive,Yodel
-612,Tracking & updates,0.5256,positive,Yodel
-613,Safe place / doorstep,0.0,neutral,Evri
-614,Safe place / doorstep,0.0,neutral,Amazon Logistics
-615,Delivery speed,0.5413,positive,DHL
-615,Driver behaviour,0.5413,positive,DHL
-616,Customer service,-0.2023,negative,Amazon Logistics
-616,Delivery speed,-0.2023,negative,Amazon Logistics
-617,Tracking & updates,0.6566,positive,Amazon Logistics
-618,Tracking & updates,-0.1027,negative,DPD
-619,Customer service,-0.3612,negative,Yodel
-619,Delivery speed,-0.3612,negative,Yodel
-619,Safe place / doorstep,0.0,neutral,Yodel
-620,Delivery speed,0.0,neutral,Yodel
-620,Driver behaviour,-0.5442,negative,Yodel
-620,Safe place / doorstep,-0.5442,negative,Yodel
-620,Tracking & updates,0.0,neutral,Yodel
-621,Delivery speed,0.5413,positive,DHL
-621,Driver behaviour,0.5413,positive,DHL
-621,Tracking & updates,0.4767,positive,DHL
-623,Customer service,-0.3612,negative,Evri
-623,Delivery speed,-0.3612,negative,Evri
-623,Driver behaviour,-0.5442,negative,Evri
-623,Safe place / doorstep,-0.5442,negative,Evri
-624,Delivery speed,0.5287,positive,DPD
-624,Driver behaviour,0.8074,positive,DPD
-624,Tracking & updates,0.25,positive,DPD
-625,Customer service,0.6437,positive,DPD
-625,Delivery speed,0.6437,positive,DPD
-626,Delivery speed,0.0,neutral,Royal Mail
-626,Parcel condition,-0.7003,negative,Royal Mail
-626,Tracking & updates,0.0,neutral,Royal Mail
-627,Lost / not delivered,0.0,neutral,Evri
-627,Parcel condition,-0.7003,negative,Evri
-628,Customer service,-0.5574,negative,Yodel
-628,Delivery speed,-0.5574,negative,Yodel
-628,Driver behaviour,-0.5442,negative,Yodel
-628,Lost / not delivered,-0.5574,negative,Yodel
-628,Safe place / doorstep,-0.5442,negative,Yodel
-629,Customer service,-0.5574,negative,Evri
-629,Delivery speed,-0.5574,negative,Evri
-629,Lost / not delivered,-0.5574,negative,Evri
-630,Tracking & updates,0.5256,positive,Yodel
-631,Delivery speed,0.0,neutral,Evri
-631,Tracking & updates,0.0,neutral,Evri
-632,Delivery speed,0.25,positive,DPD
-632,Driver behaviour,0.0,neutral,DPD
-632,Parcel condition,0.5719,positive,DPD
-632,Tracking & updates,0.25,positive,DPD
-633,Driver behaviour,0.0,neutral,Evri
-633,Parcel condition,-0.35015,negative,Evri
-633,Safe place / doorstep,0.0,neutral,Evri
-634,Customer service,0.0,neutral,Evri
-634,Lost / not delivered,-0.4588,negative,Evri
-635,Customer service,0.6437,positive,Evri
-635,Delivery speed,0.6437,positive,Evri
-636,Delivery speed,0.25,positive,Evri
-636,Tracking & updates,0.25,positive,Evri
-637,Delivery speed,0.8074,positive,Evri
-637,Driver behaviour,0.8074,positive,Evri
-639,Tracking & updates,0.5256,positive,Royal Mail
-640,Customer service,-0.3612,negative,Yodel
-640,Delivery speed,-0.1806,negative,Yodel
-640,Tracking & updates,0.0,neutral,Yodel
-641,Driver behaviour,0.0,neutral,Royal Mail
-641,Parcel condition,0.5719,positive,Royal Mail
-642,Delivery speed,0.7351,positive,Evri
-644,Driver behaviour,0.0,neutral,DPD
-644,Parcel condition,0.5719,positive,DPD
-645,Delivery speed,0.25,positive,Evri
-645,Tracking & updates,0.3878,positive,Evri
-647,Tracking & updates,0.4767,positive,DHL
-648,Delivery speed,0.5413,positive,DHL
-648,Driver behaviour,0.27065,positive,DHL
-648,Parcel condition,0.5719,positive,DHL
-649,Customer service,0.0,neutral,Royal Mail
-649,Lost / not delivered,-0.4588,negative,Royal Mail
-649,Parcel condition,-0.7003,negative,Royal Mail
-650,Delivery speed,-0.6808,negative,Royal Mail
-650,Safe place / doorstep,-0.4767,negative,Royal Mail
-651,Customer service,0.0,neutral,Evri
-651,Delivery speed,-0.6808,negative,Evri
-651,Lost / not delivered,-0.4588,negative,Evri
-652,Delivery speed,0.7351,positive,Yodel
-653,Tracking & updates,-0.1027,negative,Royal Mail
-654,Delivery speed,0.5413,positive,DPD
-654,Driver behaviour,0.5413,positive,DPD
-654,Tracking & updates,0.4767,positive,DPD
-656,Delivery speed,0.25,positive,DHL
-656,Tracking & updates,0.25,positive,DHL
-657,Tracking & updates,-0.1027,negative,Evri
-658,Driver behaviour,0.0,neutral,Yodel
-658,Parcel condition,0.0,neutral,Yodel
-658,Safe place / doorstep,0.0,neutral,Yodel
-659,Delivery speed,-0.6808,negative,Evri
-660,Tracking & updates,0.5859,positive,Amazon Logistics
-661,Lost / not delivered,0.0,neutral,Evri
-662,Customer service,0.6437,positive,Royal Mail
-662,Delivery speed,0.6437,positive,Royal Mail
-662,Tracking & updates,0.5256,positive,Royal Mail
-663,Parcel condition,-0.7003,negative,DPD
-665,Tracking & updates,0.5256,positive,DPD
-666,Delivery speed,0.8074,positive,Evri
-666,Driver behaviour,0.8074,positive,Evri
-667,Delivery speed,0.0,neutral,DHL
-667,Lost / not delivered,0.0,neutral,DHL
-667,Tracking & updates,0.0,neutral,DHL
-668,Driver behaviour,-0.7003,negative,DPD
-668,Parcel condition,-0.7003,negative,DPD
-669,Customer service,0.6437,positive,InPost
-669,Delivery speed,0.6437,positive,InPost
-669,Driver behaviour,0.0,neutral,InPost
-669,Parcel condition,0.5719,positive,InPost
-670,Driver behaviour,-0.5442,negative,Yodel
-670,Safe place / doorstep,-0.5442,negative,Yodel
-671,Delivery speed,0.0,neutral,Royal Mail
-671,Tracking & updates,0.0,neutral,Royal Mail
-672,Customer service,-0.2023,negative,Amazon Logistics
-672,Delivery speed,-0.2023,negative,Amazon Logistics
-673,Customer service,-0.3612,negative,Royal Mail
-673,Delivery speed,-0.3612,negative,Royal Mail
-674,Customer service,-0.3612,negative,Yodel
-674,Delivery speed,-0.3612,negative,Yodel
-675,Delivery speed,0.0,neutral,Yodel
-675,Safe place / doorstep,0.0,neutral,Yodel
-675,Tracking & updates,0.0,neutral,Yodel
-676,Tracking & updates,0.5859,positive,Amazon Logistics
-677,Tracking & updates,-0.1027,negative,Amazon Logistics
-678,Delivery speed,0.5287,positive,Royal Mail
-678,Driver behaviour,0.8074,positive,Royal Mail
-678,Tracking & updates,0.25,positive,Royal Mail
-680,Safe place / doorstep,-0.4767,negative,Royal Mail
-681,Tracking & updates,0.5256,positive,InPost
-682,Parcel condition,-0.7003,negative,Royal Mail
-683,Delivery speed,-0.6808,negative,DPD
-683,Driver behaviour,-0.5442,negative,DPD
-683,Safe place / doorstep,-0.5442,negative,DPD
-684,Delivery speed,0.49255,positive,Royal Mail
-684,Tracking & updates,0.25,positive,Royal Mail
-685,Customer service,0.6437,positive,Royal Mail
-685,Delivery speed,0.6437,positive,Royal Mail
-685,Tracking & updates,0.5256,positive,Royal Mail
-686,Tracking & updates,0.4767,positive,Royal Mail
-687,Driver behaviour,-0.7003,negative,Royal Mail
-687,Parcel condition,-0.7003,negative,Royal Mail
-689,Tracking & updates,0.4767,positive,Royal Mail
-690,Delivery speed,0.25,positive,Yodel
-690,Tracking & updates,0.25,positive,Yodel
-691,Customer service,0.6437,positive,Royal Mail
-691,Delivery speed,0.6437,positive,Royal Mail
-692,Tracking & updates,-0.1027,negative,Amazon Logistics
-693,Driver behaviour,0.0,neutral,DPD
-693,Parcel condition,0.0,neutral,DPD
-693,Safe place / doorstep,0.0,neutral,DPD
-694,Delivery speed,0.8074,positive,Royal Mail
-694,Driver behaviour,0.8074,positive,Royal Mail
-695,Delivery speed,0.5413,positive,Royal Mail
-695,Driver behaviour,0.5413,positive,Royal Mail
-696,Tracking & updates,0.4767,positive,Royal Mail
-697,Tracking & updates,0.5256,positive,InPost
-698,Tracking & updates,-0.1027,negative,Royal Mail
-699,Delivery speed,0.5413,positive,Royal Mail
-699,Driver behaviour,0.5413,positive,Royal Mail
-700,Driver behaviour,0.0,neutral,Evri
-700,Parcel condition,0.0,neutral,Evri
-700,Safe place / doorstep,0.0,neutral,Evri
-701,Customer service,0.6437,positive,Royal Mail
-701,Delivery speed,0.6437,positive,Royal Mail
-702,Delivery speed,0.8074,positive,Royal Mail
-702,Driver behaviour,0.8074,positive,Royal Mail
-703,Lost / not delivered,0.0,neutral,Evri
-704,Delivery speed,0.25,positive,DPD
-704,Tracking & updates,0.25,positive,DPD
-705,Customer service,0.0,neutral,Amazon Logistics
-705,Lost / not delivered,-0.3182,negative,Amazon Logistics
-706,Customer service,0.0,neutral,Royal Mail
-706,Lost / not delivered,-0.4588,negative,Royal Mail
-706,Safe place / doorstep,0.0,neutral,Royal Mail
-707,Driver behaviour,0.0,neutral,Royal Mail
-707,Parcel condition,0.5719,positive,Royal Mail
-708,Parcel condition,-0.7003,negative,Evri
-709,Customer service,-0.3612,negative,DPD
-709,Delivery speed,-0.3612,negative,DPD
-709,Lost / not delivered,0.0,neutral,DPD
-710,Driver behaviour,0.0,neutral,Royal Mail
-710,Parcel condition,-0.35015,negative,Royal Mail
-710,Safe place / doorstep,0.0,neutral,Royal Mail
-711,Delivery speed,0.25,positive,Yodel
-711,Tracking & updates,0.25,positive,Yodel
-712,Customer service,0.6437,positive,Evri
-712,Delivery speed,0.5925,positive,Evri
-712,Driver behaviour,0.5413,positive,Evri
-713,Tracking & updates,0.5859,positive,Amazon Logistics
-714,Tracking & updates,-0.1027,negative,DPD
-715,Delivery speed,0.0,neutral,Evri
-715,Tracking & updates,0.0,neutral,Evri
-716,Delivery speed,0.7351,positive,DPD
-717,Customer service,-0.4404,negative,Amazon Logistics
-717,Delivery speed,-0.4404,negative,Amazon Logistics
-717,Lost / not delivered,-0.4404,negative,Amazon Logistics
-718,Parcel condition,-0.7003,negative,Evri
-719,Delivery speed,0.8074,positive,DPD
-719,Driver behaviour,0.8074,positive,DPD
-720,Delivery speed,0.7351,positive,DPD
-721,Delivery speed,0.8074,positive,DPD
-721,Driver behaviour,0.8074,positive,DPD
-721,Tracking & updates,0.4767,positive,DPD
-722,Customer service,-0.3612,negative,Royal Mail
-722,Delivery speed,-0.3612,negative,Royal Mail
-724,Customer service,0.6437,positive,InPost
-724,Delivery speed,0.5925,positive,InPost
-724,Driver behaviour,0.5413,positive,InPost
-725,Delivery speed,0.6382,positive,DPD
-725,Driver behaviour,0.5413,positive,DPD
-726,Delivery speed,0.77125,positive,Yodel
-726,Driver behaviour,0.8074,positive,Yodel
-727,Lost / not delivered,0.0,neutral,Evri
-728,Driver behaviour,-0.7003,negative,Evri
-728,Parcel condition,-0.7003,negative,Evri
-729,Delivery speed,-0.6808,negative,Yodel
-729,Driver behaviour,-0.5442,negative,Yodel
-729,Safe place / doorstep,-0.5442,negative,Yodel
-730,Driver behaviour,0.1779,positive,Amazon Logistics
-730,Parcel condition,0.5719,positive,Amazon Logistics
-731,Delivery speed,0.7351,positive,DPD
-733,Lost / not delivered,0.0,neutral,Evri
-733,Parcel condition,-0.7003,negative,Evri
-734,Delivery speed,0.0,neutral,Yodel
-734,Driver behaviour,0.0,neutral,Yodel
-735,Driver behaviour,-0.5442,negative,Evri
-735,Lost / not delivered,0.0,neutral,Evri
-735,Safe place / doorstep,-0.5442,negative,Evri
-736,Safe place / doorstep,0.0,neutral,DPD
-737,Customer service,0.6437,positive,Royal Mail
-737,Delivery speed,0.6437,positive,Royal Mail
-738,Driver behaviour,0.0,neutral,DPD
-738,Parcel condition,0.5719,positive,DPD
-739,Delivery speed,0.5932,positive,Amazon Logistics
-739,Tracking & updates,0.4019,positive,Amazon Logistics
-740,Safe place / doorstep,-0.4767,negative,DHL
-741,Customer service,-0.5574,negative,Evri
-741,Delivery speed,-0.5574,negative,Evri
-741,Lost / not delivered,-0.5574,negative,Evri
-742,Customer service,0.0,neutral,Evri
-742,Driver behaviour,0.0,neutral,Evri
-742,Lost / not delivered,-0.4588,negative,Evri
-742,Parcel condition,0.0,neutral,Evri
-742,Safe place / doorstep,0.0,neutral,Evri
-743,Delivery speed,0.7351,positive,Royal Mail
-743,Tracking & updates,0.5256,positive,Royal Mail
-745,Delivery speed,0.8074,positive,InPost
-745,Driver behaviour,0.4037,positive,InPost
-745,Parcel condition,0.5719,positive,InPost
-746,Customer service,-0.3612,negative,Yodel
-746,Delivery speed,-0.3612,negative,Yodel
-746,Driver behaviour,-0.5442,negative,Yodel
-746,Safe place / doorstep,-0.5442,negative,Yodel
-747,Customer service,0.6437,positive,Royal Mail
-747,Delivery speed,0.44685,positive,Royal Mail
-747,Tracking & updates,0.25,positive,Royal Mail
-748,Delivery speed,0.25,positive,DPD
-748,Tracking & updates,0.25,positive,DPD
-749,Tracking & updates,0.5256,positive,DPD
-750,Customer service,0.0,neutral,DHL
-750,Lost / not delivered,-0.4588,negative,DHL
-750,Safe place / doorstep,-0.4767,negative,DHL
-751,Tracking & updates,0.4767,positive,Yodel
-752,Driver behaviour,0.0,neutral,DPD
-752,Parcel condition,0.5719,positive,DPD
-752,Tracking & updates,0.5256,positive,DPD
-753,Delivery speed,0.8074,positive,DPD
-753,Driver behaviour,0.8074,positive,DPD
-754,Driver behaviour,-0.35015,negative,Royal Mail
-754,Parcel condition,-0.35015,negative,Royal Mail
-754,Safe place / doorstep,0.0,neutral,Royal Mail
-755,Delivery speed,0.1779,positive,Amazon Logistics
-755,Tracking & updates,0.1779,positive,Amazon Logistics
-756,Driver behaviour,0.1779,positive,Amazon Logistics
-756,Parcel condition,0.1779,positive,Amazon Logistics
-756,Safe place / doorstep,0.1779,positive,Amazon Logistics
-758,Delivery speed,-0.6808,negative,Evri
-759,Delivery speed,0.25,positive,DPD
-759,Tracking & updates,0.36335,positive,DPD
-760,Driver behaviour,-0.7003,negative,Yodel
-760,Parcel condition,-0.7003,negative,Yodel
-761,Delivery speed,0.7351,positive,InPost
-763,Tracking & updates,-0.1027,negative,DPD
-764,Delivery speed,0.0,neutral,DHL
-764,Driver behaviour,-0.7003,negative,DHL
-764,Parcel condition,-0.7003,negative,DHL
-764,Tracking & updates,0.0,neutral,DHL
-765,Driver behaviour,0.0,neutral,Evri
-765,Parcel condition,0.0,neutral,Evri
-765,Safe place / doorstep,-0.23835,negative,Evri
-766,Delivery speed,0.5413,positive,Royal Mail
-766,Driver behaviour,0.27065,positive,Royal Mail
-766,Parcel condition,0.5719,positive,Royal Mail
-767,Lost / not delivered,0.0,neutral,Royal Mail
-768,Delivery speed,0.8074,positive,Royal Mail
-768,Driver behaviour,0.8074,positive,Royal Mail
-768,Tracking & updates,0.5256,positive,Royal Mail
-770,Delivery speed,0.8074,positive,Evri
-770,Driver behaviour,0.8074,positive,Evri
-771,Delivery speed,0.39565,positive,DPD
-771,Driver behaviour,0.5413,positive,DPD
-771,Tracking & updates,0.25,positive,DPD
-772,Delivery speed,0.0,neutral,Evri
-772,Tracking & updates,0.0,neutral,Evri
-773,Customer service,0.6437,positive,Royal Mail
-773,Delivery speed,0.6437,positive,Royal Mail
-773,Tracking & updates,0.5256,positive,Royal Mail
-774,Delivery speed,0.7351,positive,DPD
-775,Delivery speed,0.8074,positive,DPD
-775,Driver behaviour,0.8074,positive,DPD
-776,Delivery speed,0.6361,positive,Amazon Logistics
-776,Driver behaviour,0.6361,positive,Amazon Logistics
-777,Tracking & updates,0.5256,positive,DPD
-778,Customer service,0.6437,positive,DHL
-778,Delivery speed,0.6437,positive,DHL
-779,Driver behaviour,0.1779,positive,Amazon Logistics
-779,Parcel condition,0.5719,positive,Amazon Logistics
-781,Customer service,-0.3612,negative,Yodel
-781,Delivery speed,-0.3612,negative,Yodel
-781,Parcel condition,-0.7003,negative,Yodel
-782,Lost / not delivered,0.0,neutral,Yodel
-783,Delivery speed,0.8074,positive,Evri
-783,Driver behaviour,0.8074,positive,Evri
-784,Customer service,0.7147,positive,Amazon Logistics
-784,Delivery speed,0.7147,positive,Amazon Logistics
-785,Delivery speed,0.7351,positive,Evri
-786,Delivery speed,0.8074,positive,DPD
-786,Driver behaviour,0.4037,positive,DPD
-786,Parcel condition,0.5719,positive,DPD
-787,Customer service,0.6437,positive,DPD
-787,Delivery speed,0.6437,positive,DPD
-787,Tracking & updates,0.5256,positive,DPD
-788,Lost / not delivered,0.0,neutral,Yodel
-789,Parcel condition,-0.7003,negative,DPD
-790,Driver behaviour,0.0,neutral,Evri
-790,Parcel condition,0.5719,positive,Evri
-791,Delivery speed,0.7351,positive,Evri
-792,Tracking & updates,-0.1027,negative,Evri
-793,Tracking & updates,0.4767,positive,Royal Mail
-794,Driver behaviour,0.0,neutral,InPost
-794,Lost / not delivered,0.0,neutral,InPost
-794,Parcel condition,0.0,neutral,InPost
-794,Safe place / doorstep,0.0,neutral,InPost
-796,Driver behaviour,0.0,neutral,Evri
-796,Parcel condition,0.0,neutral,Evri
-796,Safe place / doorstep,0.0,neutral,Evri
-797,Delivery speed,0.0,neutral,Royal Mail
-797,Tracking & updates,0.0,neutral,Royal Mail
-798,Driver behaviour,0.0,neutral,Yodel
-798,Parcel condition,0.5719,positive,Yodel
-799,Delivery speed,0.25,positive,DPD
-799,Tracking & updates,0.25,positive,DPD
-801,Driver behaviour,0.0,neutral,Evri
-801,Parcel condition,0.5719,positive,Evri
-802,Customer service,0.6437,positive,DPD
-802,Delivery speed,0.6437,positive,DPD
-803,Customer service,0.0,neutral,DPD
-803,Lost / not delivered,-0.4588,negative,DPD
-803,Parcel condition,-0.7003,negative,DPD
-804,Tracking & updates,0.4767,positive,InPost
-806,Delivery speed,0.4019,positive,Amazon Logistics
-806,Tracking & updates,0.4019,positive,Amazon Logistics
-810,Lost / not delivered,0.0,neutral,Royal Mail
-811,Delivery speed,0.7351,positive,Evri
-812,Delivery speed,0.7845,positive,Amazon Logistics
-812,Driver behaviour,0.1779,positive,Amazon Logistics
-812,Parcel condition,0.5719,positive,Amazon Logistics
-813,Delivery speed,0.7351,positive,DPD
-814,Delivery speed,0.6361,positive,Amazon Logistics
-814,Driver behaviour,0.40700000000000003,positive,Amazon Logistics
-814,Parcel condition,0.5719,positive,Amazon Logistics
-815,Customer service,0.7147,positive,Amazon Logistics
-815,Delivery speed,0.7147,positive,Amazon Logistics
-816,Safe place / doorstep,-0.4767,negative,InPost
-818,Driver behaviour,-0.35015,negative,Evri
-818,Parcel condition,-0.35015,negative,Evri
-818,Safe place / doorstep,0.0,neutral,Evri
-819,Tracking & updates,0.4767,positive,Royal Mail
-820,Tracking & updates,-0.1027,negative,Evri
-822,Driver behaviour,-0.7003,negative,Yodel
-822,Parcel condition,-0.7003,negative,Yodel
-823,Delivery speed,0.25,positive,Royal Mail
-823,Tracking & updates,0.3878,positive,Royal Mail
-824,Safe place / doorstep,-0.4767,negative,Royal Mail
-825,Delivery speed,0.8074,positive,Evri
-825,Driver behaviour,0.8074,positive,Evri
-825,Tracking & updates,0.4767,positive,Evri
-826,Delivery speed,0.0,neutral,Royal Mail
-826,Tracking & updates,0.0,neutral,Royal Mail
-827,Tracking & updates,0.5256,positive,Yodel
-828,Customer service,0.0,neutral,Evri
-828,Lost / not delivered,-0.4588,negative,Evri
-829,Delivery speed,0.0,neutral,Royal Mail
-829,Driver behaviour,0.0,neutral,Royal Mail
-830,Delivery speed,-0.6808,negative,Royal Mail
-831,Delivery speed,0.25,positive,DHL
-831,Tracking & updates,0.25,positive,DHL
-832,Customer service,0.6437,positive,DPD
-832,Delivery speed,0.6437,positive,DPD
-833,Safe place / doorstep,-0.4767,negative,Evri
-834,Delivery speed,0.25,positive,InPost
-834,Tracking & updates,0.25,positive,InPost
-835,Delivery speed,0.8074,positive,DPD
-835,Driver behaviour,0.8074,positive,DPD
-836,Tracking & updates,0.5256,positive,DPD
-837,Customer service,0.0,neutral,Royal Mail
-837,Driver behaviour,0.0,neutral,Royal Mail
-837,Lost / not delivered,-0.4588,negative,Royal Mail
-837,Parcel condition,0.0,neutral,Royal Mail
-837,Safe place / doorstep,0.0,neutral,Royal Mail
-838,Customer service,-0.3612,negative,InPost
-838,Delivery speed,-0.1806,negative,InPost
-838,Tracking & updates,0.0,neutral,InPost
-839,Tracking & updates,0.5256,positive,Evri
-840,Driver behaviour,0.0,neutral,Yodel
-840,Parcel condition,0.0,neutral,Yodel
-840,Safe place / doorstep,0.0,neutral,Yodel
-841,Driver behaviour,-0.7003,negative,Yodel
-841,Parcel condition,-0.7003,negative,Yodel
-842,Customer service,-0.5574,negative,DHL
-842,Delivery speed,-0.5574,negative,DHL
-842,Lost / not delivered,-0.5574,negative,DHL
-842,Parcel condition,-0.7003,negative,DHL
-843,Customer service,-0.3612,negative,Royal Mail
-843,Delivery speed,-0.3612,negative,Royal Mail
-843,Safe place / doorstep,-0.4767,negative,Royal Mail
-844,Delivery speed,0.7351,positive,Royal Mail
-844,Tracking & updates,0.5256,positive,Royal Mail
-845,Tracking & updates,0.5256,positive,Royal Mail
-846,Delivery speed,0.6361,positive,Amazon Logistics
-846,Driver behaviour,0.6361,positive,Amazon Logistics
-847,Delivery speed,0.0,neutral,DPD
-847,Driver behaviour,0.0,neutral,DPD
-848,Delivery speed,0.7351,positive,Royal Mail
-848,Tracking & updates,0.4767,positive,Royal Mail
-849,Lost / not delivered,0.0,neutral,Royal Mail
-849,Safe place / doorstep,0.0,neutral,Royal Mail
-850,Delivery speed,0.25,positive,DPD
-850,Tracking & updates,0.25,positive,DPD
-851,Driver behaviour,0.0,neutral,DPD
-851,Parcel condition,0.5719,positive,DPD
-852,Driver behaviour,-0.5442,negative,Yodel
-852,Safe place / doorstep,-0.5442,negative,Yodel
-853,Customer service,0.6437,positive,DHL
-853,Delivery speed,0.6437,positive,DHL
-854,Customer service,0.6437,positive,DPD
-854,Delivery speed,0.6437,positive,DPD
-855,Safe place / doorstep,0.0,neutral,Yodel
-856,Delivery speed,0.8074,positive,DPD
-856,Driver behaviour,0.8074,positive,DPD
-857,Driver behaviour,-0.7003,negative,Evri
-857,Parcel condition,-0.7003,negative,Evri
-858,Driver behaviour,0.0,neutral,DPD
-858,Parcel condition,0.5719,positive,DPD
-859,Delivery speed,0.5413,positive,Evri
-859,Driver behaviour,0.5413,positive,Evri
-860,Driver behaviour,0.0,neutral,Yodel
-860,Parcel condition,0.5719,positive,Yodel
-860,Tracking & updates,0.4767,positive,Yodel
-861,Delivery speed,0.7351,positive,Evri
-862,Driver behaviour,-0.7003,negative,Yodel
-862,Lost / not delivered,0.0,neutral,Yodel
-862,Parcel condition,-0.7003,negative,Yodel
-863,Delivery speed,0.5413,positive,Evri
-863,Driver behaviour,0.5413,positive,Evri
-864,Tracking & updates,-0.1027,negative,Evri
-865,Customer service,0.6437,positive,DHL
-865,Delivery speed,0.6437,positive,DHL
-866,Driver behaviour,0.0,neutral,DPD
-866,Parcel condition,0.5719,positive,DPD
-867,Delivery speed,0.8074,positive,Royal Mail
-867,Driver behaviour,0.8074,positive,Royal Mail
-869,Driver behaviour,0.1779,positive,Amazon Logistics
-869,Parcel condition,0.1779,positive,Amazon Logistics
-869,Safe place / doorstep,-0.08105000000000001,negative,Amazon Logistics
-870,Customer service,-0.5574,negative,DHL
-870,Delivery speed,-0.6191,negative,DHL
-870,Lost / not delivered,-0.5574,negative,DHL
-871,Delivery speed,0.7845,positive,Amazon Logistics
-873,Customer service,-0.3612,negative,Evri
-873,Delivery speed,-0.521,negative,Evri
-874,Delivery speed,0.0,neutral,DPD
-874,Lost / not delivered,0.0,neutral,DPD
-874,Tracking & updates,0.0,neutral,DPD
-875,Customer service,0.0,neutral,Evri
-875,Lost / not delivered,-0.4588,negative,Evri
-876,Driver behaviour,-0.5442,negative,Royal Mail
-876,Safe place / doorstep,-0.5442,negative,Royal Mail
-877,Driver behaviour,0.0,neutral,DPD
-877,Parcel condition,0.5719,positive,DPD
-878,Delivery speed,0.7845,positive,Amazon Logistics
-879,Tracking & updates,0.5256,positive,Evri
-881,Safe place / doorstep,-0.4767,negative,Royal Mail
-882,Customer service,-0.3612,negative,Royal Mail
-882,Delivery speed,-0.3612,negative,Royal Mail
-883,Tracking & updates,0.4767,positive,DPD
-884,Driver behaviour,-0.7003,negative,Yodel
-884,Parcel condition,-0.7003,negative,Yodel
-886,Delivery speed,0.5413,positive,DPD
-886,Driver behaviour,0.5413,positive,DPD
-887,Customer service,0.7147,positive,Amazon Logistics
-887,Delivery speed,0.7147,positive,Amazon Logistics
-888,Tracking & updates,-0.1027,negative,Evri
-889,Delivery speed,0.5413,positive,Royal Mail
-889,Driver behaviour,0.5413,positive,Royal Mail
-890,Delivery speed,0.5413,positive,DPD
-890,Driver behaviour,0.5413,positive,DPD
-891,Driver behaviour,-0.7003,negative,Yodel
-891,Parcel condition,-0.7003,negative,Yodel
-892,Customer service,0.6437,positive,Evri
-892,Delivery speed,0.6437,positive,Evri
-892,Tracking & updates,0.4767,positive,Evri
-893,Lost / not delivered,0.0,neutral,Amazon Logistics
-894,Delivery speed,0.25,positive,DPD
-894,Tracking & updates,0.25,positive,DPD
-895,Delivery speed,0.7351,positive,Evri
-897,Driver behaviour,0.0,neutral,Evri
-897,Parcel condition,0.5719,positive,Evri
-898,Driver behaviour,-0.7003,negative,Evri
-898,Parcel condition,-0.7003,negative,Evri
-899,Customer service,-0.5574,negative,Royal Mail
-899,Delivery speed,-0.5574,negative,Royal Mail
-899,Lost / not delivered,-0.5574,negative,Royal Mail
-899,Parcel condition,-0.7003,negative,Royal Mail
+review_id,courier,aspect,aspect_score,courier_label,aspect_label
+0,DPD,Customer service,-0.5574,negative,negative
+0,DPD,Delivery speed,-0.5574,negative,negative
+0,DPD,Lost / not delivered,-0.5574,negative,negative
+1,DPD,Driver behaviour,0.0,positive,neutral
+1,DPD,Parcel condition,0.0,positive,neutral
+1,DPD,Safe place / doorstep,0.0,positive,neutral
+2,Evri,Driver behaviour,-0.5442,negative,negative
+2,Evri,Safe place / doorstep,-0.5442,negative,negative
+3,DPD,Delivery speed,0.7351,positive,positive
+5,Royal Mail,Customer service,0.6437,positive,positive
+5,Royal Mail,Delivery speed,0.6894,positive,positive
+6,Evri,Tracking & updates,0.5256,positive,positive
+7,Evri,Customer service,0.6437,positive,positive
+7,Evri,Delivery speed,0.72555,positive,positive
+7,Evri,Driver behaviour,0.8074,positive,positive
+8,Evri,Tracking & updates,0.4767,positive,positive
+9,Amazon Logistics,Delivery speed,0.4019,positive,positive
+9,Amazon Logistics,Tracking & updates,0.4019,positive,positive
+10,Evri,Delivery speed,0.0,negative,neutral
+10,Evri,Tracking & updates,0.0,negative,neutral
+11,Yodel,Safe place / doorstep,-0.4767,negative,negative
+12,DPD,Driver behaviour,0.0,positive,neutral
+12,DPD,Parcel condition,0.5719,positive,positive
+13,Royal Mail,Delivery speed,0.5413,positive,positive
+13,Royal Mail,Driver behaviour,0.27065,positive,positive
+13,Royal Mail,Parcel condition,0.5719,positive,positive
+14,DPD,Delivery speed,0.0,negative,neutral
+14,DPD,Tracking & updates,0.0,negative,neutral
+15,Amazon Logistics,Lost / not delivered,0.1779,positive,positive
+16,DPD,Delivery speed,0.7351,positive,positive
+18,DPD,Customer service,-0.3612,negative,negative
+18,DPD,Delivery speed,-0.3612,negative,negative
+18,DPD,Lost / not delivered,0.0,negative,neutral
+19,Evri,Delivery speed,0.0,negative,neutral
+19,Evri,Tracking & updates,0.0,negative,neutral
+20,DHL,Driver behaviour,0.0,positive,neutral
+20,DHL,Parcel condition,0.5719,positive,positive
+21,DPD,Tracking & updates,0.4767,positive,positive
+22,Evri,Lost / not delivered,0.0,neutral,neutral
+23,Evri,Delivery speed,0.0,neutral,neutral
+23,Evri,Driver behaviour,0.0,neutral,neutral
+24,DPD,Tracking & updates,0.4767,positive,positive
+25,Yodel,Driver behaviour,-0.7003,negative,negative
+25,Yodel,Parcel condition,-0.7003,negative,negative
+26,Amazon Logistics,Delivery speed,0.1779,positive,positive
+26,Amazon Logistics,Driver behaviour,0.08895,positive,positive
+26,Amazon Logistics,Parcel condition,0.1779,positive,positive
+26,Amazon Logistics,Safe place / doorstep,0.1779,positive,positive
+27,Royal Mail,Driver behaviour,0.0,positive,neutral
+27,Royal Mail,Parcel condition,0.5719,positive,positive
+28,Amazon Logistics,Delivery speed,0.4019,positive,positive
+28,Amazon Logistics,Tracking & updates,0.4019,positive,positive
+29,DPD,Tracking & updates,0.1027,positive,positive
+30,DHL,Tracking & updates,0.50115,positive,positive
+31,InPost,Tracking & updates,0.4767,positive,positive
+32,Evri,Customer service,0.0,negative,neutral
+32,Evri,Lost / not delivered,-0.4588,negative,negative
+33,InPost,Delivery speed,0.49255,positive,positive
+33,InPost,Tracking & updates,0.25,positive,positive
+34,DPD,Customer service,0.6437,positive,positive
+34,DPD,Delivery speed,0.6437,positive,positive
+35,DHL,Delivery speed,0.25,positive,positive
+35,DHL,Driver behaviour,0.0,positive,neutral
+35,DHL,Parcel condition,0.5719,positive,positive
+35,DHL,Tracking & updates,0.25,positive,positive
+37,Royal Mail,Delivery speed,0.0,negative,neutral
+37,Royal Mail,Tracking & updates,0.0,negative,neutral
+38,Royal Mail,Delivery speed,0.0,negative,neutral
+38,Royal Mail,Tracking & updates,0.0,negative,neutral
+39,DPD,Customer service,-0.5574,negative,negative
+39,DPD,Delivery speed,-0.2787,negative,negative
+39,DPD,Driver behaviour,0.0,negative,neutral
+39,DPD,Lost / not delivered,-0.5574,negative,negative
+40,DPD,Customer service,-0.5574,negative,negative
+40,DPD,Delivery speed,-0.5574,negative,negative
+40,DPD,Lost / not delivered,-0.5574,negative,negative
+40,DPD,Parcel condition,-0.7003,negative,negative
+41,DPD,Customer service,0.0,negative,neutral
+41,DPD,Delivery speed,0.0,negative,neutral
+41,DPD,Lost / not delivered,-0.4588,negative,negative
+41,DPD,Tracking & updates,0.0,negative,neutral
+42,DPD,Driver behaviour,-0.5442,negative,negative
+42,DPD,Safe place / doorstep,-0.5442,negative,negative
+43,Evri,Driver behaviour,-0.5442,negative,negative
+43,Evri,Lost / not delivered,0.0,negative,neutral
+43,Evri,Safe place / doorstep,-0.5442,negative,negative
+44,Yodel,Customer service,0.6437,positive,positive
+44,Yodel,Delivery speed,0.6437,positive,positive
+44,Yodel,Tracking & updates,0.4767,positive,positive
+45,Yodel,Customer service,-0.5574,negative,negative
+45,Yodel,Delivery speed,-0.5574,negative,negative
+45,Yodel,Lost / not delivered,-0.5574,negative,negative
+45,Yodel,Safe place / doorstep,0.0,negative,neutral
+47,Evri,Driver behaviour,0.0,neutral,neutral
+47,Evri,Parcel condition,0.0,neutral,neutral
+47,Evri,Safe place / doorstep,0.0,neutral,neutral
+48,Amazon Logistics,Customer service,-0.4404,negative,negative
+48,Amazon Logistics,Delivery speed,-0.5199,negative,negative
+48,Amazon Logistics,Lost / not delivered,-0.4404,negative,negative
+49,Yodel,Tracking & updates,-0.1027,positive,negative
+50,Royal Mail,Delivery speed,0.0,negative,neutral
+50,Royal Mail,Tracking & updates,0.0,negative,neutral
+51,Yodel,Delivery speed,0.0,negative,neutral
+51,Yodel,Tracking & updates,0.0,negative,neutral
+52,Evri,Safe place / doorstep,0.0,positive,neutral
+53,Yodel,Customer service,0.0,negative,neutral
+53,Yodel,Lost / not delivered,-0.4588,negative,negative
+54,DPD,Delivery speed,0.0,negative,neutral
+54,DPD,Tracking & updates,0.0,negative,neutral
+55,Amazon Logistics,Delivery speed,-0.5994,negative,negative
+56,DPD,Delivery speed,0.7351,positive,positive
+57,Amazon Logistics,Driver behaviour,-0.6249,negative,negative
+57,Amazon Logistics,Parcel condition,-0.6249,negative,negative
+58,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+58,Amazon Logistics,Parcel condition,0.5719,positive,positive
+59,Evri,Delivery speed,0.8074,positive,positive
+59,Evri,Driver behaviour,0.8074,positive,positive
+59,Evri,Tracking & updates,0.4767,positive,positive
+61,DPD,Driver behaviour,0.0,positive,neutral
+61,DPD,Parcel condition,0.5719,positive,positive
+61,DPD,Tracking & updates,0.5256,positive,positive
+62,Yodel,Driver behaviour,-0.5442,negative,negative
+62,Yodel,Safe place / doorstep,-0.5442,negative,negative
+63,Evri,Customer service,-0.5574,negative,negative
+63,Evri,Delivery speed,-0.5574,negative,negative
+63,Evri,Lost / not delivered,-0.5574,negative,negative
+64,DHL,Delivery speed,0.67435,positive,positive
+64,DHL,Driver behaviour,0.67435,positive,positive
+65,DHL,Customer service,0.6437,positive,positive
+65,DHL,Delivery speed,0.6437,positive,positive
+66,Evri,Delivery speed,0.5413,positive,positive
+66,Evri,Driver behaviour,0.5413,positive,positive
+67,Evri,Delivery speed,0.0,negative,neutral
+67,Evri,Driver behaviour,0.0,negative,neutral
+67,Evri,Safe place / doorstep,-0.4767,negative,negative
+69,Royal Mail,Delivery speed,0.8074,positive,positive
+69,Royal Mail,Driver behaviour,0.4037,positive,positive
+69,Royal Mail,Parcel condition,0.5719,positive,positive
+70,DPD,Delivery speed,0.5413,positive,positive
+70,DPD,Driver behaviour,0.5413,positive,positive
+71,Yodel,Customer service,-0.3612,negative,negative
+71,Yodel,Delivery speed,-0.1806,negative,negative
+71,Yodel,Tracking & updates,0.0,negative,neutral
+72,DHL,Safe place / doorstep,-0.4767,negative,negative
+74,DPD,Tracking & updates,0.5256,positive,positive
+75,DPD,Driver behaviour,0.0,positive,neutral
+75,DPD,Parcel condition,0.5719,positive,positive
+76,Evri,Delivery speed,0.0,negative,neutral
+76,Evri,Tracking & updates,0.0,negative,neutral
+77,Yodel,Delivery speed,0.0,negative,neutral
+77,Yodel,Driver behaviour,0.0,negative,neutral
+77,Yodel,Safe place / doorstep,-0.4767,negative,negative
+79,Evri,Customer service,0.6437,positive,positive
+79,Evri,Delivery speed,0.6437,positive,positive
+80,Evri,Delivery speed,0.25,positive,positive
+80,Evri,Tracking & updates,0.25,positive,positive
+81,Royal Mail,Driver behaviour,-0.7003,negative,negative
+81,Royal Mail,Parcel condition,-0.7003,negative,negative
+82,Amazon Logistics,Delivery speed,0.4019,positive,positive
+82,Amazon Logistics,Tracking & updates,0.4019,positive,positive
+83,Evri,Customer service,-0.5574,negative,negative
+83,Evri,Delivery speed,-0.5574,negative,negative
+83,Evri,Lost / not delivered,-0.5574,negative,negative
+84,DPD,Driver behaviour,0.0,positive,neutral
+84,DPD,Parcel condition,0.5719,positive,positive
+85,Evri,Delivery speed,0.0,negative,neutral
+85,Evri,Driver behaviour,0.0,negative,neutral
+86,Amazon Logistics,Delivery speed,0.6361,positive,positive
+86,Amazon Logistics,Driver behaviour,0.6361,positive,positive
+87,DPD,Customer service,0.6437,positive,positive
+87,DPD,Delivery speed,0.6437,positive,positive
+88,Evri,Lost / not delivered,0.0,positive,neutral
+89,Royal Mail,Customer service,-0.3612,negative,negative
+89,Royal Mail,Delivery speed,-0.1806,negative,negative
+89,Royal Mail,Tracking & updates,0.0,negative,neutral
+90,Royal Mail,Driver behaviour,-0.7003,negative,negative
+90,Royal Mail,Parcel condition,-0.7003,negative,negative
+91,Yodel,Delivery speed,0.8074,positive,positive
+91,Yodel,Driver behaviour,0.8074,positive,positive
+92,DHL,Tracking & updates,0.4767,positive,positive
+93,Evri,Tracking & updates,0.1027,positive,positive
+94,Evri,Parcel condition,-0.7003,negative,negative
+95,DPD,Delivery speed,0.8074,positive,positive
+95,DPD,Driver behaviour,0.8074,positive,positive
+95,DPD,Tracking & updates,0.4767,positive,positive
+96,Evri,Customer service,0.0,negative,neutral
+96,Evri,Driver behaviour,-0.5442,negative,negative
+96,Evri,Lost / not delivered,-0.4588,negative,negative
+96,Evri,Safe place / doorstep,-0.5442,negative,negative
+97,Evri,Tracking & updates,-0.1027,positive,negative
+99,Yodel,Customer service,0.6437,positive,positive
+99,Yodel,Delivery speed,0.6437,positive,positive
+100,DPD,Delivery speed,0.5413,positive,positive
+100,DPD,Driver behaviour,0.5413,positive,positive
+100,DPD,Tracking & updates,0.4767,positive,positive
+101,Amazon Logistics,Delivery speed,0.7845,positive,positive
+101,Amazon Logistics,Tracking & updates,0.5859,positive,positive
+102,DHL,Tracking & updates,0.4767,positive,positive
+103,DPD,Customer service,0.6437,positive,positive
+103,DPD,Delivery speed,0.6437,positive,positive
+104,Evri,Driver behaviour,-0.7003,neutral,negative
+104,Evri,Parcel condition,-0.7003,neutral,negative
+105,InPost,Delivery speed,0.77125,positive,positive
+105,InPost,Driver behaviour,0.8074,positive,positive
+106,DPD,Customer service,0.6437,positive,positive
+106,DPD,Delivery speed,0.5925,positive,positive
+106,DPD,Driver behaviour,0.5413,positive,positive
+107,Yodel,Customer service,-0.3612,negative,negative
+107,Yodel,Delivery speed,-0.3612,negative,negative
+108,Evri,Customer service,0.0,negative,neutral
+108,Evri,Lost / not delivered,-0.4588,negative,negative
+109,Evri,Delivery speed,-0.6808,neutral,negative
+110,InPost,Safe place / doorstep,0.0,neutral,neutral
+111,Evri,Driver behaviour,-0.7003,negative,negative
+111,Evri,Lost / not delivered,0.0,negative,neutral
+111,Evri,Parcel condition,-0.7003,negative,negative
+112,DPD,Delivery speed,0.8074,positive,positive
+112,DPD,Driver behaviour,0.8074,positive,positive
+113,Yodel,Safe place / doorstep,0.0,positive,neutral
+114,Evri,Customer service,0.0,negative,neutral
+114,Evri,Lost / not delivered,-0.4588,negative,negative
+116,DHL,Delivery speed,0.8074,positive,positive
+116,DHL,Driver behaviour,0.8074,positive,positive
+116,DHL,Tracking & updates,0.5256,positive,positive
+117,Amazon Logistics,Delivery speed,0.6361,positive,positive
+117,Amazon Logistics,Driver behaviour,0.6361,positive,positive
+118,Evri,Driver behaviour,0.0,negative,neutral
+118,Evri,Parcel condition,0.0,negative,neutral
+118,Evri,Safe place / doorstep,0.0,negative,neutral
+119,Yodel,Parcel condition,-0.7003,negative,negative
+119,Yodel,Safe place / doorstep,-0.4767,negative,negative
+120,Evri,Lost / not delivered,0.0,neutral,neutral
+121,Evri,Customer service,0.0,negative,neutral
+121,Evri,Delivery speed,-0.6808,negative,negative
+121,Evri,Lost / not delivered,-0.4588,negative,negative
+123,DPD,Tracking & updates,0.5256,positive,positive
+124,Evri,Delivery speed,0.0,neutral,neutral
+124,Evri,Driver behaviour,0.0,neutral,neutral
+125,Royal Mail,Delivery speed,0.25,positive,positive
+125,Royal Mail,Tracking & updates,0.25,positive,positive
+126,DHL,Customer service,0.6437,positive,positive
+126,DHL,Delivery speed,0.6437,positive,positive
+127,DHL,Delivery speed,0.7351,positive,positive
+128,Evri,Driver behaviour,0.0,positive,neutral
+128,Evri,Parcel condition,0.5719,positive,positive
+129,Evri,Customer service,0.6437,positive,positive
+129,Evri,Delivery speed,0.6437,positive,positive
+129,Evri,Tracking & updates,0.5256,positive,positive
+131,Evri,Delivery speed,0.25,positive,positive
+131,Evri,Tracking & updates,0.25,positive,positive
+132,Yodel,Delivery speed,0.0,negative,neutral
+132,Yodel,Driver behaviour,0.0,negative,neutral
+134,Evri,Safe place / doorstep,0.0,neutral,neutral
+136,Evri,Delivery speed,0.0,negative,neutral
+136,Evri,Tracking & updates,0.0,negative,neutral
+137,Amazon Logistics,Delivery speed,0.7845,positive,positive
+137,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+137,Amazon Logistics,Parcel condition,0.5719,positive,positive
+138,Yodel,Customer service,-0.5574,negative,negative
+138,Yodel,Delivery speed,-0.5574,negative,negative
+138,Yodel,Lost / not delivered,-0.5574,negative,negative
+139,Royal Mail,Tracking & updates,0.5256,positive,positive
+140,DHL,Tracking & updates,0.5256,positive,positive
+141,DPD,Delivery speed,-0.6808,negative,negative
+142,DPD,Delivery speed,0.8074,positive,positive
+142,DPD,Driver behaviour,0.8074,positive,positive
+144,Evri,Delivery speed,0.0,negative,neutral
+144,Evri,Tracking & updates,0.0,negative,neutral
+146,Evri,Customer service,-0.3612,positive,negative
+146,Evri,Delivery speed,-0.3612,positive,negative
+147,DHL,Tracking & updates,0.4767,positive,positive
+148,Royal Mail,Driver behaviour,0.0,negative,neutral
+148,Royal Mail,Parcel condition,0.0,negative,neutral
+148,Royal Mail,Safe place / doorstep,0.0,negative,neutral
+149,Amazon Logistics,Delivery speed,0.6361,positive,positive
+149,Amazon Logistics,Driver behaviour,0.6361,positive,positive
+150,Amazon Logistics,Customer service,0.7147,positive,positive
+150,Amazon Logistics,Delivery speed,0.7147,positive,positive
+151,Royal Mail,Delivery speed,0.5413,positive,positive
+151,Royal Mail,Driver behaviour,0.5413,positive,positive
+152,Yodel,Delivery speed,0.0,neutral,neutral
+152,Yodel,Driver behaviour,0.0,neutral,neutral
+153,Royal Mail,Delivery speed,0.25,positive,positive
+153,Royal Mail,Tracking & updates,0.25,positive,positive
+154,DPD,Delivery speed,0.25,positive,positive
+154,DPD,Tracking & updates,0.25,positive,positive
+155,Evri,Tracking & updates,0.4767,positive,positive
+156,DPD,Delivery speed,0.0,positive,neutral
+156,DPD,Driver behaviour,0.0,positive,neutral
+157,Royal Mail,Customer service,0.6437,positive,positive
+157,Royal Mail,Delivery speed,0.6894,positive,positive
+158,Yodel,Delivery speed,0.5413,positive,positive
+158,Yodel,Driver behaviour,0.5413,positive,positive
+160,Amazon Logistics,Delivery speed,0.8402,positive,positive
+160,Amazon Logistics,Driver behaviour,0.8402,positive,positive
+161,DPD,Customer service,0.6437,positive,positive
+161,DPD,Delivery speed,0.6894,positive,positive
+162,Royal Mail,Driver behaviour,0.0,neutral,neutral
+162,Royal Mail,Parcel condition,0.0,neutral,neutral
+162,Royal Mail,Safe place / doorstep,0.0,neutral,neutral
+163,DHL,Tracking & updates,0.1027,positive,positive
+164,DPD,Delivery speed,0.25,positive,positive
+164,DPD,Tracking & updates,0.25,positive,positive
+165,DPD,Tracking & updates,0.4767,positive,positive
+166,Royal Mail,Customer service,-0.5574,negative,negative
+166,Royal Mail,Delivery speed,-0.6191,negative,negative
+166,Royal Mail,Lost / not delivered,-0.5574,negative,negative
+167,Yodel,Customer service,-0.45930000000000004,negative,negative
+167,Yodel,Delivery speed,-0.45930000000000004,negative,negative
+167,Yodel,Lost / not delivered,-0.5574,negative,negative
+168,Royal Mail,Customer service,-0.5574,negative,negative
+168,Royal Mail,Delivery speed,-0.5574,negative,negative
+168,Royal Mail,Driver behaviour,-0.5442,negative,negative
+168,Royal Mail,Lost / not delivered,-0.5574,negative,negative
+168,Royal Mail,Safe place / doorstep,-0.5442,negative,negative
+169,Evri,Safe place / doorstep,-0.4767,positive,negative
+170,InPost,Customer service,0.6437,positive,positive
+170,InPost,Delivery speed,0.6437,positive,positive
+171,Royal Mail,Customer service,0.6437,positive,positive
+171,Royal Mail,Delivery speed,0.6437,positive,positive
+172,Royal Mail,Tracking & updates,0.5256,positive,positive
+173,Royal Mail,Customer service,-0.3612,negative,negative
+173,Royal Mail,Delivery speed,-0.1806,negative,negative
+173,Royal Mail,Driver behaviour,0.0,negative,neutral
+174,Evri,Tracking & updates,0.5256,positive,positive
+175,DPD,Customer service,0.6437,positive,positive
+175,DPD,Delivery speed,0.6894,positive,positive
+176,DHL,Delivery speed,0.5413,positive,positive
+176,DHL,Driver behaviour,0.5413,positive,positive
+176,DHL,Tracking & updates,0.4767,positive,positive
+177,Royal Mail,Customer service,0.6437,positive,positive
+177,Royal Mail,Delivery speed,0.6437,positive,positive
+178,Yodel,Customer service,0.0,negative,neutral
+178,Yodel,Driver behaviour,0.0,negative,neutral
+178,Yodel,Lost / not delivered,-0.4588,negative,negative
+178,Yodel,Parcel condition,0.0,negative,neutral
+178,Yodel,Safe place / doorstep,0.0,negative,neutral
+179,InPost,Delivery speed,0.25,positive,positive
+179,InPost,Driver behaviour,0.0,positive,neutral
+179,InPost,Parcel condition,0.5719,positive,positive
+179,InPost,Tracking & updates,0.25,positive,positive
+180,Yodel,Customer service,0.6437,positive,positive
+180,Yodel,Delivery speed,0.6437,positive,positive
+180,Yodel,Tracking & updates,0.4767,positive,positive
+181,DPD,Customer service,0.6437,positive,positive
+181,DPD,Delivery speed,0.72555,positive,positive
+181,DPD,Driver behaviour,0.8074,positive,positive
+182,Yodel,Lost / not delivered,0.0,positive,neutral
+183,DHL,Delivery speed,0.8074,positive,positive
+183,DHL,Driver behaviour,0.8074,positive,positive
+184,Evri,Customer service,0.0,negative,neutral
+184,Evri,Lost / not delivered,-0.4588,negative,negative
+185,Evri,Driver behaviour,-0.7003,negative,negative
+185,Evri,Parcel condition,-0.7003,negative,negative
+185,Evri,Safe place / doorstep,-0.4767,negative,negative
+186,Royal Mail,Delivery speed,0.7351,positive,positive
+186,Royal Mail,Driver behaviour,0.0,positive,neutral
+186,Royal Mail,Parcel condition,0.5719,positive,positive
+187,DPD,Delivery speed,0.5413,positive,positive
+187,DPD,Driver behaviour,0.5413,positive,positive
+188,Evri,Customer service,0.0,negative,neutral
+188,Evri,Lost / not delivered,-0.4588,negative,negative
+188,Evri,Safe place / doorstep,0.0,negative,neutral
+189,Royal Mail,Driver behaviour,-0.7003,negative,negative
+189,Royal Mail,Parcel condition,-0.7003,negative,negative
+190,Evri,Tracking & updates,-0.1027,positive,negative
+191,DPD,Delivery speed,0.5413,positive,positive
+191,DPD,Driver behaviour,0.5413,positive,positive
+192,DPD,Tracking & updates,0.4767,positive,positive
+193,Yodel,Delivery speed,0.0,negative,neutral
+193,Yodel,Safe place / doorstep,0.0,negative,neutral
+193,Yodel,Tracking & updates,0.0,negative,neutral
+194,Yodel,Delivery speed,0.6382,positive,positive
+194,Yodel,Driver behaviour,0.5413,positive,positive
+195,Evri,Customer service,-0.3612,negative,negative
+195,Evri,Delivery speed,-0.3612,negative,negative
+195,Evri,Safe place / doorstep,-0.4767,negative,negative
+196,Evri,Tracking & updates,-0.1027,negative,negative
+197,Evri,Delivery speed,0.0,negative,neutral
+197,Evri,Tracking & updates,0.0,negative,neutral
+198,Evri,Tracking & updates,-0.1027,positive,negative
+199,Evri,Delivery speed,0.5413,positive,positive
+199,Evri,Driver behaviour,0.5413,positive,positive
+201,Evri,Customer service,-0.2787,negative,negative
+201,Evri,Delivery speed,-0.5574,negative,negative
+201,Evri,Lost / not delivered,-0.5081,negative,negative
+203,Evri,Customer service,-0.3612,negative,negative
+203,Evri,Delivery speed,-0.1806,negative,negative
+203,Evri,Driver behaviour,0.0,negative,neutral
+204,DPD,Tracking & updates,0.4767,positive,positive
+205,Yodel,Delivery speed,0.25,positive,positive
+205,Yodel,Tracking & updates,0.25,positive,positive
+206,Amazon Logistics,Delivery speed,0.1779,negative,positive
+206,Amazon Logistics,Tracking & updates,0.1779,negative,positive
+207,Evri,Customer service,0.0,negative,neutral
+207,Evri,Lost / not delivered,-0.4588,negative,negative
+207,Evri,Safe place / doorstep,0.0,negative,neutral
+208,Royal Mail,Tracking & updates,0.5256,positive,positive
+209,Evri,Tracking & updates,0.4767,positive,positive
+210,Evri,Tracking & updates,-0.1027,negative,negative
+211,Royal Mail,Tracking & updates,0.4767,positive,positive
+212,DPD,Tracking & updates,0.5256,positive,positive
+213,DPD,Customer service,-0.3612,negative,negative
+213,DPD,Delivery speed,-0.3612,negative,negative
+213,DPD,Safe place / doorstep,-0.4767,negative,negative
+214,DHL,Customer service,-0.3612,negative,negative
+214,DHL,Delivery speed,-0.3612,negative,negative
+214,DHL,Driver behaviour,-0.5442,negative,negative
+214,DHL,Safe place / doorstep,-0.5442,negative,negative
+215,Royal Mail,Delivery speed,0.8074,positive,positive
+215,Royal Mail,Driver behaviour,0.8074,positive,positive
+216,Royal Mail,Customer service,0.0,negative,neutral
+216,Royal Mail,Lost / not delivered,-0.4588,negative,negative
+217,DPD,Tracking & updates,0.5256,positive,positive
+218,Amazon Logistics,Delivery speed,0.7845,positive,positive
+219,Royal Mail,Driver behaviour,0.0,positive,neutral
+219,Royal Mail,Parcel condition,0.5719,positive,positive
+220,Royal Mail,Delivery speed,0.5413,positive,positive
+220,Royal Mail,Driver behaviour,0.5413,positive,positive
+221,DPD,Driver behaviour,-0.7003,negative,negative
+221,DPD,Lost / not delivered,0.0,negative,neutral
+221,DPD,Parcel condition,-0.7003,negative,negative
+222,DPD,Driver behaviour,-0.7003,negative,negative
+222,DPD,Parcel condition,-0.7003,negative,negative
+223,Royal Mail,Delivery speed,0.5413,positive,positive
+223,Royal Mail,Driver behaviour,0.5413,positive,positive
+224,DPD,Customer service,-0.5574,negative,negative
+224,DPD,Delivery speed,-0.5574,negative,negative
+224,DPD,Lost / not delivered,-0.5574,negative,negative
+225,Evri,Delivery speed,0.5413,positive,positive
+225,Evri,Driver behaviour,0.5413,positive,positive
+226,Evri,Customer service,0.6437,positive,positive
+226,Evri,Delivery speed,0.6437,positive,positive
+227,DPD,Customer service,0.6437,positive,positive
+227,DPD,Delivery speed,0.6437,positive,positive
+227,DPD,Driver behaviour,0.0,positive,neutral
+227,DPD,Parcel condition,0.5719,positive,positive
+228,DPD,Tracking & updates,0.5256,positive,positive
+230,DPD,Delivery speed,-0.6808,negative,negative
+230,DPD,Driver behaviour,-0.7003,negative,negative
+230,DPD,Parcel condition,-0.7003,negative,negative
+231,Amazon Logistics,Tracking & updates,0.5859,positive,positive
+232,DHL,Driver behaviour,0.0,positive,neutral
+232,DHL,Parcel condition,0.5719,positive,positive
+233,DPD,Tracking & updates,0.4767,positive,positive
+234,Evri,Tracking & updates,0.4767,positive,positive
+235,Evri,Delivery speed,0.25,positive,positive
+235,Evri,Tracking & updates,0.25,positive,positive
+236,DHL,Customer service,0.0,negative,neutral
+236,DHL,Lost / not delivered,-0.4588,negative,negative
+237,InPost,Delivery speed,0.7351,positive,positive
+238,Evri,Delivery speed,0.0,negative,neutral
+238,Evri,Driver behaviour,-0.2721,negative,negative
+238,Evri,Safe place / doorstep,-0.5442,negative,negative
+239,Evri,Customer service,-0.5574,negative,negative
+239,Evri,Delivery speed,-0.5574,negative,negative
+239,Evri,Lost / not delivered,-0.2787,negative,negative
+240,Royal Mail,Customer service,0.0,negative,neutral
+240,Royal Mail,Lost / not delivered,-0.4588,negative,negative
+241,Royal Mail,Driver behaviour,-0.5442,negative,negative
+241,Royal Mail,Safe place / doorstep,-0.5442,negative,negative
+242,Royal Mail,Tracking & updates,0.4767,positive,positive
+243,Royal Mail,Driver behaviour,-0.5442,negative,negative
+243,Royal Mail,Lost / not delivered,0.0,negative,neutral
+243,Royal Mail,Safe place / doorstep,-0.5442,negative,negative
+245,Royal Mail,Driver behaviour,-0.5442,negative,negative
+245,Royal Mail,Safe place / doorstep,-0.5442,negative,negative
+246,Evri,Customer service,0.0,negative,neutral
+246,Evri,Lost / not delivered,-0.2294,negative,negative
+247,DPD,Delivery speed,0.7351,positive,positive
+247,DPD,Tracking & updates,0.5256,positive,positive
+248,Evri,Driver behaviour,-0.5442,negative,negative
+248,Evri,Parcel condition,-0.7003,negative,negative
+248,Evri,Safe place / doorstep,-0.5442,negative,negative
+249,Evri,Delivery speed,0.5413,positive,positive
+249,Evri,Driver behaviour,0.5413,positive,positive
+250,Yodel,Tracking & updates,0.5256,positive,positive
+251,Amazon Logistics,Customer service,-0.4404,negative,negative
+251,Amazon Logistics,Delivery speed,-0.4404,negative,negative
+251,Amazon Logistics,Lost / not delivered,-0.13125,negative,negative
+252,Yodel,Delivery speed,0.7351,positive,positive
+252,Yodel,Driver behaviour,0.0,positive,neutral
+252,Yodel,Parcel condition,0.5719,positive,positive
+253,DPD,Customer service,0.0,negative,neutral
+253,DPD,Lost / not delivered,-0.4588,negative,negative
+253,DPD,Safe place / doorstep,-0.4767,negative,negative
+255,DPD,Delivery speed,-0.6808,negative,negative
+256,InPost,Tracking & updates,0.4767,positive,positive
+259,Royal Mail,Delivery speed,0.8074,positive,positive
+259,Royal Mail,Driver behaviour,0.4037,positive,positive
+259,Royal Mail,Parcel condition,0.5719,positive,positive
+260,Evri,Customer service,0.6437,positive,positive
+260,Evri,Delivery speed,0.6437,positive,positive
+261,Royal Mail,Tracking & updates,0.4767,positive,positive
+263,DPD,Delivery speed,0.8074,positive,positive
+263,DPD,Driver behaviour,0.8074,positive,positive
+263,DPD,Tracking & updates,0.5256,positive,positive
+264,DPD,Driver behaviour,0.0,positive,neutral
+264,DPD,Parcel condition,0.5719,positive,positive
+265,Amazon Logistics,Customer service,0.0,negative,neutral
+265,Amazon Logistics,Lost / not delivered,-0.3182,negative,negative
+266,Royal Mail,Delivery speed,0.7351,positive,positive
+266,Royal Mail,Driver behaviour,0.0,positive,neutral
+266,Royal Mail,Parcel condition,0.5719,positive,positive
+267,Yodel,Driver behaviour,-0.35015,neutral,negative
+267,Yodel,Parcel condition,-0.35015,neutral,negative
+267,Yodel,Safe place / doorstep,0.0,neutral,neutral
+268,Royal Mail,Delivery speed,0.25,positive,positive
+268,Royal Mail,Tracking & updates,0.25,positive,positive
+269,Yodel,Driver behaviour,-0.7003,neutral,negative
+269,Yodel,Parcel condition,-0.7003,neutral,negative
+270,DPD,Delivery speed,0.7351,positive,positive
+271,Evri,Delivery speed,0.0,negative,neutral
+271,Evri,Tracking & updates,0.0,negative,neutral
+272,Evri,Safe place / doorstep,-0.4767,negative,negative
+273,Royal Mail,Tracking & updates,0.4767,positive,positive
+274,Royal Mail,Tracking & updates,0.5256,positive,positive
+276,Evri,Customer service,0.0,neutral,neutral
+276,Evri,Lost / not delivered,-0.4588,neutral,negative
+277,Amazon Logistics,Delivery speed,0.8402,positive,positive
+277,Amazon Logistics,Driver behaviour,0.8402,positive,positive
+278,Yodel,Safe place / doorstep,-0.4767,negative,negative
+279,DPD,Customer service,0.6437,positive,positive
+279,DPD,Delivery speed,0.6437,positive,positive
+280,Amazon Logistics,Customer service,-0.2023,negative,negative
+280,Amazon Logistics,Delivery speed,-0.2023,negative,negative
+280,Amazon Logistics,Driver behaviour,-0.6249,negative,negative
+280,Amazon Logistics,Parcel condition,-0.6249,negative,negative
+281,DPD,Delivery speed,0.25,positive,positive
+281,DPD,Tracking & updates,0.25,positive,positive
+282,Evri,Tracking & updates,0.5256,positive,positive
+283,DPD,Delivery speed,0.5413,positive,positive
+283,DPD,Driver behaviour,0.5413,positive,positive
+285,Evri,Tracking & updates,-0.1027,positive,negative
+286,DPD,Tracking & updates,0.5256,positive,positive
+288,DPD,Delivery speed,0.39565,positive,positive
+288,DPD,Driver behaviour,0.5413,positive,positive
+288,DPD,Tracking & updates,0.25,positive,positive
+289,DPD,Delivery speed,0.5413,positive,positive
+289,DPD,Driver behaviour,0.5413,positive,positive
+291,DPD,Driver behaviour,0.0,positive,neutral
+291,DPD,Parcel condition,0.5719,positive,positive
+292,Royal Mail,Delivery speed,-0.6808,negative,negative
+293,DHL,Tracking & updates,-0.1027,positive,negative
+294,Evri,Customer service,0.0,negative,neutral
+294,Evri,Lost / not delivered,-0.4588,negative,negative
+295,Amazon Logistics,Delivery speed,0.4019,positive,positive
+295,Amazon Logistics,Tracking & updates,0.4019,positive,positive
+296,Amazon Logistics,Customer service,0.0,negative,neutral
+296,Amazon Logistics,Lost / not delivered,-0.3182,negative,negative
+297,Evri,Customer service,0.6437,positive,positive
+297,Evri,Delivery speed,0.6437,positive,positive
+297,Evri,Tracking & updates,0.4767,positive,positive
+298,DHL,Driver behaviour,-0.7003,negative,negative
+298,DHL,Parcel condition,-0.7003,negative,negative
+299,InPost,Delivery speed,0.0,positive,neutral
+299,InPost,Driver behaviour,0.0,positive,neutral
+300,Yodel,Delivery speed,0.5413,positive,positive
+300,Yodel,Driver behaviour,0.5413,positive,positive
+301,Evri,Tracking & updates,0.4767,positive,positive
+302,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+302,Amazon Logistics,Parcel condition,0.5719,positive,positive
+303,Evri,Delivery speed,-0.6808,negative,negative
+304,Yodel,Delivery speed,0.25,positive,positive
+304,Yodel,Tracking & updates,0.25,positive,positive
+305,Yodel,Delivery speed,0.39565,positive,positive
+305,Yodel,Driver behaviour,0.5413,positive,positive
+305,Yodel,Tracking & updates,0.25,positive,positive
+306,Amazon Logistics,Delivery speed,0.6361,positive,positive
+306,Amazon Logistics,Driver behaviour,0.6361,positive,positive
+307,Yodel,Tracking & updates,0.5256,positive,positive
+309,Evri,Tracking & updates,0.5256,positive,positive
+310,Evri,Customer service,0.0,negative,neutral
+310,Evri,Lost / not delivered,-0.4588,negative,negative
+311,DPD,Delivery speed,0.8074,positive,positive
+311,DPD,Driver behaviour,0.8074,positive,positive
+311,DPD,Tracking & updates,0.4767,positive,positive
+312,Royal Mail,Customer service,-0.3612,negative,negative
+312,Royal Mail,Delivery speed,-0.3612,negative,negative
+313,Royal Mail,Customer service,0.0,negative,neutral
+313,Royal Mail,Lost / not delivered,-0.4588,negative,negative
+313,Royal Mail,Parcel condition,-0.7003,negative,negative
+314,Royal Mail,Driver behaviour,-0.7003,negative,negative
+314,Royal Mail,Parcel condition,-0.7003,negative,negative
+316,Yodel,Lost / not delivered,0.0,neutral,neutral
+317,DPD,Driver behaviour,0.0,positive,neutral
+317,DPD,Parcel condition,0.5719,positive,positive
+318,Amazon Logistics,Delivery speed,0.1779,negative,positive
+318,Amazon Logistics,Driver behaviour,-0.4238,negative,negative
+318,Amazon Logistics,Safe place / doorstep,-0.4238,negative,negative
+318,Amazon Logistics,Tracking & updates,0.1779,negative,positive
+319,Yodel,Delivery speed,0.0,negative,neutral
+319,Yodel,Tracking & updates,0.0,negative,neutral
+320,Yodel,Customer service,0.0,positive,neutral
+320,Yodel,Lost / not delivered,-0.2294,positive,negative
+321,Evri,Delivery speed,-0.6808,negative,negative
+322,InPost,Tracking & updates,0.4767,positive,positive
+324,Amazon Logistics,Delivery speed,0.4019,positive,positive
+324,Amazon Logistics,Tracking & updates,0.4019,positive,positive
+325,DPD,Driver behaviour,0.0,positive,neutral
+325,DPD,Parcel condition,0.5719,positive,positive
+326,DHL,Customer service,0.6437,positive,positive
+326,DHL,Delivery speed,0.5925,positive,positive
+326,DHL,Driver behaviour,0.5413,positive,positive
+327,DHL,Delivery speed,0.8074,positive,positive
+327,DHL,Driver behaviour,0.4037,positive,positive
+327,DHL,Parcel condition,0.5719,positive,positive
+328,Evri,Tracking & updates,0.4767,positive,positive
+329,Yodel,Delivery speed,0.7351,positive,positive
+330,Royal Mail,Driver behaviour,-0.7003,negative,negative
+330,Royal Mail,Lost / not delivered,0.0,negative,neutral
+330,Royal Mail,Parcel condition,-0.7003,negative,negative
+331,DPD,Tracking & updates,0.1027,positive,positive
+332,DPD,Customer service,-0.3612,positive,negative
+332,DPD,Delivery speed,-0.3612,positive,negative
+333,DPD,Delivery speed,0.5413,positive,positive
+333,DPD,Driver behaviour,0.5413,positive,positive
+334,DPD,Delivery speed,-0.6808,negative,negative
+335,Evri,Delivery speed,-0.6808,negative,negative
+336,Evri,Customer service,-0.1806,negative,negative
+336,Evri,Delivery speed,-0.3612,negative,negative
+336,Evri,Lost / not delivered,-0.4588,negative,negative
+337,Yodel,Driver behaviour,-0.7003,negative,negative
+337,Yodel,Parcel condition,-0.7003,negative,negative
+338,Royal Mail,Customer service,0.0,negative,neutral
+338,Royal Mail,Lost / not delivered,-0.4588,negative,negative
+338,Royal Mail,Safe place / doorstep,-0.4767,negative,negative
+340,Royal Mail,Delivery speed,0.0,negative,neutral
+340,Royal Mail,Tracking & updates,0.0,negative,neutral
+341,InPost,Driver behaviour,0.0,positive,neutral
+341,InPost,Parcel condition,0.5719,positive,positive
+342,Evri,Safe place / doorstep,0.0,neutral,neutral
+343,Royal Mail,Delivery speed,0.0,positive,neutral
+343,Royal Mail,Driver behaviour,0.0,positive,neutral
+344,Evri,Tracking & updates,0.1027,positive,positive
+345,DPD,Delivery speed,0.8074,positive,positive
+345,DPD,Driver behaviour,0.4037,positive,positive
+345,DPD,Parcel condition,0.5719,positive,positive
+346,Evri,Tracking & updates,0.5256,positive,positive
+348,Royal Mail,Tracking & updates,0.4767,positive,positive
+349,Yodel,Tracking & updates,0.4767,positive,positive
+350,InPost,Delivery speed,0.25,positive,positive
+350,InPost,Tracking & updates,0.25,positive,positive
+351,Royal Mail,Delivery speed,0.5413,positive,positive
+351,Royal Mail,Driver behaviour,0.5413,positive,positive
+352,Royal Mail,Tracking & updates,0.5256,positive,positive
+353,Royal Mail,Customer service,0.6437,positive,positive
+353,Royal Mail,Delivery speed,0.6437,positive,positive
+354,DPD,Delivery speed,0.6382,positive,positive
+354,DPD,Driver behaviour,0.5413,positive,positive
+356,DPD,Delivery speed,0.8074,positive,positive
+356,DPD,Driver behaviour,0.8074,positive,positive
+358,Royal Mail,Delivery speed,-0.6808,negative,negative
+359,DPD,Delivery speed,0.8074,positive,positive
+359,DPD,Driver behaviour,0.8074,positive,positive
+360,Evri,Delivery speed,0.7351,positive,positive
+361,DPD,Customer service,-0.3612,negative,negative
+361,DPD,Delivery speed,-0.3612,negative,negative
+361,DPD,Safe place / doorstep,-0.4767,negative,negative
+362,DPD,Delivery speed,0.8074,positive,positive
+362,DPD,Driver behaviour,0.8074,positive,positive
+363,InPost,Delivery speed,0.25,positive,positive
+363,InPost,Tracking & updates,0.25,positive,positive
+364,Evri,Delivery speed,0.5413,positive,positive
+364,Evri,Driver behaviour,0.5413,positive,positive
+364,Evri,Tracking & updates,0.4767,positive,positive
+365,DPD,Customer service,0.6437,positive,positive
+365,DPD,Delivery speed,0.6437,positive,positive
+365,DPD,Tracking & updates,0.5256,positive,positive
+366,DPD,Customer service,0.6437,positive,positive
+366,DPD,Delivery speed,0.44685,positive,positive
+366,DPD,Tracking & updates,0.25,positive,positive
+367,Evri,Customer service,0.6437,positive,positive
+367,Evri,Delivery speed,0.6437,positive,positive
+368,Amazon Logistics,Delivery speed,0.1779,negative,positive
+368,Amazon Logistics,Tracking & updates,0.1779,negative,positive
+369,InPost,Delivery speed,0.7351,positive,positive
+370,Royal Mail,Delivery speed,0.7351,positive,positive
+371,Amazon Logistics,Tracking & updates,0.5859,positive,positive
+372,Evri,Driver behaviour,-0.5442,negative,negative
+372,Evri,Safe place / doorstep,-0.5104500000000001,negative,negative
+373,Evri,Driver behaviour,0.0,positive,neutral
+373,Evri,Parcel condition,0.5719,positive,positive
+374,Yodel,Delivery speed,0.25,positive,positive
+374,Yodel,Tracking & updates,0.25,positive,positive
+375,Evri,Driver behaviour,0.0,negative,neutral
+375,Evri,Parcel condition,0.0,negative,neutral
+375,Evri,Safe place / doorstep,0.0,negative,neutral
+376,Royal Mail,Customer service,0.6437,positive,positive
+376,Royal Mail,Delivery speed,0.5925,positive,positive
+376,Royal Mail,Driver behaviour,0.5413,positive,positive
+377,Evri,Delivery speed,0.5413,positive,positive
+377,Evri,Driver behaviour,0.27065,positive,positive
+377,Evri,Parcel condition,0.5719,positive,positive
+378,Yodel,Driver behaviour,-0.5442,negative,negative
+378,Yodel,Safe place / doorstep,-0.5442,negative,negative
+379,Royal Mail,Customer service,-0.5574,negative,negative
+379,Royal Mail,Delivery speed,-0.5574,negative,negative
+379,Royal Mail,Lost / not delivered,-0.5574,negative,negative
+381,Yodel,Delivery speed,-0.6808,negative,negative
+382,DPD,Delivery speed,0.25,positive,positive
+382,DPD,Tracking & updates,0.25,positive,positive
+383,Evri,Tracking & updates,0.5256,positive,positive
+384,Yodel,Driver behaviour,0.0,positive,neutral
+384,Yodel,Parcel condition,0.0,positive,neutral
+384,Yodel,Safe place / doorstep,0.0,positive,neutral
+385,DPD,Delivery speed,0.5413,positive,positive
+385,DPD,Driver behaviour,0.5413,positive,positive
+386,Amazon Logistics,Delivery speed,0.7845,positive,positive
+386,Amazon Logistics,Tracking & updates,0.5859,positive,positive
+387,DPD,Safe place / doorstep,-0.4767,negative,negative
+388,Yodel,Delivery speed,0.5413,positive,positive
+388,Yodel,Driver behaviour,0.5413,positive,positive
+388,Yodel,Tracking & updates,0.5256,positive,positive
+389,DPD,Customer service,0.6437,positive,positive
+389,DPD,Delivery speed,0.6437,positive,positive
+390,Yodel,Delivery speed,0.0,negative,neutral
+390,Yodel,Tracking & updates,0.0,negative,neutral
+391,DPD,Driver behaviour,0.0,positive,neutral
+391,DPD,Parcel condition,0.5719,positive,positive
+392,Evri,Delivery speed,0.0,neutral,neutral
+392,Evri,Driver behaviour,0.0,neutral,neutral
+393,Evri,Delivery speed,0.7351,positive,positive
+394,Royal Mail,Delivery speed,0.8074,positive,positive
+394,Royal Mail,Driver behaviour,0.8074,positive,positive
+395,Royal Mail,Customer service,0.6437,positive,positive
+395,Royal Mail,Delivery speed,0.6437,positive,positive
+396,Evri,Driver behaviour,0.0,positive,neutral
+396,Evri,Parcel condition,0.5719,positive,positive
+397,Yodel,Delivery speed,0.49255,positive,positive
+397,Yodel,Tracking & updates,0.25,positive,positive
+398,Evri,Driver behaviour,0.0,neutral,neutral
+398,Evri,Parcel condition,0.0,neutral,neutral
+398,Evri,Safe place / doorstep,0.0,neutral,neutral
+399,DHL,Delivery speed,0.5413,positive,positive
+399,DHL,Driver behaviour,0.5413,positive,positive
+400,Evri,Delivery speed,-0.6808,negative,negative
+402,Evri,Driver behaviour,0.0,positive,neutral
+402,Evri,Parcel condition,0.5719,positive,positive
+403,DPD,Customer service,0.6437,positive,positive
+403,DPD,Delivery speed,0.5925,positive,positive
+403,DPD,Driver behaviour,0.5413,positive,positive
+404,Evri,Delivery speed,0.5413,positive,positive
+404,Evri,Driver behaviour,0.5413,positive,positive
+405,Yodel,Customer service,-0.3612,negative,negative
+405,Yodel,Delivery speed,-0.1806,negative,negative
+405,Yodel,Driver behaviour,0.0,negative,neutral
+406,Royal Mail,Delivery speed,0.49255,positive,positive
+406,Royal Mail,Tracking & updates,0.25,positive,positive
+407,Royal Mail,Delivery speed,0.25,positive,positive
+407,Royal Mail,Tracking & updates,0.25,positive,positive
+408,DPD,Delivery speed,0.7351,positive,positive
+409,Evri,Customer service,0.0,negative,neutral
+409,Evri,Lost / not delivered,-0.4588,negative,negative
+409,Evri,Safe place / doorstep,-0.4767,negative,negative
+410,Evri,Driver behaviour,0.0,negative,neutral
+410,Evri,Parcel condition,0.0,negative,neutral
+410,Evri,Safe place / doorstep,0.0,negative,neutral
+411,Evri,Tracking & updates,0.4767,positive,positive
+412,DPD,Delivery speed,0.7351,positive,positive
+413,Royal Mail,Delivery speed,0.8074,positive,positive
+413,Royal Mail,Driver behaviour,0.8074,positive,positive
+414,Amazon Logistics,Lost / not delivered,0.1779,positive,positive
+415,DPD,Driver behaviour,0.0,positive,neutral
+415,DPD,Parcel condition,0.5719,positive,positive
+416,Evri,Lost / not delivered,0.0,neutral,neutral
+417,Evri,Lost / not delivered,0.0,negative,neutral
+418,Yodel,Delivery speed,-0.6808,negative,negative
+419,DPD,Lost / not delivered,0.0,negative,neutral
+421,Amazon Logistics,Tracking & updates,0.2732,positive,positive
+422,DPD,Delivery speed,0.25,positive,positive
+422,DPD,Tracking & updates,0.25,positive,positive
+423,DPD,Delivery speed,0.5413,positive,positive
+423,DPD,Driver behaviour,0.5413,positive,positive
+424,Royal Mail,Delivery speed,0.0,negative,neutral
+424,Royal Mail,Safe place / doorstep,0.0,negative,neutral
+424,Royal Mail,Tracking & updates,0.0,negative,neutral
+425,Royal Mail,Customer service,0.0,negative,neutral
+425,Royal Mail,Lost / not delivered,-0.2294,negative,negative
+427,Evri,Driver behaviour,0.0,neutral,neutral
+427,Evri,Parcel condition,0.0,neutral,neutral
+427,Evri,Safe place / doorstep,0.0,neutral,neutral
+428,InPost,Delivery speed,0.7351,positive,positive
+429,DPD,Delivery speed,0.25,positive,positive
+429,DPD,Tracking & updates,0.25,positive,positive
+430,Royal Mail,Tracking & updates,0.5256,positive,positive
+431,Evri,Delivery speed,0.25,positive,positive
+431,Evri,Tracking & updates,0.25,positive,positive
+432,Evri,Lost / not delivered,0.0,neutral,neutral
+433,Evri,Delivery speed,0.8074,positive,positive
+433,Evri,Driver behaviour,0.8074,positive,positive
+434,Evri,Delivery speed,0.0,negative,neutral
+434,Evri,Driver behaviour,0.0,negative,neutral
+434,Evri,Parcel condition,-0.7003,negative,negative
+436,DPD,Delivery speed,0.25,positive,positive
+436,DPD,Tracking & updates,0.25,positive,positive
+437,Yodel,Customer service,-0.3612,negative,negative
+437,Yodel,Delivery speed,-0.3612,negative,negative
+438,Yodel,Driver behaviour,-0.35015,negative,negative
+438,Yodel,Parcel condition,-0.35015,negative,negative
+438,Yodel,Safe place / doorstep,0.0,negative,neutral
+439,DHL,Delivery speed,0.7351,positive,positive
+439,DHL,Driver behaviour,0.0,positive,neutral
+439,DHL,Parcel condition,0.5719,positive,positive
+440,Royal Mail,Driver behaviour,-0.5442,negative,negative
+440,Royal Mail,Safe place / doorstep,-0.5442,negative,negative
+441,Evri,Customer service,-0.3612,negative,negative
+441,Evri,Delivery speed,-0.3612,negative,negative
+443,Evri,Delivery speed,-0.6808,negative,negative
+444,Evri,Customer service,0.6437,positive,positive
+444,Evri,Delivery speed,0.6437,positive,positive
+444,Evri,Driver behaviour,0.0,positive,neutral
+444,Evri,Parcel condition,0.5719,positive,positive
+445,Evri,Delivery speed,0.0,negative,neutral
+445,Evri,Tracking & updates,0.0,negative,neutral
+446,Evri,Customer service,0.0,negative,neutral
+446,Evri,Lost / not delivered,-0.4588,negative,negative
+447,Yodel,Customer service,-0.3612,negative,negative
+447,Yodel,Delivery speed,-0.1806,negative,negative
+447,Yodel,Driver behaviour,0.0,negative,neutral
+448,Yodel,Tracking & updates,0.5256,positive,positive
+449,DPD,Delivery speed,-0.6808,negative,negative
+450,Yodel,Tracking & updates,0.5256,positive,positive
+451,Amazon Logistics,Delivery speed,0.6361,positive,positive
+451,Amazon Logistics,Driver behaviour,0.6361,positive,positive
+451,Amazon Logistics,Tracking & updates,0.5859,positive,positive
+453,Yodel,Safe place / doorstep,0.0,positive,neutral
+454,DPD,Customer service,0.6437,positive,positive
+454,DPD,Delivery speed,0.6437,positive,positive
+455,Evri,Delivery speed,-0.6808,negative,negative
+456,Amazon Logistics,Customer service,0.7147,positive,positive
+456,Amazon Logistics,Delivery speed,0.7147,positive,positive
+456,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+456,Amazon Logistics,Parcel condition,0.5719,positive,positive
+457,Royal Mail,Delivery speed,0.5413,positive,positive
+457,Royal Mail,Driver behaviour,0.5413,positive,positive
+458,Amazon Logistics,Tracking & updates,0.6566,positive,positive
+459,DPD,Delivery speed,0.0,neutral,neutral
+459,DPD,Driver behaviour,0.0,neutral,neutral
+460,Yodel,Delivery speed,0.25,positive,positive
+460,Yodel,Tracking & updates,0.25,positive,positive
+461,Royal Mail,Safe place / doorstep,0.0,neutral,neutral
+462,DHL,Customer service,0.6437,positive,positive
+462,DHL,Delivery speed,0.6437,positive,positive
+463,Evri,Customer service,0.0,positive,neutral
+463,Evri,Lost / not delivered,-0.2294,positive,negative
+464,Yodel,Delivery speed,0.25,positive,positive
+464,Yodel,Tracking & updates,0.25,positive,positive
+465,Yodel,Driver behaviour,0.0,negative,neutral
+465,Yodel,Parcel condition,0.0,negative,neutral
+465,Yodel,Safe place / doorstep,0.0,negative,neutral
+466,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+466,Amazon Logistics,Parcel condition,0.5719,positive,positive
+466,Amazon Logistics,Tracking & updates,0.6566,positive,positive
+467,Evri,Driver behaviour,0.0,negative,neutral
+467,Evri,Parcel condition,0.0,negative,neutral
+467,Evri,Safe place / doorstep,0.0,negative,neutral
+468,DPD,Delivery speed,0.77125,positive,positive
+468,DPD,Driver behaviour,0.8074,positive,positive
+471,Royal Mail,Customer service,0.6437,positive,positive
+471,Royal Mail,Delivery speed,0.6437,positive,positive
+471,Royal Mail,Driver behaviour,0.0,positive,neutral
+471,Royal Mail,Parcel condition,0.5719,positive,positive
+472,DPD,Customer service,0.6437,positive,positive
+472,DPD,Delivery speed,0.5925,positive,positive
+472,DPD,Driver behaviour,0.5413,positive,positive
+473,Royal Mail,Safe place / doorstep,-0.4767,negative,negative
+474,DPD,Delivery speed,0.5413,positive,positive
+474,DPD,Driver behaviour,0.5413,positive,positive
+475,DPD,Delivery speed,0.0,neutral,neutral
+475,DPD,Driver behaviour,0.0,neutral,neutral
+476,DPD,Customer service,0.6437,positive,positive
+476,DPD,Delivery speed,0.6437,positive,positive
+476,DPD,Driver behaviour,0.0,positive,neutral
+476,DPD,Parcel condition,0.5719,positive,positive
+477,Amazon Logistics,Customer service,0.7147,positive,positive
+477,Amazon Logistics,Delivery speed,0.7147,positive,positive
+479,DPD,Customer service,0.6437,positive,positive
+479,DPD,Delivery speed,0.5925,positive,positive
+479,DPD,Driver behaviour,0.5413,positive,positive
+480,Royal Mail,Delivery speed,0.8074,positive,positive
+480,Royal Mail,Driver behaviour,0.8074,positive,positive
+481,DPD,Delivery speed,-0.6808,negative,negative
+482,Royal Mail,Tracking & updates,0.5256,positive,positive
+483,DPD,Tracking & updates,0.5256,positive,positive
+485,Evri,Driver behaviour,0.0,negative,neutral
+485,Evri,Parcel condition,0.0,negative,neutral
+485,Evri,Safe place / doorstep,0.0,negative,neutral
+487,InPost,Lost / not delivered,0.0,negative,neutral
+488,Evri,Delivery speed,0.0,negative,neutral
+488,Evri,Driver behaviour,-0.2721,negative,negative
+488,Evri,Safe place / doorstep,-0.5442,negative,negative
+489,Evri,Tracking & updates,0.5256,positive,positive
+490,DPD,Tracking & updates,0.5256,positive,positive
+491,Evri,Parcel condition,-0.7003,negative,negative
+492,DPD,Tracking & updates,0.4767,positive,positive
+493,DPD,Delivery speed,0.25,positive,positive
+493,DPD,Tracking & updates,0.25,positive,positive
+494,Royal Mail,Delivery speed,0.6382,positive,positive
+494,Royal Mail,Driver behaviour,0.5413,positive,positive
+495,Royal Mail,Driver behaviour,-0.5442,negative,negative
+495,Royal Mail,Safe place / doorstep,-0.5442,negative,negative
+498,Royal Mail,Customer service,-0.5574,negative,negative
+498,Royal Mail,Delivery speed,-0.5574,negative,negative
+498,Royal Mail,Lost / not delivered,-0.5574,negative,negative
+499,Royal Mail,Delivery speed,0.0,negative,neutral
+499,Royal Mail,Driver behaviour,0.0,negative,neutral
+500,DPD,Delivery speed,0.7351,positive,positive
+501,Amazon Logistics,Driver behaviour,-0.6249,negative,negative
+501,Amazon Logistics,Parcel condition,-0.6249,negative,negative
+502,Evri,Delivery speed,0.25,positive,positive
+502,Evri,Tracking & updates,0.25,positive,positive
+503,DPD,Tracking & updates,0.5256,positive,positive
+504,Evri,Tracking & updates,0.5256,positive,positive
+505,Evri,Driver behaviour,0.0,negative,neutral
+505,Evri,Parcel condition,0.0,negative,neutral
+505,Evri,Safe place / doorstep,-0.23835,negative,negative
+506,Royal Mail,Delivery speed,-0.3404,negative,negative
+506,Royal Mail,Tracking & updates,0.0,negative,neutral
+507,DHL,Tracking & updates,0.4767,positive,positive
+509,InPost,Delivery speed,0.67435,positive,positive
+509,InPost,Driver behaviour,0.67435,positive,positive
+510,DPD,Driver behaviour,0.0,positive,neutral
+510,DPD,Parcel condition,0.5719,positive,positive
+510,DPD,Tracking & updates,0.4767,positive,positive
+511,Royal Mail,Tracking & updates,0.5256,positive,positive
+512,Amazon Logistics,Tracking & updates,0.5859,positive,positive
+513,DPD,Tracking & updates,0.4767,positive,positive
+515,Royal Mail,Lost / not delivered,0.0,neutral,neutral
+516,Amazon Logistics,Delivery speed,0.8402,positive,positive
+516,Amazon Logistics,Driver behaviour,0.8402,positive,positive
+517,Evri,Driver behaviour,-0.35015,negative,negative
+517,Evri,Parcel condition,-0.35015,negative,negative
+517,Evri,Safe place / doorstep,0.0,negative,neutral
+518,Royal Mail,Driver behaviour,0.0,positive,neutral
+518,Royal Mail,Parcel condition,0.5719,positive,positive
+519,Royal Mail,Tracking & updates,0.1027,positive,positive
+520,Evri,Parcel condition,-0.7003,negative,negative
+521,Evri,Delivery speed,0.5413,positive,positive
+521,Evri,Driver behaviour,0.5413,positive,positive
+522,DPD,Tracking & updates,-0.1027,positive,negative
+523,Evri,Parcel condition,-0.7003,negative,negative
+525,DPD,Customer service,-0.5574,negative,negative
+525,DPD,Delivery speed,-0.5574,negative,negative
+525,DPD,Lost / not delivered,-0.5574,negative,negative
+526,Yodel,Delivery speed,0.0,neutral,neutral
+526,Yodel,Driver behaviour,0.0,neutral,neutral
+527,InPost,Delivery speed,0.67435,positive,positive
+527,InPost,Driver behaviour,0.67435,positive,positive
+528,Yodel,Customer service,0.0,negative,neutral
+528,Yodel,Delivery speed,0.0,negative,neutral
+528,Yodel,Driver behaviour,0.0,negative,neutral
+528,Yodel,Lost / not delivered,-0.4588,negative,negative
+529,DPD,Customer service,0.0,negative,neutral
+529,DPD,Lost / not delivered,-0.4588,negative,negative
+530,Evri,Customer service,-0.3612,negative,negative
+530,Evri,Delivery speed,-0.3612,negative,negative
+530,Evri,Safe place / doorstep,-0.4767,negative,negative
+531,Yodel,Delivery speed,0.8074,positive,positive
+531,Yodel,Driver behaviour,0.8074,positive,positive
+532,Yodel,Delivery speed,0.25,positive,positive
+532,Yodel,Tracking & updates,0.25,positive,positive
+533,Royal Mail,Tracking & updates,0.5256,positive,positive
+534,InPost,Delivery speed,0.25,positive,positive
+534,InPost,Tracking & updates,0.25,positive,positive
+535,Evri,Delivery speed,0.0,negative,neutral
+535,Evri,Tracking & updates,0.0,negative,neutral
+536,InPost,Customer service,-0.5574,negative,negative
+536,InPost,Delivery speed,-0.5574,negative,negative
+536,InPost,Driver behaviour,-0.7003,negative,negative
+536,InPost,Lost / not delivered,-0.5574,negative,negative
+536,InPost,Parcel condition,-0.7003,negative,negative
+537,Evri,Tracking & updates,0.5256,positive,positive
+538,DPD,Delivery speed,0.5413,positive,positive
+538,DPD,Driver behaviour,0.5413,positive,positive
+539,Evri,Tracking & updates,0.1027,positive,positive
+540,Royal Mail,Tracking & updates,0.5256,positive,positive
+541,Evri,Delivery speed,0.0,negative,neutral
+541,Evri,Driver behaviour,-0.2721,negative,negative
+541,Evri,Safe place / doorstep,-0.5442,negative,negative
+542,DPD,Delivery speed,-0.6808,negative,negative
+543,Evri,Tracking & updates,0.1027,positive,positive
+544,DHL,Delivery speed,0.25,positive,positive
+544,DHL,Tracking & updates,0.25,positive,positive
+545,DPD,Customer service,0.6437,positive,positive
+545,DPD,Delivery speed,0.6437,positive,positive
+545,DPD,Tracking & updates,0.5256,positive,positive
+546,DPD,Delivery speed,0.8074,positive,positive
+546,DPD,Driver behaviour,0.4037,positive,positive
+546,DPD,Parcel condition,0.5719,positive,positive
+547,Yodel,Tracking & updates,0.1027,positive,positive
+548,Evri,Delivery speed,0.7351,positive,positive
+550,Evri,Customer service,0.0,neutral,neutral
+550,Evri,Lost / not delivered,-0.4588,neutral,negative
+552,Yodel,Delivery speed,0.49255,positive,positive
+552,Yodel,Tracking & updates,0.25,positive,positive
+553,Yodel,Driver behaviour,-0.7003,negative,negative
+553,Yodel,Parcel condition,-0.7003,negative,negative
+555,Royal Mail,Driver behaviour,0.0,positive,neutral
+555,Royal Mail,Parcel condition,0.0,positive,neutral
+555,Royal Mail,Safe place / doorstep,0.0,positive,neutral
+556,Royal Mail,Customer service,0.0,negative,neutral
+556,Royal Mail,Lost / not delivered,-0.4588,negative,negative
+557,DPD,Delivery speed,0.7351,positive,positive
+558,Yodel,Driver behaviour,0.0,neutral,neutral
+558,Yodel,Parcel condition,0.0,neutral,neutral
+558,Yodel,Safe place / doorstep,0.0,neutral,neutral
+559,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+559,Amazon Logistics,Parcel condition,0.5719,positive,positive
+560,DPD,Customer service,0.6437,positive,positive
+560,DPD,Delivery speed,0.6437,positive,positive
+562,Royal Mail,Safe place / doorstep,-0.4767,negative,negative
+563,Royal Mail,Tracking & updates,0.5256,positive,positive
+564,DPD,Delivery speed,0.8074,positive,positive
+564,DPD,Driver behaviour,0.8074,positive,positive
+565,Royal Mail,Delivery speed,0.0,neutral,neutral
+565,Royal Mail,Driver behaviour,0.0,neutral,neutral
+566,DPD,Customer service,0.6437,positive,positive
+566,DPD,Delivery speed,0.6437,positive,positive
+567,Evri,Delivery speed,0.7351,positive,positive
+569,Amazon Logistics,Delivery speed,0.6361,positive,positive
+569,Amazon Logistics,Driver behaviour,0.40700000000000003,positive,positive
+569,Amazon Logistics,Parcel condition,0.5719,positive,positive
+570,Evri,Delivery speed,0.0,negative,neutral
+570,Evri,Driver behaviour,-0.5442,negative,negative
+570,Evri,Safe place / doorstep,-0.5442,negative,negative
+570,Evri,Tracking & updates,0.0,negative,neutral
+571,Yodel,Delivery speed,0.5413,positive,positive
+571,Yodel,Driver behaviour,0.27065,positive,positive
+571,Yodel,Parcel condition,0.5719,positive,positive
+572,DPD,Delivery speed,-0.6808,positive,negative
+573,Evri,Lost / not delivered,0.0,neutral,neutral
+573,Evri,Safe place / doorstep,0.0,neutral,neutral
+574,Royal Mail,Delivery speed,0.8074,positive,positive
+574,Royal Mail,Driver behaviour,0.8074,positive,positive
+575,Amazon Logistics,Delivery speed,0.8402,positive,positive
+575,Amazon Logistics,Driver behaviour,0.8402,positive,positive
+576,Evri,Customer service,0.0,negative,neutral
+576,Evri,Lost / not delivered,-0.4588,negative,negative
+578,Yodel,Tracking & updates,-0.1027,positive,negative
+579,DPD,Delivery speed,0.7351,positive,positive
+580,Royal Mail,Delivery speed,0.7351,positive,positive
+581,Yodel,Driver behaviour,-0.7003,negative,negative
+581,Yodel,Parcel condition,-0.7003,negative,negative
+582,Evri,Tracking & updates,0.1027,positive,positive
+583,DPD,Delivery speed,0.5413,positive,positive
+583,DPD,Driver behaviour,0.5413,positive,positive
+584,Evri,Driver behaviour,0.0,negative,neutral
+584,Evri,Parcel condition,-0.35015,negative,negative
+584,Evri,Safe place / doorstep,0.0,negative,neutral
+586,DPD,Driver behaviour,0.0,positive,neutral
+586,DPD,Parcel condition,0.5719,positive,positive
+587,Evri,Customer service,0.0,neutral,neutral
+587,Evri,Lost / not delivered,-0.4588,neutral,negative
+588,DPD,Tracking & updates,-0.1027,negative,negative
+589,Royal Mail,Driver behaviour,0.0,positive,neutral
+589,Royal Mail,Parcel condition,0.5719,positive,positive
+590,InPost,Delivery speed,0.5413,positive,positive
+590,InPost,Driver behaviour,0.5413,positive,positive
+590,InPost,Tracking & updates,0.4767,positive,positive
+591,DPD,Tracking & updates,0.4767,positive,positive
+592,Evri,Delivery speed,0.25,positive,positive
+592,Evri,Tracking & updates,0.25,positive,positive
+593,Evri,Customer service,-0.5574,negative,negative
+593,Evri,Delivery speed,-0.5574,negative,negative
+593,Evri,Lost / not delivered,-0.5574,negative,negative
+593,Evri,Parcel condition,-0.7003,negative,negative
+594,Royal Mail,Tracking & updates,0.4767,positive,positive
+595,DPD,Driver behaviour,-0.7003,negative,negative
+595,DPD,Parcel condition,-0.7003,negative,negative
+596,Evri,Customer service,0.6437,positive,positive
+596,Evri,Delivery speed,0.72555,positive,positive
+596,Evri,Driver behaviour,0.8074,positive,positive
+597,Evri,Driver behaviour,0.0,negative,neutral
+597,Evri,Parcel condition,0.0,negative,neutral
+597,Evri,Safe place / doorstep,0.0,negative,neutral
+598,Royal Mail,Safe place / doorstep,0.0,neutral,neutral
+599,Evri,Customer service,-0.3612,negative,negative
+599,Evri,Delivery speed,-0.1806,negative,negative
+599,Evri,Driver behaviour,0.0,negative,neutral
+601,DHL,Customer service,0.6437,positive,positive
+601,DHL,Delivery speed,0.6437,positive,positive
+602,Evri,Driver behaviour,0.0,positive,neutral
+602,Evri,Parcel condition,0.5719,positive,positive
+602,Evri,Tracking & updates,0.4767,positive,positive
+603,Amazon Logistics,Delivery speed,0.1779,negative,positive
+603,Amazon Logistics,Lost / not delivered,0.1779,negative,positive
+603,Amazon Logistics,Tracking & updates,0.1779,negative,positive
+604,Evri,Lost / not delivered,0.0,negative,neutral
+605,Evri,Delivery speed,0.8074,positive,positive
+605,Evri,Driver behaviour,0.8074,positive,positive
+605,Evri,Tracking & updates,0.5256,positive,positive
+606,InPost,Delivery speed,0.8074,positive,positive
+606,InPost,Driver behaviour,0.8074,positive,positive
+607,Royal Mail,Delivery speed,0.0,negative,neutral
+607,Royal Mail,Tracking & updates,0.0,negative,neutral
+608,Yodel,Delivery speed,-0.6808,negative,negative
+609,Amazon Logistics,Customer service,-0.2023,negative,negative
+609,Amazon Logistics,Delivery speed,-0.2023,negative,negative
+609,Amazon Logistics,Safe place / doorstep,-0.34,negative,negative
+610,DHL,Delivery speed,0.5413,positive,positive
+610,DHL,Driver behaviour,0.5413,positive,positive
+611,Yodel,Delivery speed,0.5413,positive,positive
+611,Yodel,Driver behaviour,0.5413,positive,positive
+612,Yodel,Tracking & updates,0.5256,positive,positive
+613,Evri,Safe place / doorstep,0.0,neutral,neutral
+614,Amazon Logistics,Safe place / doorstep,0.0,positive,neutral
+615,DHL,Delivery speed,0.5413,positive,positive
+615,DHL,Driver behaviour,0.5413,positive,positive
+616,Amazon Logistics,Customer service,-0.2023,negative,negative
+616,Amazon Logistics,Delivery speed,-0.2023,negative,negative
+617,Amazon Logistics,Tracking & updates,0.6566,positive,positive
+618,DPD,Tracking & updates,-0.1027,positive,negative
+619,Yodel,Customer service,-0.3612,negative,negative
+619,Yodel,Delivery speed,-0.3612,negative,negative
+619,Yodel,Safe place / doorstep,0.0,negative,neutral
+620,Yodel,Delivery speed,0.0,negative,neutral
+620,Yodel,Driver behaviour,-0.5442,negative,negative
+620,Yodel,Safe place / doorstep,-0.5442,negative,negative
+620,Yodel,Tracking & updates,0.0,negative,neutral
+621,DHL,Delivery speed,0.5413,positive,positive
+621,DHL,Driver behaviour,0.5413,positive,positive
+621,DHL,Tracking & updates,0.4767,positive,positive
+623,Evri,Customer service,-0.3612,negative,negative
+623,Evri,Delivery speed,-0.3612,negative,negative
+623,Evri,Driver behaviour,-0.5442,negative,negative
+623,Evri,Safe place / doorstep,-0.5442,negative,negative
+624,DPD,Delivery speed,0.5287,positive,positive
+624,DPD,Driver behaviour,0.8074,positive,positive
+624,DPD,Tracking & updates,0.25,positive,positive
+625,DPD,Customer service,0.6437,positive,positive
+625,DPD,Delivery speed,0.6437,positive,positive
+626,Royal Mail,Delivery speed,0.0,negative,neutral
+626,Royal Mail,Tracking & updates,0.0,negative,neutral
+627,Evri,Lost / not delivered,0.0,negative,neutral
+628,Yodel,Customer service,-0.5574,negative,negative
+628,Yodel,Delivery speed,-0.5574,negative,negative
+628,Yodel,Driver behaviour,-0.5442,negative,negative
+628,Yodel,Lost / not delivered,-0.5574,negative,negative
+628,Yodel,Safe place / doorstep,-0.5442,negative,negative
+629,Evri,Customer service,-0.5574,negative,negative
+629,Evri,Delivery speed,-0.5574,negative,negative
+629,Evri,Lost / not delivered,-0.5574,negative,negative
+630,Yodel,Tracking & updates,0.5256,positive,positive
+631,Evri,Delivery speed,0.0,negative,neutral
+631,Evri,Tracking & updates,0.0,negative,neutral
+632,DPD,Delivery speed,0.25,positive,positive
+632,DPD,Driver behaviour,0.0,positive,neutral
+632,DPD,Parcel condition,0.5719,positive,positive
+632,DPD,Tracking & updates,0.25,positive,positive
+633,Evri,Driver behaviour,0.0,negative,neutral
+633,Evri,Parcel condition,-0.35015,negative,negative
+633,Evri,Safe place / doorstep,0.0,negative,neutral
+634,Evri,Customer service,0.0,negative,neutral
+634,Evri,Lost / not delivered,-0.4588,negative,negative
+635,Evri,Customer service,0.6437,positive,positive
+635,Evri,Delivery speed,0.6437,positive,positive
+636,Evri,Delivery speed,0.25,positive,positive
+636,Evri,Tracking & updates,0.25,positive,positive
+637,Evri,Delivery speed,0.8074,positive,positive
+637,Evri,Driver behaviour,0.8074,positive,positive
+639,Royal Mail,Tracking & updates,0.5256,positive,positive
+640,Yodel,Customer service,-0.3612,negative,negative
+640,Yodel,Delivery speed,-0.1806,negative,negative
+640,Yodel,Tracking & updates,0.0,negative,neutral
+641,Royal Mail,Driver behaviour,0.0,positive,neutral
+641,Royal Mail,Parcel condition,0.5719,positive,positive
+642,Evri,Delivery speed,0.7351,positive,positive
+644,DPD,Driver behaviour,0.0,positive,neutral
+644,DPD,Parcel condition,0.5719,positive,positive
+645,Evri,Delivery speed,0.25,positive,positive
+645,Evri,Tracking & updates,0.3878,positive,positive
+647,DHL,Tracking & updates,0.4767,positive,positive
+648,DHL,Delivery speed,0.5413,positive,positive
+648,DHL,Driver behaviour,0.27065,positive,positive
+648,DHL,Parcel condition,0.5719,positive,positive
+649,Royal Mail,Customer service,0.0,negative,neutral
+649,Royal Mail,Lost / not delivered,-0.4588,negative,negative
+649,Royal Mail,Parcel condition,-0.7003,negative,negative
+650,Royal Mail,Delivery speed,-0.6808,negative,negative
+650,Royal Mail,Safe place / doorstep,-0.4767,negative,negative
+651,Evri,Customer service,0.0,negative,neutral
+651,Evri,Delivery speed,-0.6808,negative,negative
+651,Evri,Lost / not delivered,-0.4588,negative,negative
+652,Yodel,Delivery speed,0.7351,positive,positive
+653,Royal Mail,Tracking & updates,0.1027,positive,positive
+654,DPD,Delivery speed,0.5413,positive,positive
+654,DPD,Driver behaviour,0.5413,positive,positive
+654,DPD,Tracking & updates,0.4767,positive,positive
+656,DHL,Delivery speed,0.25,positive,positive
+656,DHL,Tracking & updates,0.25,positive,positive
+657,Evri,Tracking & updates,0.1027,positive,positive
+658,Yodel,Driver behaviour,0.0,neutral,neutral
+658,Yodel,Parcel condition,0.0,neutral,neutral
+658,Yodel,Safe place / doorstep,0.0,neutral,neutral
+659,Evri,Delivery speed,-0.6808,negative,negative
+660,Amazon Logistics,Tracking & updates,0.5859,positive,positive
+661,Evri,Lost / not delivered,0.0,positive,neutral
+662,Royal Mail,Customer service,0.6437,positive,positive
+662,Royal Mail,Delivery speed,0.6437,positive,positive
+662,Royal Mail,Tracking & updates,0.5256,positive,positive
+663,DPD,Parcel condition,-0.7003,negative,negative
+665,DPD,Tracking & updates,0.5256,positive,positive
+666,Evri,Delivery speed,0.8074,positive,positive
+666,Evri,Driver behaviour,0.8074,positive,positive
+667,DHL,Delivery speed,0.0,negative,neutral
+667,DHL,Lost / not delivered,0.0,negative,neutral
+667,DHL,Tracking & updates,0.0,negative,neutral
+668,DPD,Driver behaviour,-0.7003,negative,negative
+668,DPD,Parcel condition,-0.7003,negative,negative
+669,InPost,Customer service,0.6437,positive,positive
+669,InPost,Delivery speed,0.6437,positive,positive
+669,InPost,Driver behaviour,0.0,positive,neutral
+669,InPost,Parcel condition,0.5719,positive,positive
+670,Yodel,Driver behaviour,-0.5442,negative,negative
+670,Yodel,Safe place / doorstep,-0.5442,negative,negative
+671,Royal Mail,Delivery speed,0.0,negative,neutral
+671,Royal Mail,Tracking & updates,0.0,negative,neutral
+672,Amazon Logistics,Customer service,-0.2023,negative,negative
+672,Amazon Logistics,Delivery speed,-0.2023,negative,negative
+673,Royal Mail,Customer service,-0.3612,negative,negative
+673,Royal Mail,Delivery speed,-0.3612,negative,negative
+674,Yodel,Customer service,-0.3612,negative,negative
+674,Yodel,Delivery speed,-0.3612,negative,negative
+675,Yodel,Delivery speed,0.0,positive,neutral
+675,Yodel,Safe place / doorstep,0.0,positive,neutral
+675,Yodel,Tracking & updates,0.0,positive,neutral
+676,Amazon Logistics,Tracking & updates,0.5859,positive,positive
+677,Amazon Logistics,Tracking & updates,0.2732,positive,positive
+678,Royal Mail,Delivery speed,0.5287,positive,positive
+678,Royal Mail,Driver behaviour,0.8074,positive,positive
+678,Royal Mail,Tracking & updates,0.25,positive,positive
+680,Royal Mail,Safe place / doorstep,-0.4767,positive,negative
+681,InPost,Tracking & updates,0.5256,positive,positive
+683,DPD,Delivery speed,-0.6808,negative,negative
+683,DPD,Driver behaviour,-0.5442,negative,negative
+683,DPD,Safe place / doorstep,-0.5442,negative,negative
+684,Royal Mail,Delivery speed,0.49255,positive,positive
+684,Royal Mail,Tracking & updates,0.25,positive,positive
+685,Royal Mail,Customer service,0.6437,positive,positive
+685,Royal Mail,Delivery speed,0.6437,positive,positive
+685,Royal Mail,Tracking & updates,0.5256,positive,positive
+686,Royal Mail,Tracking & updates,0.4767,positive,positive
+687,Royal Mail,Driver behaviour,-0.7003,negative,negative
+687,Royal Mail,Parcel condition,-0.7003,negative,negative
+689,Royal Mail,Tracking & updates,0.4767,positive,positive
+690,Yodel,Delivery speed,0.25,positive,positive
+690,Yodel,Tracking & updates,0.25,positive,positive
+691,Royal Mail,Customer service,0.6437,positive,positive
+691,Royal Mail,Delivery speed,0.6437,positive,positive
+692,Amazon Logistics,Tracking & updates,0.2732,positive,positive
+693,DPD,Driver behaviour,0.0,neutral,neutral
+693,DPD,Parcel condition,0.0,neutral,neutral
+693,DPD,Safe place / doorstep,0.0,neutral,neutral
+694,Royal Mail,Delivery speed,0.8074,positive,positive
+694,Royal Mail,Driver behaviour,0.8074,positive,positive
+695,Royal Mail,Delivery speed,0.5413,positive,positive
+695,Royal Mail,Driver behaviour,0.5413,positive,positive
+696,Royal Mail,Tracking & updates,0.4767,positive,positive
+697,InPost,Tracking & updates,0.5256,positive,positive
+698,Royal Mail,Tracking & updates,0.1027,positive,positive
+699,Royal Mail,Delivery speed,0.5413,positive,positive
+699,Royal Mail,Driver behaviour,0.5413,positive,positive
+700,Evri,Driver behaviour,0.0,negative,neutral
+700,Evri,Parcel condition,0.0,negative,neutral
+700,Evri,Safe place / doorstep,0.0,negative,neutral
+701,Royal Mail,Customer service,0.6437,positive,positive
+701,Royal Mail,Delivery speed,0.6437,positive,positive
+702,Royal Mail,Delivery speed,0.8074,positive,positive
+702,Royal Mail,Driver behaviour,0.8074,positive,positive
+703,Evri,Lost / not delivered,0.0,negative,neutral
+704,DPD,Delivery speed,0.25,positive,positive
+704,DPD,Tracking & updates,0.25,positive,positive
+705,Amazon Logistics,Customer service,0.0,negative,neutral
+705,Amazon Logistics,Lost / not delivered,-0.3182,negative,negative
+706,Royal Mail,Customer service,0.0,negative,neutral
+706,Royal Mail,Lost / not delivered,-0.4588,negative,negative
+706,Royal Mail,Safe place / doorstep,0.0,negative,neutral
+707,Royal Mail,Driver behaviour,0.0,positive,neutral
+707,Royal Mail,Parcel condition,0.5719,positive,positive
+709,DPD,Customer service,-0.3612,negative,negative
+709,DPD,Delivery speed,-0.3612,negative,negative
+709,DPD,Lost / not delivered,0.0,negative,neutral
+710,Royal Mail,Driver behaviour,0.0,negative,neutral
+710,Royal Mail,Parcel condition,0.0,negative,neutral
+710,Royal Mail,Safe place / doorstep,0.0,negative,neutral
+711,Yodel,Delivery speed,0.25,positive,positive
+711,Yodel,Tracking & updates,0.25,positive,positive
+712,Evri,Customer service,0.6437,positive,positive
+712,Evri,Delivery speed,0.5925,positive,positive
+712,Evri,Driver behaviour,0.5413,positive,positive
+713,Amazon Logistics,Tracking & updates,0.5859,positive,positive
+714,DPD,Tracking & updates,0.1027,positive,positive
+715,Evri,Delivery speed,0.0,negative,neutral
+715,Evri,Tracking & updates,0.0,negative,neutral
+716,DPD,Delivery speed,0.7351,positive,positive
+717,Amazon Logistics,Customer service,-0.4404,negative,negative
+717,Amazon Logistics,Delivery speed,-0.4404,negative,negative
+717,Amazon Logistics,Lost / not delivered,-0.4404,negative,negative
+718,Evri,Parcel condition,-0.7003,negative,negative
+719,DPD,Delivery speed,0.8074,positive,positive
+719,DPD,Driver behaviour,0.8074,positive,positive
+720,DPD,Delivery speed,0.7351,positive,positive
+721,DPD,Delivery speed,0.8074,positive,positive
+721,DPD,Driver behaviour,0.8074,positive,positive
+721,DPD,Tracking & updates,0.4767,positive,positive
+722,Royal Mail,Customer service,-0.3612,negative,negative
+722,Royal Mail,Delivery speed,-0.3612,negative,negative
+724,InPost,Customer service,0.6437,positive,positive
+724,InPost,Delivery speed,0.5925,positive,positive
+724,InPost,Driver behaviour,0.5413,positive,positive
+725,DPD,Delivery speed,0.6382,positive,positive
+725,DPD,Driver behaviour,0.5413,positive,positive
+726,Yodel,Delivery speed,0.77125,positive,positive
+726,Yodel,Driver behaviour,0.8074,positive,positive
+727,Evri,Lost / not delivered,0.0,negative,neutral
+728,Evri,Driver behaviour,-0.7003,negative,negative
+728,Evri,Parcel condition,-0.7003,negative,negative
+729,Yodel,Delivery speed,-0.6808,negative,negative
+729,Yodel,Driver behaviour,-0.5442,negative,negative
+729,Yodel,Safe place / doorstep,-0.5442,negative,negative
+730,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+730,Amazon Logistics,Parcel condition,0.5719,positive,positive
+731,DPD,Delivery speed,0.7351,positive,positive
+733,Evri,Lost / not delivered,0.0,negative,neutral
+734,Yodel,Delivery speed,0.0,positive,neutral
+734,Yodel,Driver behaviour,0.0,positive,neutral
+735,Evri,Driver behaviour,-0.5442,negative,negative
+735,Evri,Lost / not delivered,0.0,negative,neutral
+735,Evri,Safe place / doorstep,-0.5442,negative,negative
+736,DPD,Safe place / doorstep,0.0,negative,neutral
+737,Royal Mail,Customer service,0.6437,positive,positive
+737,Royal Mail,Delivery speed,0.6437,positive,positive
+738,DPD,Driver behaviour,0.0,positive,neutral
+738,DPD,Parcel condition,0.5719,positive,positive
+739,Amazon Logistics,Delivery speed,0.5932,positive,positive
+739,Amazon Logistics,Tracking & updates,0.4019,positive,positive
+740,DHL,Safe place / doorstep,-0.4767,negative,negative
+741,Evri,Customer service,-0.5574,negative,negative
+741,Evri,Delivery speed,-0.5574,negative,negative
+741,Evri,Lost / not delivered,-0.5574,negative,negative
+742,Evri,Customer service,0.0,negative,neutral
+742,Evri,Driver behaviour,0.0,negative,neutral
+742,Evri,Lost / not delivered,-0.4588,negative,negative
+742,Evri,Parcel condition,0.0,negative,neutral
+742,Evri,Safe place / doorstep,0.0,negative,neutral
+743,Royal Mail,Delivery speed,0.7351,positive,positive
+743,Royal Mail,Tracking & updates,0.5256,positive,positive
+745,InPost,Delivery speed,0.8074,positive,positive
+745,InPost,Driver behaviour,0.4037,positive,positive
+745,InPost,Parcel condition,0.5719,positive,positive
+746,Yodel,Customer service,-0.3612,negative,negative
+746,Yodel,Delivery speed,-0.3612,negative,negative
+746,Yodel,Driver behaviour,-0.5442,negative,negative
+746,Yodel,Safe place / doorstep,-0.5442,negative,negative
+747,Royal Mail,Customer service,0.6437,positive,positive
+747,Royal Mail,Delivery speed,0.44685,positive,positive
+747,Royal Mail,Tracking & updates,0.25,positive,positive
+748,DPD,Delivery speed,0.25,positive,positive
+748,DPD,Tracking & updates,0.25,positive,positive
+749,DPD,Tracking & updates,0.5256,positive,positive
+750,DHL,Customer service,0.0,negative,neutral
+750,DHL,Lost / not delivered,-0.4588,negative,negative
+750,DHL,Safe place / doorstep,-0.4767,negative,negative
+751,Yodel,Tracking & updates,0.4767,positive,positive
+752,DPD,Driver behaviour,0.0,positive,neutral
+752,DPD,Parcel condition,0.5719,positive,positive
+752,DPD,Tracking & updates,0.5256,positive,positive
+753,DPD,Delivery speed,0.8074,positive,positive
+753,DPD,Driver behaviour,0.8074,positive,positive
+754,Royal Mail,Driver behaviour,-0.35015,negative,negative
+754,Royal Mail,Parcel condition,-0.35015,negative,negative
+754,Royal Mail,Safe place / doorstep,0.0,negative,neutral
+755,Amazon Logistics,Delivery speed,0.1779,negative,positive
+755,Amazon Logistics,Tracking & updates,0.1779,negative,positive
+756,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+756,Amazon Logistics,Parcel condition,0.1779,positive,positive
+756,Amazon Logistics,Safe place / doorstep,0.1779,positive,positive
+758,Evri,Delivery speed,-0.6808,positive,negative
+759,DPD,Delivery speed,0.25,positive,positive
+759,DPD,Tracking & updates,0.36335,positive,positive
+760,Yodel,Driver behaviour,-0.7003,negative,negative
+760,Yodel,Parcel condition,-0.7003,negative,negative
+761,InPost,Delivery speed,0.7351,positive,positive
+763,DPD,Tracking & updates,0.1027,positive,positive
+764,DHL,Delivery speed,0.0,negative,neutral
+764,DHL,Driver behaviour,-0.7003,negative,negative
+764,DHL,Parcel condition,-0.7003,negative,negative
+764,DHL,Tracking & updates,0.0,negative,neutral
+765,Evri,Driver behaviour,0.0,negative,neutral
+765,Evri,Parcel condition,0.0,negative,neutral
+765,Evri,Safe place / doorstep,-0.23835,negative,negative
+766,Royal Mail,Delivery speed,0.5413,positive,positive
+766,Royal Mail,Driver behaviour,0.27065,positive,positive
+766,Royal Mail,Parcel condition,0.5719,positive,positive
+767,Royal Mail,Lost / not delivered,0.0,neutral,neutral
+768,Royal Mail,Delivery speed,0.8074,positive,positive
+768,Royal Mail,Driver behaviour,0.8074,positive,positive
+768,Royal Mail,Tracking & updates,0.5256,positive,positive
+770,Evri,Delivery speed,0.8074,positive,positive
+770,Evri,Driver behaviour,0.8074,positive,positive
+771,DPD,Delivery speed,0.39565,positive,positive
+771,DPD,Driver behaviour,0.5413,positive,positive
+771,DPD,Tracking & updates,0.25,positive,positive
+772,Evri,Delivery speed,0.0,negative,neutral
+772,Evri,Tracking & updates,0.0,negative,neutral
+773,Royal Mail,Customer service,0.6437,positive,positive
+773,Royal Mail,Delivery speed,0.6437,positive,positive
+773,Royal Mail,Tracking & updates,0.5256,positive,positive
+774,DPD,Delivery speed,0.7351,positive,positive
+775,DPD,Delivery speed,0.8074,positive,positive
+775,DPD,Driver behaviour,0.8074,positive,positive
+776,Amazon Logistics,Delivery speed,0.6361,positive,positive
+776,Amazon Logistics,Driver behaviour,0.6361,positive,positive
+777,DPD,Tracking & updates,0.5256,positive,positive
+778,DHL,Customer service,0.6437,positive,positive
+778,DHL,Delivery speed,0.6437,positive,positive
+779,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+779,Amazon Logistics,Parcel condition,0.5719,positive,positive
+781,Yodel,Customer service,-0.3612,negative,negative
+781,Yodel,Delivery speed,-0.3612,negative,negative
+781,Yodel,Parcel condition,-0.7003,negative,negative
+782,Yodel,Lost / not delivered,0.0,neutral,neutral
+783,Evri,Delivery speed,0.8074,positive,positive
+783,Evri,Driver behaviour,0.8074,positive,positive
+784,Amazon Logistics,Customer service,0.7147,positive,positive
+784,Amazon Logistics,Delivery speed,0.7147,positive,positive
+785,Evri,Delivery speed,0.7351,positive,positive
+786,DPD,Delivery speed,0.8074,positive,positive
+786,DPD,Driver behaviour,0.4037,positive,positive
+786,DPD,Parcel condition,0.5719,positive,positive
+787,DPD,Customer service,0.6437,positive,positive
+787,DPD,Delivery speed,0.6437,positive,positive
+787,DPD,Tracking & updates,0.5256,positive,positive
+788,Yodel,Lost / not delivered,0.0,negative,neutral
+790,Evri,Driver behaviour,0.0,positive,neutral
+790,Evri,Parcel condition,0.5719,positive,positive
+791,Evri,Delivery speed,0.7351,positive,positive
+792,Evri,Tracking & updates,0.1027,positive,positive
+793,Royal Mail,Tracking & updates,0.4767,positive,positive
+794,InPost,Driver behaviour,0.0,neutral,neutral
+794,InPost,Lost / not delivered,0.0,neutral,neutral
+794,InPost,Parcel condition,0.0,neutral,neutral
+794,InPost,Safe place / doorstep,0.0,neutral,neutral
+796,Evri,Driver behaviour,0.0,positive,neutral
+796,Evri,Parcel condition,0.0,positive,neutral
+796,Evri,Safe place / doorstep,0.0,positive,neutral
+797,Royal Mail,Delivery speed,0.0,positive,neutral
+797,Royal Mail,Tracking & updates,0.0,positive,neutral
+798,Yodel,Driver behaviour,0.0,positive,neutral
+798,Yodel,Parcel condition,0.5719,positive,positive
+799,DPD,Delivery speed,0.25,positive,positive
+799,DPD,Tracking & updates,0.25,positive,positive
+801,Evri,Driver behaviour,0.0,positive,neutral
+801,Evri,Parcel condition,0.5719,positive,positive
+802,DPD,Customer service,0.6437,positive,positive
+802,DPD,Delivery speed,0.6437,positive,positive
+803,DPD,Customer service,0.0,negative,neutral
+803,DPD,Lost / not delivered,-0.4588,negative,negative
+804,InPost,Tracking & updates,0.4767,positive,positive
+806,Amazon Logistics,Delivery speed,0.4019,positive,positive
+806,Amazon Logistics,Tracking & updates,0.4019,positive,positive
+810,Royal Mail,Lost / not delivered,0.0,negative,neutral
+811,Evri,Delivery speed,0.7351,positive,positive
+812,Amazon Logistics,Delivery speed,0.7845,positive,positive
+812,Amazon Logistics,Driver behaviour,0.1779,positive,positive
+812,Amazon Logistics,Parcel condition,0.5719,positive,positive
+813,DPD,Delivery speed,0.7351,positive,positive
+814,Amazon Logistics,Delivery speed,0.6361,positive,positive
+814,Amazon Logistics,Driver behaviour,0.40700000000000003,positive,positive
+814,Amazon Logistics,Parcel condition,0.5719,positive,positive
+815,Amazon Logistics,Customer service,0.7147,positive,positive
+815,Amazon Logistics,Delivery speed,0.7147,positive,positive
+816,InPost,Safe place / doorstep,-0.4767,negative,negative
+818,Evri,Driver behaviour,-0.35015,negative,negative
+818,Evri,Parcel condition,-0.35015,negative,negative
+818,Evri,Safe place / doorstep,0.0,negative,neutral
+819,Royal Mail,Tracking & updates,0.4767,positive,positive
+820,Evri,Tracking & updates,-0.1027,positive,negative
+822,Yodel,Driver behaviour,-0.7003,negative,negative
+822,Yodel,Parcel condition,-0.7003,negative,negative
+823,Royal Mail,Delivery speed,0.25,positive,positive
+823,Royal Mail,Tracking & updates,0.3878,positive,positive
+824,Royal Mail,Safe place / doorstep,-0.4767,negative,negative
+825,Evri,Delivery speed,0.8074,positive,positive
+825,Evri,Driver behaviour,0.8074,positive,positive
+825,Evri,Tracking & updates,0.4767,positive,positive
+826,Royal Mail,Delivery speed,0.0,negative,neutral
+826,Royal Mail,Tracking & updates,0.0,negative,neutral
+827,Yodel,Tracking & updates,0.5256,positive,positive
+828,Evri,Customer service,0.0,negative,neutral
+828,Evri,Lost / not delivered,-0.4588,negative,negative
+829,Royal Mail,Delivery speed,0.0,positive,neutral
+829,Royal Mail,Driver behaviour,0.0,positive,neutral
+830,Royal Mail,Delivery speed,-0.6808,negative,negative
+831,DHL,Delivery speed,0.25,positive,positive
+831,DHL,Tracking & updates,0.25,positive,positive
+832,DPD,Customer service,0.6437,positive,positive
+832,DPD,Delivery speed,0.6437,positive,positive
+833,Evri,Safe place / doorstep,-0.4767,negative,negative
+834,InPost,Delivery speed,0.25,positive,positive
+834,InPost,Tracking & updates,0.25,positive,positive
+835,DPD,Delivery speed,0.8074,positive,positive
+835,DPD,Driver behaviour,0.8074,positive,positive
+836,DPD,Tracking & updates,0.5256,positive,positive
+837,Royal Mail,Customer service,0.0,neutral,neutral
+837,Royal Mail,Driver behaviour,0.0,neutral,neutral
+837,Royal Mail,Lost / not delivered,-0.4588,neutral,negative
+837,Royal Mail,Parcel condition,0.0,neutral,neutral
+837,Royal Mail,Safe place / doorstep,0.0,neutral,neutral
+838,InPost,Customer service,-0.3612,negative,negative
+838,InPost,Delivery speed,-0.1806,negative,negative
+838,InPost,Tracking & updates,0.0,negative,neutral
+839,Evri,Tracking & updates,0.5256,positive,positive
+840,Yodel,Driver behaviour,0.0,positive,neutral
+840,Yodel,Parcel condition,0.0,positive,neutral
+840,Yodel,Safe place / doorstep,0.0,positive,neutral
+841,Yodel,Driver behaviour,-0.7003,negative,negative
+841,Yodel,Parcel condition,-0.7003,negative,negative
+842,DHL,Customer service,-0.5574,negative,negative
+842,DHL,Delivery speed,-0.5574,negative,negative
+842,DHL,Lost / not delivered,-0.5574,negative,negative
+843,Royal Mail,Customer service,-0.3612,negative,negative
+843,Royal Mail,Delivery speed,-0.3612,negative,negative
+843,Royal Mail,Safe place / doorstep,-0.4767,negative,negative
+844,Royal Mail,Delivery speed,0.7351,positive,positive
+844,Royal Mail,Tracking & updates,0.5256,positive,positive
+845,Royal Mail,Tracking & updates,0.5256,positive,positive
+846,Amazon Logistics,Delivery speed,0.6361,positive,positive
+846,Amazon Logistics,Driver behaviour,0.6361,positive,positive
+847,DPD,Delivery speed,0.0,positive,neutral
+847,DPD,Driver behaviour,0.0,positive,neutral
+848,Royal Mail,Delivery speed,0.7351,positive,positive
+848,Royal Mail,Tracking & updates,0.4767,positive,positive
+849,Royal Mail,Lost / not delivered,0.0,negative,neutral
+849,Royal Mail,Safe place / doorstep,0.0,negative,neutral
+850,DPD,Delivery speed,0.25,positive,positive
+850,DPD,Tracking & updates,0.25,positive,positive
+851,DPD,Driver behaviour,0.0,positive,neutral
+851,DPD,Parcel condition,0.5719,positive,positive
+852,Yodel,Driver behaviour,-0.5442,negative,negative
+852,Yodel,Safe place / doorstep,-0.5442,negative,negative
+853,DHL,Customer service,0.6437,positive,positive
+853,DHL,Delivery speed,0.6437,positive,positive
+854,DPD,Customer service,0.6437,positive,positive
+854,DPD,Delivery speed,0.6437,positive,positive
+855,Yodel,Safe place / doorstep,0.0,neutral,neutral
+856,DPD,Delivery speed,0.8074,positive,positive
+856,DPD,Driver behaviour,0.8074,positive,positive
+857,Evri,Driver behaviour,-0.7003,negative,negative
+857,Evri,Parcel condition,-0.7003,negative,negative
+858,DPD,Driver behaviour,0.0,positive,neutral
+858,DPD,Parcel condition,0.5719,positive,positive
+859,Evri,Delivery speed,0.5413,positive,positive
+859,Evri,Driver behaviour,0.5413,positive,positive
+860,Yodel,Driver behaviour,0.0,positive,neutral
+860,Yodel,Parcel condition,0.5719,positive,positive
+860,Yodel,Tracking & updates,0.4767,positive,positive
+861,Evri,Delivery speed,0.7351,positive,positive
+862,Yodel,Driver behaviour,-0.7003,negative,negative
+862,Yodel,Lost / not delivered,0.0,negative,neutral
+862,Yodel,Parcel condition,-0.7003,negative,negative
+863,Evri,Delivery speed,0.5413,positive,positive
+863,Evri,Driver behaviour,0.5413,positive,positive
+864,Evri,Tracking & updates,0.1027,positive,positive
+865,DHL,Customer service,0.6437,positive,positive
+865,DHL,Delivery speed,0.6437,positive,positive
+866,DPD,Driver behaviour,0.0,positive,neutral
+866,DPD,Parcel condition,0.5719,positive,positive
+867,Royal Mail,Delivery speed,0.8074,positive,positive
+867,Royal Mail,Driver behaviour,0.8074,positive,positive
+869,Amazon Logistics,Driver behaviour,0.1779,negative,positive
+869,Amazon Logistics,Parcel condition,0.1779,negative,positive
+869,Amazon Logistics,Safe place / doorstep,-0.08105000000000001,negative,negative
+870,DHL,Customer service,-0.5574,negative,negative
+870,DHL,Delivery speed,-0.6191,negative,negative
+870,DHL,Lost / not delivered,-0.5574,negative,negative
+871,Amazon Logistics,Delivery speed,0.7845,positive,positive
+873,Evri,Customer service,-0.3612,negative,negative
+873,Evri,Delivery speed,-0.521,negative,negative
+874,DPD,Delivery speed,0.0,negative,neutral
+874,DPD,Lost / not delivered,0.0,negative,neutral
+874,DPD,Tracking & updates,0.0,negative,neutral
+875,Evri,Customer service,0.0,negative,neutral
+875,Evri,Lost / not delivered,-0.4588,negative,negative
+876,Royal Mail,Driver behaviour,-0.5442,negative,negative
+876,Royal Mail,Safe place / doorstep,-0.5442,negative,negative
+877,DPD,Driver behaviour,0.0,positive,neutral
+877,DPD,Parcel condition,0.5719,positive,positive
+878,Amazon Logistics,Delivery speed,0.7845,positive,positive
+879,Evri,Tracking & updates,0.5256,positive,positive
+881,Royal Mail,Safe place / doorstep,-0.4767,negative,negative
+882,Royal Mail,Customer service,-0.3612,negative,negative
+882,Royal Mail,Delivery speed,-0.3612,negative,negative
+883,DPD,Tracking & updates,0.4767,positive,positive
+884,Yodel,Driver behaviour,-0.7003,negative,negative
+884,Yodel,Parcel condition,-0.7003,negative,negative
+886,DPD,Delivery speed,0.5413,positive,positive
+886,DPD,Driver behaviour,0.5413,positive,positive
+887,Amazon Logistics,Customer service,0.7147,positive,positive
+887,Amazon Logistics,Delivery speed,0.7147,positive,positive
+888,Evri,Tracking & updates,-0.1027,positive,negative
+889,Royal Mail,Delivery speed,0.5413,positive,positive
+889,Royal Mail,Driver behaviour,0.5413,positive,positive
+890,DPD,Delivery speed,0.5413,positive,positive
+890,DPD,Driver behaviour,0.5413,positive,positive
+891,Yodel,Driver behaviour,-0.7003,negative,negative
+891,Yodel,Parcel condition,-0.7003,negative,negative
+892,Evri,Customer service,0.6437,positive,positive
+892,Evri,Delivery speed,0.6437,positive,positive
+892,Evri,Tracking & updates,0.4767,positive,positive
+893,Amazon Logistics,Lost / not delivered,0.1779,positive,positive
+894,DPD,Delivery speed,0.25,positive,positive
+894,DPD,Tracking & updates,0.25,positive,positive
+895,Evri,Delivery speed,0.7351,positive,positive
+897,Evri,Driver behaviour,0.0,positive,neutral
+897,Evri,Parcel condition,0.5719,positive,positive
+898,Evri,Driver behaviour,-0.7003,negative,negative
+898,Evri,Parcel condition,-0.7003,negative,negative
+899,Royal Mail,Customer service,-0.5574,negative,negative
+899,Royal Mail,Delivery speed,-0.5574,negative,negative
+899,Royal Mail,Lost / not delivered,-0.5574,negative,negative

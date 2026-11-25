@@ -94,6 +94,10 @@ A GPU helps but isn't required. Use `--sample 5000` for a quicker first run.
 
 ## Design choices worth knowing
 
+* **Courier scores come from the sentences about the courier.** Most reviews sit on a *shop's* Trustpilot
+  page: "Gorgeous dress, great price. Shame they use Evri. It arrived four days late." As a whole that scores
+  +0.83 (positive). The courier part alone scores -0.68. So each courier is scored on the sentences that name it
+  plus the one after, and the aspects and themes use that same text. Whole-review scores are kept for comparison.
 * **Two cleaned texts, not one.** VADER reads "NEVER again!!!" as more negative than "never again", so the
   sentiment models get text with capitals and punctuation intact. Topic modelling gets lowercase words only.
 * **A courier lexicon on top of VADER.** Stock VADER rates *"parcel lost and arrived damaged"* far too mildly

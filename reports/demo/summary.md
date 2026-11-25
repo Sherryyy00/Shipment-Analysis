@@ -6,21 +6,23 @@
 
 ## Couriers
 
-| Courier | Reviews | Avg ★ | % negative | Net sentiment |
-|---|---:|---:|---:|---:|
-| Yodel | 117 | 2.57 | 50% | -5 |
-| Evri | 234 | 2.60 | 47% | -2 |
-| Royal Mail | 179 | 2.94 | 37% | +20 |
-| Amazon Logistics | 83 | 3.42 | 30% | +39 |
-| DHL | 51 | 3.61 | 25% | +45 |
-| DPD | 197 | 3.77 | 20% | +55 |
-| InPost | 36 | 3.61 | 14% | +67 |
+Net sentiment is scored on the sentences about each courier. 'Whole review' scores the full review, which includes the shop and product.
+
+| Courier | Reviews | Avg ★ | % negative | Net sentiment | Whole review |
+|---|---:|---:|---:|---:|---:|
+| Yodel | 117 | 2.57 | 45% | -2 | -5 |
+| Evri | 234 | 2.60 | 44% | +2 | -2 |
+| Royal Mail | 179 | 2.94 | 35% | +18 | +20 |
+| DHL | 51 | 3.61 | 24% | +45 | +45 |
+| Amazon Logistics | 83 | 3.42 | 25% | +49 | +39 |
+| DPD | 197 | 3.77 | 19% | +56 | +55 |
+| InPost | 36 | 3.61 | 11% | +67 | +67 |
 
 ## Top complaint aspects
 
-- Delivery speed: 44% of negative reviews
-- Driver behaviour: 34% of negative reviews
-- Customer service: 31% of negative reviews
+- Delivery speed: 47% of negative reviews
+- Customer service: 34% of negative reviews
+- Driver behaviour: 33% of negative reviews
 
 ## Model agreement with star ratings
 
@@ -32,18 +34,18 @@
 
 ## Complaint themes
 
-- (28%) dumped doorstep, dumped, doorstep walked, doorstep, photo knock, photo, walked photo, knock
-- (19%) address, wrong address, wrong, address neighbour, bring, bring round, round, neighbour
-- (18%) broken, box crushed, broken joke, crushed, contents, joke, crushed contents, contents broken
-- (13%) speak, speak person, impossible, impossible speak, tried impossible, person, lost tried, tried
-- (12%) arrived, arrived damaged, damaged, damaged thrown, thrown, thrown fence, fence, marked
-- (9%) left outside, soaked, driver left, driver, box soaked, rain, rain box, outside rain
+- (26%) late, gave chatbot, customer, customer gave, chatbot, gave, late customer, address
+- (23%) arrived, thrown, arrived damaged, damaged thrown, fence, damaged, thrown fence, marked arrived
+- (14%) tracking useless, useless, tracking, joke, ordering tracking, useless thats, ordering, useless tracking
+- (13%) speak, speak person, impossible, impossible speak, person, lost tried, tried impossible, tried
+- (13%) doorstep walked, dumped doorstep, knock, photo knock, photo, walked, walked photo, doorstep
+- (11%) waiting refund, refund, refund lost, avoid, waiting, lost avoid, lost, joke
 
 ## Praise themes
 
-- (37%) fast reliable, fast, reliable, reliable complaints, complaints, friendly, driver friendly, right driver
-- (13%) door box, condition, handed door, handed, box perfect, polite handed, perfect condition, perfect
-- (13%) driver smiled, smiled waited, waited door, lovely driver, smiled, lovely, waited, driver
-- (12%) quick kept, quick, way, informed, kept, informed way, kept informed, mum quick
-- (12%) stuck, tracking hour, great tracking, hour slot, slot, slot stuck, hour, tracking
-- (12%) app, exactly, exactly app, turned exactly, impressed, impressed turned, turned, app thats
+- (31%) driver, right, right driver, driver friendly, friendly, smiled waited, driver smiled, waited door
+- (21%) informed way, quick, quick kept, way, kept, informed, kept informed, brilliant
+- (14%) stuck, hour slot, great tracking, tracking hour, hour, slot, slot stuck, tracking
+- (13%) app, exactly, impressed, impressed turned, exactly app, turned exactly, turned, app thats
+- (11%) condition, handed, perfect condition, polite, polite handed, perfect, door box, box perfect
+- (10%) fine, vague, bit vague, bit, came fine, tracking bit, fine tracking, came
