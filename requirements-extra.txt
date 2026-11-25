@@ -1,0 +1,4 @@
+# Optional: transformer sentiment and BERTopic. Large download (~2GB with torch).
+transformers>=4.40
+torch>=2.1
+bertopic>=0.16

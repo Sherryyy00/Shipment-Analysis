@@ -1,0 +1,1787 @@
+review_id,aspect,sentence,aspect_score,aspect_label
+0,Delivery speed,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+0,Lost / not delivered,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+0,Customer service,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+0,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+1,Parcel condition,The DPD driver left it outside in the rain and the box was soaked.,0.0,neutral
+1,Driver behaviour,The DPD driver left it outside in the rain and the box was soaked.,0.0,neutral
+1,Safe place / doorstep,The DPD driver left it outside in the rain and the box was soaked.,0.0,neutral
+2,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+2,Driver behaviour,"Hermes dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+2,Safe place / doorstep,"Hermes dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+3,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+5,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+5,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+5,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+6,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+7,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+7,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+7,Delivery speed,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+7,Driver behaviour,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+8,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+9,Delivery speed,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+9,Tracking & updates,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+10,Delivery speed,Tracking with Hermes said out for delivery for a week.,0.0,neutral
+10,Tracking & updates,Tracking with Hermes said out for delivery for a week.,0.0,neutral
+11,Safe place / doorstep,"Delivered to the wrong address by Yodel, the neighbour had to bring it round.",-0.4767,negative
+12,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+12,Parcel condition,Box was in perfect condition.,0.5719,positive
+12,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+12,Parcel condition,Box was in perfect condition.,0.5719,positive
+13,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+13,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+13,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+13,Parcel condition,Box was in perfect condition.,0.5719,positive
+14,Delivery speed,Tracking with DPD said out for delivery for a week.,0.0,neutral
+14,Tracking & updates,Tracking with DPD said out for delivery for a week.,0.0,neutral
+15,Lost / not delivered,it never arrived.,0.0,neutral
+16,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+18,Lost / not delivered,it never arrived.,0.0,neutral
+18,Delivery speed,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+18,Customer service,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+19,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+19,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+19,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+19,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+20,Driver behaviour,The DHL courier was polite and handed it to me at the door.,0.0,neutral
+20,Parcel condition,Box was in perfect condition.,0.5719,positive
+21,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+21,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+22,Lost / not delivered,it never arrived.,0.0,neutral
+23,Delivery speed,Waited in all day and Evri said they attempted delivery.,0.0,neutral
+23,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+24,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+25,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+25,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+26,Delivery speed,Waited in all day and Amazon delivery said they attempted delivery.,0.1779,positive
+26,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+26,Parcel condition,The Amazon delivery driver left it outside in the rain and the box was soaked.,0.1779,positive
+26,Driver behaviour,The Amazon delivery driver left it outside in the rain and the box was soaked.,0.1779,positive
+26,Safe place / doorstep,The Amazon delivery driver left it outside in the rain and the box was soaked.,0.1779,positive
+27,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+27,Parcel condition,Box was in perfect condition.,0.5719,positive
+28,Delivery speed,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+28,Tracking & updates,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+29,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+30,Tracking & updates,"Really impressed, DHL turned up exactly when the app said.",0.5256,positive
+30,Tracking & updates,"Great tracking from DHL, I got a one hour slot and they stuck to it.",0.4767,positive
+31,Tracking & updates,"Great tracking from InPost, I got a one hour slot and they stuck to it.",0.4767,positive
+32,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+32,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+33,Delivery speed,"Parcel arrived a day early with InPost, brilliant service.",0.7351,positive
+33,Delivery speed,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+33,Tracking & updates,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+34,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+34,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+35,Delivery speed,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+35,Tracking & updates,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+35,Driver behaviour,The DHL courier was polite and handed it to me at the door.,0.0,neutral
+35,Parcel condition,Box was in perfect condition.,0.5719,positive
+37,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+37,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+38,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+38,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+39,Delivery speed,Waited in all day and DPD said they attempted delivery.,0.0,neutral
+39,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+39,Delivery speed,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+39,Lost / not delivered,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+39,Customer service,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+40,Delivery speed,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+40,Lost / not delivered,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+40,Customer service,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+40,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+41,Delivery speed,Tracking with DPD said out for delivery for a week.,0.0,neutral
+41,Tracking & updates,Tracking with DPD said out for delivery for a week.,0.0,neutral
+41,Lost / not delivered,Parcel lost by DPD.,-0.4588,negative
+41,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+42,Driver behaviour,"DPD dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+42,Safe place / doorstep,"DPD dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+43,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+43,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+43,Lost / not delivered,it never arrived.,0.0,neutral
+44,Delivery speed,"Fast and reliable as always with Yodel, no complaints at all.",0.6437,positive
+44,Customer service,"Fast and reliable as always with Yodel, no complaints at all.",0.6437,positive
+44,Tracking & updates,"Great tracking from Yodel, I got a one hour slot and they stuck to it.",0.4767,positive
+45,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+45,Delivery speed,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+45,Lost / not delivered,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+45,Customer service,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+47,Parcel condition,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+47,Driver behaviour,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+47,Safe place / doorstep,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+48,Delivery speed,"Shame they use Amazon delivery, it turned up two days late.",-0.5994,negative
+48,Delivery speed,Still waiting for a refund after Amazon delivery lost my order.,-0.4404,negative
+48,Lost / not delivered,Still waiting for a refund after Amazon delivery lost my order.,-0.4404,negative
+48,Customer service,Still waiting for a refund after Amazon delivery lost my order.,-0.4404,negative
+49,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+50,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+50,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+51,Delivery speed,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+51,Tracking & updates,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+52,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+53,Lost / not delivered,Parcel lost by Yodel.,-0.4588,negative
+53,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+54,Delivery speed,Tracking with DPD said out for delivery for a week.,0.0,neutral
+54,Tracking & updates,Tracking with DPD said out for delivery for a week.,0.0,neutral
+55,Delivery speed,"Shame they use Amazon delivery, it turned up two days late.",-0.5994,negative
+56,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+57,Parcel condition,"Item arrived damaged, Amazon delivery must have thrown it over the fence.",-0.6249,negative
+57,Driver behaviour,"Item arrived damaged, Amazon delivery must have thrown it over the fence.",-0.6249,negative
+58,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+58,Parcel condition,Box was in perfect condition.,0.5719,positive
+59,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+59,Delivery speed,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+59,Driver behaviour,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+61,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+61,Parcel condition,Box was in perfect condition.,0.5719,positive
+61,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+62,Driver behaviour,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+62,Safe place / doorstep,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+63,Delivery speed,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+63,Lost / not delivered,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+63,Customer service,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+64,Delivery speed,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+64,Driver behaviour,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+64,Delivery speed,"Lovely DHL driver, smiled and even waited while I got to the door.",0.8074,positive
+64,Driver behaviour,"Lovely DHL driver, smiled and even waited while I got to the door.",0.8074,positive
+65,Delivery speed,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+65,Customer service,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+66,Delivery speed,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+66,Driver behaviour,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+67,Safe place / doorstep,"Delivered to the wrong address by Hermes, the neighbour had to bring it round.",-0.4767,negative
+67,Delivery speed,Waited in all day and Hermes said they attempted delivery.,0.0,neutral
+67,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+69,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+69,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+69,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+69,Parcel condition,Box was in perfect condition.,0.5719,positive
+70,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+70,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+71,Delivery speed,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+71,Tracking & updates,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+71,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+71,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+72,Safe place / doorstep,"Delivered to the wrong address by DHL, the neighbour had to bring it round.",-0.4767,negative
+74,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+75,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+75,Parcel condition,Box was in perfect condition.,0.5719,positive
+76,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+76,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+76,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+76,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+77,Delivery speed,Waited in all day and Yodel said they attempted delivery.,0.0,neutral
+77,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+77,Safe place / doorstep,"Delivered to the wrong address by Yodel, the neighbour had to bring it round.",-0.4767,negative
+79,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+79,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+80,Delivery speed,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+80,Tracking & updates,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+81,Parcel condition,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+81,Driver behaviour,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+82,Delivery speed,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+82,Tracking & updates,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+83,Delivery speed,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+83,Lost / not delivered,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+83,Customer service,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+84,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+84,Parcel condition,Box was in perfect condition.,0.5719,positive
+85,Delivery speed,Waited in all day and Hermes said they attempted delivery.,0.0,neutral
+85,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+86,Delivery speed,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+86,Driver behaviour,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+87,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+87,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+88,Lost / not delivered,it never arrived.,0.0,neutral
+89,Delivery speed,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+89,Customer service,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+89,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+89,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+90,Parcel condition,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+90,Driver behaviour,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+91,Delivery speed,"Lovely Yodel driver, smiled and even waited while I got to the door.",0.8074,positive
+91,Driver behaviour,"Lovely Yodel driver, smiled and even waited while I got to the door.",0.8074,positive
+92,Tracking & updates,"Great tracking from DHL, I got a one hour slot and they stuck to it.",0.4767,positive
+93,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+94,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+95,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+95,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+95,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+96,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+96,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+96,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+96,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+97,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+99,Delivery speed,"Fast and reliable as always with Yodel, no complaints at all.",0.6437,positive
+99,Customer service,"Fast and reliable as always with Yodel, no complaints at all.",0.6437,positive
+100,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+100,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+100,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+101,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+101,Delivery speed,"Parcel arrived a day early with Amazon delivery, brilliant service.",0.7845,positive
+102,Tracking & updates,"Great tracking from DHL, I got a one hour slot and they stuck to it.",0.4767,positive
+103,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+103,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+103,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+103,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+104,Parcel condition,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+104,Driver behaviour,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+105,Delivery speed,"Parcel arrived a day early with InPost, brilliant service.",0.7351,positive
+105,Delivery speed,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+105,Driver behaviour,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+106,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+106,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+106,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+106,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+107,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+107,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+108,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+108,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+108,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+108,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+109,Delivery speed,"Shame they use Hermes, it turned up two days late.",-0.6808,negative
+110,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+111,Lost / not delivered,it never arrived.,0.0,neutral
+111,Parcel condition,"Item arrived damaged, Hermes must have thrown it over the fence.",-0.7003,negative
+111,Driver behaviour,"Item arrived damaged, Hermes must have thrown it over the fence.",-0.7003,negative
+112,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+112,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+113,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+114,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+114,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+116,Tracking & updates,"Really impressed, DHL turned up exactly when the app said.",0.5256,positive
+116,Delivery speed,"Lovely DHL driver, smiled and even waited while I got to the door.",0.8074,positive
+116,Driver behaviour,"Lovely DHL driver, smiled and even waited while I got to the door.",0.8074,positive
+117,Delivery speed,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+117,Driver behaviour,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+118,Parcel condition,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+118,Driver behaviour,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+118,Safe place / doorstep,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+119,Safe place / doorstep,"Delivered to the wrong address by Yodel, the neighbour had to bring it round.",-0.4767,negative
+119,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+120,Lost / not delivered,it never arrived.,0.0,neutral
+121,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+121,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+121,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+123,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+124,Delivery speed,Waited in all day and Hermes said they attempted delivery.,0.0,neutral
+124,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+125,Delivery speed,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+125,Tracking & updates,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+126,Delivery speed,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+126,Customer service,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+127,Delivery speed,"Parcel arrived a day early with DHL, brilliant service.",0.7351,positive
+128,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+128,Parcel condition,Box was in perfect condition.,0.5719,positive
+129,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+129,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+129,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+131,Delivery speed,"Quick delivery by Hermes, kept me informed the whole way.",0.25,positive
+131,Tracking & updates,"Quick delivery by Hermes, kept me informed the whole way.",0.25,positive
+132,Delivery speed,Waited in all day and Yodel said they attempted delivery.,0.0,neutral
+132,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+134,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+136,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+136,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+137,Delivery speed,"Parcel arrived a day early with Amazon delivery, brilliant service.",0.7845,positive
+137,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+137,Parcel condition,Box was in perfect condition.,0.5719,positive
+138,Delivery speed,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+138,Lost / not delivered,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+138,Customer service,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+139,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+140,Tracking & updates,"Really impressed, DHL turned up exactly when the app said.",0.5256,positive
+141,Delivery speed,"Shame they use DPD, it turned up two days late.",-0.6808,negative
+142,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+142,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+144,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+144,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+146,Delivery speed,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+146,Customer service,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+147,Tracking & updates,"Great tracking from DHL, I got a one hour slot and they stuck to it.",0.4767,positive
+148,Parcel condition,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+148,Driver behaviour,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+148,Safe place / doorstep,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+149,Delivery speed,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+149,Driver behaviour,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+150,Delivery speed,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+150,Customer service,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+151,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+151,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+151,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+151,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+152,Delivery speed,Waited in all day and Yodel said they attempted delivery.,0.0,neutral
+152,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+153,Delivery speed,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+153,Tracking & updates,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+154,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+154,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+155,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+156,Delivery speed,Waited in all day and DPD said they attempted delivery.,0.0,neutral
+156,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+157,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+157,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+157,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+158,Delivery speed,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+158,Driver behaviour,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+160,Delivery speed,"Lovely Amazon delivery driver, smiled and even waited while I got to the door.",0.8402,positive
+160,Driver behaviour,"Lovely Amazon delivery driver, smiled and even waited while I got to the door.",0.8402,positive
+161,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+161,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+161,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+162,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+162,Parcel condition,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+162,Driver behaviour,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+162,Safe place / doorstep,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+163,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+164,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+164,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+165,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+166,Delivery speed,"Shame they use Royal Mail, it turned up two days late.",-0.6808,negative
+166,Delivery speed,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+166,Lost / not delivered,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+166,Customer service,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+167,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+167,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+167,Delivery speed,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+167,Lost / not delivered,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+167,Customer service,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+168,Driver behaviour,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+168,Safe place / doorstep,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+168,Delivery speed,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+168,Lost / not delivered,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+168,Customer service,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+169,Safe place / doorstep,"Delivered to the wrong address by Evri, the neighbour had to bring it round.",-0.4767,negative
+170,Delivery speed,"Fast and reliable as always with InPost, no complaints at all.",0.6437,positive
+170,Customer service,"Fast and reliable as always with InPost, no complaints at all.",0.6437,positive
+171,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+171,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+172,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+173,Delivery speed,Waited in all day and Royal Mail said they attempted delivery.,0.0,neutral
+173,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+173,Delivery speed,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+173,Customer service,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+174,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+175,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+175,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+175,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+176,Tracking & updates,"Great tracking from DHL, I got a one hour slot and they stuck to it.",0.4767,positive
+176,Delivery speed,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+176,Driver behaviour,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+177,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+177,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+178,Lost / not delivered,Parcel lost by Yodel.,-0.4588,negative
+178,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+178,Parcel condition,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+178,Driver behaviour,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+178,Safe place / doorstep,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+179,Driver behaviour,The InPost courier was polite and handed it to me at the door.,0.0,neutral
+179,Parcel condition,Box was in perfect condition.,0.5719,positive
+179,Delivery speed,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+179,Tracking & updates,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+180,Delivery speed,"Fast and reliable as always with Yodel, no complaints at all.",0.6437,positive
+180,Customer service,"Fast and reliable as always with Yodel, no complaints at all.",0.6437,positive
+180,Tracking & updates,"Great tracking from Yodel, I got a one hour slot and they stuck to it.",0.4767,positive
+181,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+181,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+181,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+181,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+182,Lost / not delivered,it never arrived.,0.0,neutral
+183,Delivery speed,"Lovely DHL driver, smiled and even waited while I got to the door.",0.8074,positive
+183,Driver behaviour,"Lovely DHL driver, smiled and even waited while I got to the door.",0.8074,positive
+184,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+184,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+185,Safe place / doorstep,"Delivered to the wrong address by Hermes, the neighbour had to bring it round.",-0.4767,negative
+185,Parcel condition,"Item arrived damaged, Hermes must have thrown it over the fence.",-0.7003,negative
+185,Driver behaviour,"Item arrived damaged, Hermes must have thrown it over the fence.",-0.7003,negative
+186,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+186,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+186,Parcel condition,Box was in perfect condition.,0.5719,positive
+187,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+187,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+188,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+188,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+188,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+189,Parcel condition,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+189,Driver behaviour,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+190,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+191,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+191,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+192,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+193,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+193,Delivery speed,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+193,Tracking & updates,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+194,Delivery speed,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+194,Driver behaviour,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+194,Delivery speed,"Parcel arrived a day early with Yodel, brilliant service.",0.7351,positive
+195,Safe place / doorstep,"Delivered to the wrong address by Evri, the neighbour had to bring it round.",-0.4767,negative
+195,Delivery speed,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+195,Customer service,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+196,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+197,Delivery speed,Tracking with Hermes said out for delivery for a week.,0.0,neutral
+197,Tracking & updates,Tracking with Hermes said out for delivery for a week.,0.0,neutral
+198,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+199,Delivery speed,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+199,Driver behaviour,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+200,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+201,Lost / not delivered,Parcel lost by Hermes.,-0.4588,negative
+201,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+201,Delivery speed,Still waiting for a refund after Hermes lost my order.,-0.5574,negative
+201,Lost / not delivered,Still waiting for a refund after Hermes lost my order.,-0.5574,negative
+201,Customer service,Still waiting for a refund after Hermes lost my order.,-0.5574,negative
+203,Delivery speed,Waited in all day and Evri said they attempted delivery.,0.0,neutral
+203,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+203,Delivery speed,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+203,Customer service,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+204,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+205,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+205,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+206,Delivery speed,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+206,Tracking & updates,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+207,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+207,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+207,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+208,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+209,Tracking & updates,"Great tracking from Hermes, I got a one hour slot and they stuck to it.",0.4767,positive
+210,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+211,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+212,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+213,Delivery speed,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+213,Customer service,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+213,Safe place / doorstep,"Delivered to the wrong address by DPD, the neighbour had to bring it round.",-0.4767,negative
+214,Driver behaviour,"DHL dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+214,Safe place / doorstep,"DHL dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+214,Delivery speed,Three days late with DHL and customer service just gave me a chatbot.,-0.3612,negative
+214,Customer service,Three days late with DHL and customer service just gave me a chatbot.,-0.3612,negative
+215,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+215,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+216,Lost / not delivered,Parcel lost by Royal Mail.,-0.4588,negative
+216,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+217,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+218,Delivery speed,"Parcel arrived a day early with Amazon delivery, brilliant service.",0.7845,positive
+219,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+219,Parcel condition,Box was in perfect condition.,0.5719,positive
+220,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+220,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+221,Lost / not delivered,it never arrived.,0.0,neutral
+221,Parcel condition,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+221,Driver behaviour,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+222,Parcel condition,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+222,Driver behaviour,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+223,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+223,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+224,Delivery speed,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+224,Lost / not delivered,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+224,Customer service,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+225,Delivery speed,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+225,Driver behaviour,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+226,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+226,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+227,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+227,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+227,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+227,Parcel condition,Box was in perfect condition.,0.5719,positive
+228,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+230,Delivery speed,"Shame they use DPD, it turned up two days late.",-0.6808,negative
+230,Parcel condition,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+230,Driver behaviour,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+231,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+232,Driver behaviour,The DHL courier was polite and handed it to me at the door.,0.0,neutral
+232,Parcel condition,Box was in perfect condition.,0.5719,positive
+233,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+234,Tracking & updates,"Great tracking from Hermes, I got a one hour slot and they stuck to it.",0.4767,positive
+235,Delivery speed,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+235,Tracking & updates,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+235,Delivery speed,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+235,Tracking & updates,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+236,Lost / not delivered,Parcel lost by DHL.,-0.4588,negative
+236,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+237,Delivery speed,"Parcel arrived a day early with InPost, brilliant service.",0.7351,positive
+237,Delivery speed,"Parcel arrived a day early with InPost, brilliant service.",0.7351,positive
+238,Delivery speed,Waited in all day and Evri said they attempted delivery.,0.0,neutral
+238,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+238,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+238,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+239,Delivery speed,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+239,Lost / not delivered,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+239,Customer service,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+239,Lost / not delivered,it never arrived.,0.0,neutral
+240,Lost / not delivered,Parcel lost by Royal Mail.,-0.4588,negative
+240,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+241,Driver behaviour,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+241,Safe place / doorstep,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+242,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+243,Lost / not delivered,it never arrived.,0.0,neutral
+243,Driver behaviour,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+243,Safe place / doorstep,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+244,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+245,Driver behaviour,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+245,Safe place / doorstep,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+246,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+246,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+246,Lost / not delivered,it never arrived.,0.0,neutral
+247,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+247,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+248,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+248,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+248,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+249,Delivery speed,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+249,Driver behaviour,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+250,Tracking & updates,"Really impressed, Yodel turned up exactly when the app said.",0.5256,positive
+251,Lost / not delivered,it never arrived.,0.0,neutral
+251,Delivery speed,Still waiting for a refund after Amazon delivery lost my order.,-0.4404,negative
+251,Lost / not delivered,Still waiting for a refund after Amazon delivery lost my order.,-0.4404,negative
+251,Customer service,Still waiting for a refund after Amazon delivery lost my order.,-0.4404,negative
+252,Delivery speed,"Parcel arrived a day early with Yodel, brilliant service.",0.7351,positive
+252,Driver behaviour,The Yodel courier was polite and handed it to me at the door.,0.0,neutral
+252,Parcel condition,Box was in perfect condition.,0.5719,positive
+253,Lost / not delivered,Parcel lost by DPD.,-0.4588,negative
+253,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+253,Safe place / doorstep,"Delivered to the wrong address by DPD, the neighbour had to bring it round.",-0.4767,negative
+255,Delivery speed,"Shame they use DPD, it turned up two days late.",-0.6808,negative
+256,Tracking & updates,"Great tracking from InPost, I got a one hour slot and they stuck to it.",0.4767,positive
+259,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+259,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+259,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+259,Parcel condition,Box was in perfect condition.,0.5719,positive
+260,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+260,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+260,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+260,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+261,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+263,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+263,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+263,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+264,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+264,Parcel condition,Box was in perfect condition.,0.5719,positive
+265,Lost / not delivered,Parcel lost by Amazon delivery.,-0.3182,negative
+265,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+266,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+266,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+266,Parcel condition,Box was in perfect condition.,0.5719,positive
+267,Parcel condition,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+267,Driver behaviour,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+267,Safe place / doorstep,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+267,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+267,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+268,Delivery speed,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+268,Tracking & updates,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+269,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+269,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+270,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+271,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+271,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+272,Safe place / doorstep,"Delivered to the wrong address by Hermes, the neighbour had to bring it round.",-0.4767,negative
+273,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+274,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+276,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+276,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+277,Delivery speed,"Lovely Amazon delivery driver, smiled and even waited while I got to the door.",0.8402,positive
+277,Driver behaviour,"Lovely Amazon delivery driver, smiled and even waited while I got to the door.",0.8402,positive
+278,Safe place / doorstep,"Delivered to the wrong address by Yodel, the neighbour had to bring it round.",-0.4767,negative
+279,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+279,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+280,Delivery speed,Three days late with Amazon delivery and customer service just gave me a chatbot.,-0.2023,negative
+280,Customer service,Three days late with Amazon delivery and customer service just gave me a chatbot.,-0.2023,negative
+280,Parcel condition,"Item arrived damaged, Amazon delivery must have thrown it over the fence.",-0.6249,negative
+280,Driver behaviour,"Item arrived damaged, Amazon delivery must have thrown it over the fence.",-0.6249,negative
+281,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+281,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+282,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+283,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+283,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+285,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+286,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+288,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+288,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+288,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+288,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+289,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+289,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+291,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+291,Parcel condition,Box was in perfect condition.,0.5719,positive
+292,Delivery speed,"Shame they use Royal Mail, it turned up two days late.",-0.6808,negative
+293,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+294,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+294,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+295,Delivery speed,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+295,Tracking & updates,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+296,Lost / not delivered,Parcel lost by Amazon delivery.,-0.3182,negative
+296,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+297,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+297,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+297,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+298,Parcel condition,"Item arrived damaged, DHL must have thrown it over the fence.",-0.7003,negative
+298,Driver behaviour,"Item arrived damaged, DHL must have thrown it over the fence.",-0.7003,negative
+299,Delivery speed,Waited in all day and InPost said they attempted delivery.,0.0,neutral
+299,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+300,Delivery speed,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+300,Driver behaviour,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+301,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+302,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+302,Parcel condition,Box was in perfect condition.,0.5719,positive
+303,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+304,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+304,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+305,Delivery speed,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+305,Driver behaviour,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+305,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+305,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+306,Delivery speed,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+306,Driver behaviour,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+307,Tracking & updates,"Really impressed, Yodel turned up exactly when the app said.",0.5256,positive
+308,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+309,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+310,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+310,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+311,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+311,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+311,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+312,Delivery speed,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+312,Customer service,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+313,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+313,Lost / not delivered,Parcel lost by Royal Mail.,-0.4588,negative
+313,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+314,Parcel condition,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+314,Driver behaviour,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+316,Lost / not delivered,it never arrived.,0.0,neutral
+317,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+317,Parcel condition,Box was in perfect condition.,0.5719,positive
+318,Delivery speed,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+318,Tracking & updates,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+318,Driver behaviour,"Amazon delivery dumped it on the doorstep and walked off, no photo, no knock.",-0.4238,negative
+318,Safe place / doorstep,"Amazon delivery dumped it on the doorstep and walked off, no photo, no knock.",-0.4238,negative
+319,Delivery speed,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+319,Tracking & updates,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+320,Lost / not delivered,it never arrived.,0.0,neutral
+320,Lost / not delivered,Parcel lost by Yodel.,-0.4588,negative
+320,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+321,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+322,Tracking & updates,"Great tracking from InPost, I got a one hour slot and they stuck to it.",0.4767,positive
+324,Delivery speed,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+324,Tracking & updates,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+325,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+325,Parcel condition,Box was in perfect condition.,0.5719,positive
+326,Delivery speed,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+326,Driver behaviour,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+326,Delivery speed,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+326,Customer service,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+327,Driver behaviour,The DHL courier was polite and handed it to me at the door.,0.0,neutral
+327,Parcel condition,Box was in perfect condition.,0.5719,positive
+327,Delivery speed,"Lovely DHL driver, smiled and even waited while I got to the door.",0.8074,positive
+327,Driver behaviour,"Lovely DHL driver, smiled and even waited while I got to the door.",0.8074,positive
+328,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+329,Delivery speed,"Parcel arrived a day early with Yodel, brilliant service.",0.7351,positive
+330,Lost / not delivered,it never arrived.,0.0,neutral
+330,Parcel condition,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+330,Driver behaviour,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+331,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+332,Delivery speed,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+332,Customer service,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+333,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+333,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+334,Delivery speed,"Shame they use DPD, it turned up two days late.",-0.6808,negative
+335,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+336,Delivery speed,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+336,Customer service,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+336,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+336,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+337,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+337,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+338,Safe place / doorstep,"Delivered to the wrong address by Royal Mail, the neighbour had to bring it round.",-0.4767,negative
+338,Lost / not delivered,Parcel lost by Royal Mail.,-0.4588,negative
+338,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+340,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+340,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+340,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+341,Driver behaviour,The InPost courier was polite and handed it to me at the door.,0.0,neutral
+341,Parcel condition,Box was in perfect condition.,0.5719,positive
+342,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+343,Delivery speed,Waited in all day and Royal Mail said they attempted delivery.,0.0,neutral
+343,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+344,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+345,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+345,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+345,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+345,Parcel condition,Box was in perfect condition.,0.5719,positive
+346,Tracking & updates,"Really impressed, Hermes turned up exactly when the app said.",0.5256,positive
+348,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+349,Tracking & updates,"Great tracking from Yodel, I got a one hour slot and they stuck to it.",0.4767,positive
+350,Delivery speed,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+350,Tracking & updates,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+351,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+351,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+352,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+353,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+353,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+354,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+354,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+354,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+356,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+356,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+358,Delivery speed,"Shame they use Royal Mail, it turned up two days late.",-0.6808,negative
+359,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+359,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+360,Delivery speed,"Parcel arrived a day early with Evri, brilliant service.",0.7351,positive
+361,Delivery speed,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+361,Customer service,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+361,Safe place / doorstep,"Delivered to the wrong address by DPD, the neighbour had to bring it round.",-0.4767,negative
+362,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+362,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+363,Delivery speed,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+363,Tracking & updates,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+364,Delivery speed,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+364,Driver behaviour,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+364,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+365,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+365,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+365,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+366,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+366,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+366,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+366,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+367,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+367,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+368,Delivery speed,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+368,Tracking & updates,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+368,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+369,Delivery speed,"Parcel arrived a day early with InPost, brilliant service.",0.7351,positive
+370,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+371,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+372,Safe place / doorstep,"Delivered to the wrong address by Evri, the neighbour had to bring it round.",-0.4767,negative
+372,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+372,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+373,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+373,Parcel condition,Box was in perfect condition.,0.5719,positive
+374,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+374,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+375,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+375,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+375,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+376,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+376,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+376,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+376,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+377,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+377,Parcel condition,Box was in perfect condition.,0.5719,positive
+377,Delivery speed,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+377,Driver behaviour,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+378,Driver behaviour,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+378,Safe place / doorstep,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+379,Delivery speed,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+379,Lost / not delivered,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+379,Customer service,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+381,Delivery speed,"Shame they use Yodel, it turned up two days late.",-0.6808,negative
+382,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+382,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+383,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+384,Parcel condition,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+384,Driver behaviour,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+384,Safe place / doorstep,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+385,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+385,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+386,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+386,Delivery speed,"Parcel arrived a day early with Amazon delivery, brilliant service.",0.7845,positive
+387,Safe place / doorstep,"Delivered to the wrong address by DPD, the neighbour had to bring it round.",-0.4767,negative
+388,Delivery speed,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+388,Driver behaviour,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+388,Tracking & updates,"Really impressed, Yodel turned up exactly when the app said.",0.5256,positive
+389,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+389,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+390,Delivery speed,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+390,Tracking & updates,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+390,Delivery speed,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+390,Tracking & updates,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+391,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+391,Parcel condition,Box was in perfect condition.,0.5719,positive
+392,Delivery speed,Waited in all day and Evri said they attempted delivery.,0.0,neutral
+392,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+393,Delivery speed,"Parcel arrived a day early with Hermes, brilliant service.",0.7351,positive
+394,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+394,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+395,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+395,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+396,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+396,Parcel condition,Box was in perfect condition.,0.5719,positive
+397,Delivery speed,"Parcel arrived a day early with Yodel, brilliant service.",0.7351,positive
+397,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+397,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+398,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+398,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+398,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+399,Delivery speed,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+399,Driver behaviour,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+400,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+402,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+402,Parcel condition,Box was in perfect condition.,0.5719,positive
+403,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+403,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+403,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+403,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+404,Delivery speed,Hermes delivered right on time and the driver was really friendly.,0.5413,positive
+404,Driver behaviour,Hermes delivered right on time and the driver was really friendly.,0.5413,positive
+405,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+405,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+405,Delivery speed,Waited in all day and Yodel said they attempted delivery.,0.0,neutral
+405,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+406,Delivery speed,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+406,Tracking & updates,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+406,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+407,Delivery speed,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+407,Tracking & updates,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+408,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+409,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+409,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+409,Safe place / doorstep,"Delivered to the wrong address by Evri, the neighbour had to bring it round.",-0.4767,negative
+410,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+410,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+410,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+411,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+412,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+413,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+413,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+414,Lost / not delivered,it never arrived.,0.0,neutral
+415,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+415,Parcel condition,Box was in perfect condition.,0.5719,positive
+416,Lost / not delivered,it never arrived.,0.0,neutral
+417,Lost / not delivered,it never arrived.,0.0,neutral
+418,Delivery speed,"Shame they use Yodel, it turned up two days late.",-0.6808,negative
+419,Lost / not delivered,it never arrived.,0.0,neutral
+421,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+422,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+422,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+423,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+423,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+424,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+424,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+424,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+425,Lost / not delivered,Parcel lost by Royal Mail.,-0.4588,negative
+425,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+425,Lost / not delivered,it never arrived.,0.0,neutral
+427,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+427,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+427,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+428,Delivery speed,"Parcel arrived a day early with InPost, brilliant service.",0.7351,positive
+428,Delivery speed,"Parcel arrived a day early with InPost, brilliant service.",0.7351,positive
+429,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+429,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+430,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+431,Delivery speed,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+431,Tracking & updates,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+432,Lost / not delivered,it never arrived.,0.0,neutral
+433,Delivery speed,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+433,Driver behaviour,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+434,Delivery speed,Waited in all day and Evri said they attempted delivery.,0.0,neutral
+434,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+434,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+436,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+436,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+437,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+437,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+438,Parcel condition,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+438,Driver behaviour,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+438,Safe place / doorstep,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+438,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+438,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+439,Driver behaviour,The DHL courier was polite and handed it to me at the door.,0.0,neutral
+439,Parcel condition,Box was in perfect condition.,0.5719,positive
+439,Delivery speed,"Parcel arrived a day early with DHL, brilliant service.",0.7351,positive
+440,Driver behaviour,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+440,Safe place / doorstep,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+441,Delivery speed,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+441,Customer service,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+443,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+444,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+444,Parcel condition,Box was in perfect condition.,0.5719,positive
+444,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+444,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+445,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+445,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+445,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+446,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+446,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+447,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+447,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+447,Delivery speed,Waited in all day and Yodel said they attempted delivery.,0.0,neutral
+447,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+448,Tracking & updates,"Really impressed, Yodel turned up exactly when the app said.",0.5256,positive
+449,Delivery speed,"Shame they use DPD, it turned up two days late.",-0.6808,negative
+450,Tracking & updates,"Really impressed, Yodel turned up exactly when the app said.",0.5256,positive
+451,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+451,Delivery speed,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+451,Driver behaviour,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+453,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+454,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+454,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+455,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+456,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+456,Parcel condition,Box was in perfect condition.,0.5719,positive
+456,Delivery speed,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+456,Customer service,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+457,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+457,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+458,Tracking & updates,"Really impressed, Amazon delivery turned up exactly when the app said.",0.6566,positive
+458,Tracking & updates,"Really impressed, Amazon delivery turned up exactly when the app said.",0.6566,positive
+459,Delivery speed,Waited in all day and DPD said they attempted delivery.,0.0,neutral
+459,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+460,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+460,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+461,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+462,Delivery speed,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+462,Customer service,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+463,Lost / not delivered,it never arrived.,0.0,neutral
+463,Lost / not delivered,Parcel lost by Hermes.,-0.4588,negative
+463,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+464,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+464,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+465,Parcel condition,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+465,Driver behaviour,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+465,Safe place / doorstep,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+466,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+466,Parcel condition,Box was in perfect condition.,0.5719,positive
+466,Tracking & updates,"Really impressed, Amazon delivery turned up exactly when the app said.",0.6566,positive
+467,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+467,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+467,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+468,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+468,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+468,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+469,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+471,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+471,Parcel condition,Box was in perfect condition.,0.5719,positive
+471,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+471,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+472,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+472,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+472,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+472,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+473,Safe place / doorstep,"Delivered to the wrong address by Royal Mail, the neighbour had to bring it round.",-0.4767,negative
+474,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+474,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+475,Delivery speed,Waited in all day and DPD said they attempted delivery.,0.0,neutral
+475,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+475,Delivery speed,Waited in all day and DPD said they attempted delivery.,0.0,neutral
+475,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+476,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+476,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+476,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+476,Parcel condition,Box was in perfect condition.,0.5719,positive
+477,Delivery speed,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+477,Customer service,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+479,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+479,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+479,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+479,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+480,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+480,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+481,Delivery speed,"Shame they use DPD, it turned up two days late.",-0.6808,negative
+482,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+483,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+485,Parcel condition,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+485,Driver behaviour,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+485,Safe place / doorstep,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+487,Lost / not delivered,it never arrived.,0.0,neutral
+487,Lost / not delivered,it never arrived.,0.0,neutral
+488,Delivery speed,Waited in all day and Evri said they attempted delivery.,0.0,neutral
+488,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+488,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+488,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+489,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+490,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+491,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+492,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+493,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+493,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+494,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+494,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+494,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+495,Driver behaviour,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+495,Safe place / doorstep,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+497,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+498,Delivery speed,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+498,Lost / not delivered,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+498,Customer service,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+499,Delivery speed,Waited in all day and Royal Mail said they attempted delivery.,0.0,neutral
+499,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+500,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+501,Parcel condition,"Item arrived damaged, Amazon delivery must have thrown it over the fence.",-0.6249,negative
+501,Driver behaviour,"Item arrived damaged, Amazon delivery must have thrown it over the fence.",-0.6249,negative
+502,Delivery speed,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+502,Tracking & updates,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+503,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+504,Tracking & updates,"Really impressed, Hermes turned up exactly when the app said.",0.5256,positive
+505,Safe place / doorstep,"Delivered to the wrong address by Evri, the neighbour had to bring it round.",-0.4767,negative
+505,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+505,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+505,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+506,Delivery speed,"Shame they use Royal Mail, it turned up two days late.",-0.6808,negative
+506,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+506,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+507,Tracking & updates,"Great tracking from DHL, I got a one hour slot and they stuck to it.",0.4767,positive
+509,Delivery speed,InPost delivered right on time and the driver was really friendly.,0.5413,positive
+509,Driver behaviour,InPost delivered right on time and the driver was really friendly.,0.5413,positive
+509,Delivery speed,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+509,Driver behaviour,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+510,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+510,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+510,Parcel condition,Box was in perfect condition.,0.5719,positive
+511,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+512,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+513,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+515,Lost / not delivered,it never arrived.,0.0,neutral
+516,Delivery speed,"Lovely Amazon delivery driver, smiled and even waited while I got to the door.",0.8402,positive
+516,Driver behaviour,"Lovely Amazon delivery driver, smiled and even waited while I got to the door.",0.8402,positive
+517,Parcel condition,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+517,Driver behaviour,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+517,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+517,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+517,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+518,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+518,Parcel condition,Box was in perfect condition.,0.5719,positive
+519,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+520,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+521,Delivery speed,Hermes delivered right on time and the driver was really friendly.,0.5413,positive
+521,Driver behaviour,Hermes delivered right on time and the driver was really friendly.,0.5413,positive
+522,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+523,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+525,Delivery speed,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+525,Lost / not delivered,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+525,Customer service,Still waiting for a refund after DPD lost my order.,-0.5574,negative
+526,Delivery speed,Waited in all day and Yodel said they attempted delivery.,0.0,neutral
+526,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+527,Delivery speed,InPost delivered right on time and the driver was really friendly.,0.5413,positive
+527,Driver behaviour,InPost delivered right on time and the driver was really friendly.,0.5413,positive
+527,Delivery speed,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+527,Driver behaviour,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+528,Delivery speed,Waited in all day and Yodel said they attempted delivery.,0.0,neutral
+528,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+528,Lost / not delivered,Parcel lost by Yodel.,-0.4588,negative
+528,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+529,Lost / not delivered,Parcel lost by DPD.,-0.4588,negative
+529,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+530,Safe place / doorstep,"Delivered to the wrong address by Evri, the neighbour had to bring it round.",-0.4767,negative
+530,Delivery speed,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+530,Customer service,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+531,Delivery speed,"Lovely Yodel driver, smiled and even waited while I got to the door.",0.8074,positive
+531,Driver behaviour,"Lovely Yodel driver, smiled and even waited while I got to the door.",0.8074,positive
+532,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+532,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+533,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+534,Delivery speed,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+534,Tracking & updates,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+535,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+535,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+536,Parcel condition,"Item arrived damaged, InPost must have thrown it over the fence.",-0.7003,negative
+536,Driver behaviour,"Item arrived damaged, InPost must have thrown it over the fence.",-0.7003,negative
+536,Delivery speed,Still waiting for a refund after InPost lost my order.,-0.5574,negative
+536,Lost / not delivered,Still waiting for a refund after InPost lost my order.,-0.5574,negative
+536,Customer service,Still waiting for a refund after InPost lost my order.,-0.5574,negative
+537,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+538,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+538,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+539,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+540,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+540,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+541,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+541,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+541,Delivery speed,Waited in all day and Evri said they attempted delivery.,0.0,neutral
+541,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+542,Delivery speed,"Shame they use DPD, it turned up two days late.",-0.6808,negative
+543,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+544,Delivery speed,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+544,Tracking & updates,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+545,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+545,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+545,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+546,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+546,Parcel condition,Box was in perfect condition.,0.5719,positive
+546,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+546,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+547,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+548,Delivery speed,"Parcel arrived a day early with Evri, brilliant service.",0.7351,positive
+550,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+550,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+552,Delivery speed,"Parcel arrived a day early with Yodel, brilliant service.",0.7351,positive
+552,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+552,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+553,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+553,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+555,Parcel condition,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+555,Driver behaviour,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+555,Safe place / doorstep,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+556,Lost / not delivered,Parcel lost by Royal Mail.,-0.4588,negative
+556,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+557,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+558,Parcel condition,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+558,Driver behaviour,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+558,Safe place / doorstep,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+559,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+559,Parcel condition,Box was in perfect condition.,0.5719,positive
+559,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+559,Parcel condition,Box was in perfect condition.,0.5719,positive
+560,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+560,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+562,Safe place / doorstep,"Delivered to the wrong address by Royal Mail, the neighbour had to bring it round.",-0.4767,negative
+563,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+564,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+564,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+565,Delivery speed,Waited in all day and Royal Mail said they attempted delivery.,0.0,neutral
+565,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+566,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+566,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+567,Delivery speed,"Parcel arrived a day early with Evri, brilliant service.",0.7351,positive
+569,Delivery speed,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+569,Driver behaviour,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+569,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+569,Parcel condition,Box was in perfect condition.,0.5719,positive
+570,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+570,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+570,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+570,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+571,Driver behaviour,The Yodel courier was polite and handed it to me at the door.,0.0,neutral
+571,Parcel condition,Box was in perfect condition.,0.5719,positive
+571,Delivery speed,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+571,Driver behaviour,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+572,Delivery speed,"Shame they use DPD, it turned up two days late.",-0.6808,negative
+573,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+573,Lost / not delivered,it never arrived.,0.0,neutral
+574,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+574,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+575,Delivery speed,"Lovely Amazon delivery driver, smiled and even waited while I got to the door.",0.8402,positive
+575,Driver behaviour,"Lovely Amazon delivery driver, smiled and even waited while I got to the door.",0.8402,positive
+576,Lost / not delivered,Parcel lost by Hermes.,-0.4588,negative
+576,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+578,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+579,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+580,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+581,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+581,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+582,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+583,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+583,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+584,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+584,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+584,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+584,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+586,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+586,Parcel condition,Box was in perfect condition.,0.5719,positive
+587,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+587,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+588,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+589,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+589,Parcel condition,Box was in perfect condition.,0.5719,positive
+590,Delivery speed,InPost delivered right on time and the driver was really friendly.,0.5413,positive
+590,Driver behaviour,InPost delivered right on time and the driver was really friendly.,0.5413,positive
+590,Tracking & updates,"Great tracking from InPost, I got a one hour slot and they stuck to it.",0.4767,positive
+591,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+592,Delivery speed,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+592,Tracking & updates,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+593,Delivery speed,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+593,Lost / not delivered,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+593,Customer service,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+593,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+594,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+595,Parcel condition,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+595,Driver behaviour,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+596,Delivery speed,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+596,Driver behaviour,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+596,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+596,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+597,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+597,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+597,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+598,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+599,Delivery speed,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+599,Customer service,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+599,Delivery speed,Waited in all day and Evri said they attempted delivery.,0.0,neutral
+599,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+600,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+601,Delivery speed,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+601,Customer service,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+602,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+602,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+602,Parcel condition,Box was in perfect condition.,0.5719,positive
+603,Delivery speed,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+603,Tracking & updates,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+603,Lost / not delivered,it never arrived.,0.0,neutral
+604,Lost / not delivered,it never arrived.,0.0,neutral
+605,Delivery speed,"Lovely Hermes driver, smiled and even waited while I got to the door.",0.8074,positive
+605,Driver behaviour,"Lovely Hermes driver, smiled and even waited while I got to the door.",0.8074,positive
+605,Tracking & updates,"Really impressed, Hermes turned up exactly when the app said.",0.5256,positive
+606,Delivery speed,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+606,Driver behaviour,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+607,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+607,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+608,Delivery speed,"Shame they use Yodel, it turned up two days late.",-0.6808,negative
+609,Safe place / doorstep,"Delivered to the wrong address by Amazon delivery, the neighbour had to bring it round.",-0.34,negative
+609,Delivery speed,Three days late with Amazon delivery and customer service just gave me a chatbot.,-0.2023,negative
+609,Customer service,Three days late with Amazon delivery and customer service just gave me a chatbot.,-0.2023,negative
+610,Delivery speed,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+610,Driver behaviour,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+611,Delivery speed,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+611,Driver behaviour,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+611,Delivery speed,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+611,Driver behaviour,Yodel delivered right on time and the driver was really friendly.,0.5413,positive
+612,Tracking & updates,"Really impressed, Yodel turned up exactly when the app said.",0.5256,positive
+613,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+614,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+615,Delivery speed,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+615,Driver behaviour,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+616,Delivery speed,Three days late with Amazon delivery and customer service just gave me a chatbot.,-0.2023,negative
+616,Customer service,Three days late with Amazon delivery and customer service just gave me a chatbot.,-0.2023,negative
+617,Tracking & updates,"Really impressed, Amazon delivery turned up exactly when the app said.",0.6566,positive
+618,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+619,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+619,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+619,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+620,Delivery speed,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+620,Tracking & updates,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+620,Driver behaviour,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+620,Safe place / doorstep,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+621,Tracking & updates,"Great tracking from DHL, I got a one hour slot and they stuck to it.",0.4767,positive
+621,Delivery speed,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+621,Driver behaviour,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+623,Delivery speed,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+623,Customer service,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+623,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+623,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+624,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+624,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+624,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+624,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+625,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+625,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+626,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+626,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+626,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+627,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+627,Lost / not delivered,it never arrived.,0.0,neutral
+628,Driver behaviour,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+628,Safe place / doorstep,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+628,Delivery speed,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+628,Lost / not delivered,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+628,Customer service,Still waiting for a refund after Yodel lost my order.,-0.5574,negative
+629,Delivery speed,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+629,Lost / not delivered,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+629,Customer service,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+630,Tracking & updates,"Really impressed, Yodel turned up exactly when the app said.",0.5256,positive
+631,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+631,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+632,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+632,Parcel condition,Box was in perfect condition.,0.5719,positive
+632,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+632,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+633,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+633,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+633,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+633,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+634,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+634,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+635,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+635,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+636,Delivery speed,"Quick delivery by Hermes, kept me informed the whole way.",0.25,positive
+636,Tracking & updates,"Quick delivery by Hermes, kept me informed the whole way.",0.25,positive
+637,Delivery speed,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+637,Driver behaviour,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+639,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+640,Delivery speed,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+640,Tracking & updates,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+640,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+640,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+641,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+641,Parcel condition,Box was in perfect condition.,0.5719,positive
+642,Delivery speed,"Parcel arrived a day early with Evri, brilliant service.",0.7351,positive
+644,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+644,Parcel condition,Box was in perfect condition.,0.5719,positive
+645,Delivery speed,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+645,Tracking & updates,"Quick delivery by Evri, kept me informed the whole way.",0.25,positive
+645,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+647,Tracking & updates,"Great tracking from DHL, I got a one hour slot and they stuck to it.",0.4767,positive
+648,Delivery speed,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+648,Driver behaviour,DHL delivered right on time and the driver was really friendly.,0.5413,positive
+648,Driver behaviour,The DHL courier was polite and handed it to me at the door.,0.0,neutral
+648,Parcel condition,Box was in perfect condition.,0.5719,positive
+649,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+649,Lost / not delivered,Parcel lost by Royal Mail.,-0.4588,negative
+649,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+650,Delivery speed,"Shame they use Royal Mail, it turned up two days late.",-0.6808,negative
+650,Safe place / doorstep,"Delivered to the wrong address by Royal Mail, the neighbour had to bring it round.",-0.4767,negative
+651,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+651,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+651,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+652,Delivery speed,"Parcel arrived a day early with Yodel, brilliant service.",0.7351,positive
+653,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+654,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+654,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+654,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+656,Delivery speed,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+656,Tracking & updates,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+657,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+658,Parcel condition,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+658,Driver behaviour,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+658,Safe place / doorstep,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+659,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+660,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+661,Lost / not delivered,it never arrived.,0.0,neutral
+662,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+662,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+662,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+663,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+665,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+666,Delivery speed,"Lovely Hermes driver, smiled and even waited while I got to the door.",0.8074,positive
+666,Driver behaviour,"Lovely Hermes driver, smiled and even waited while I got to the door.",0.8074,positive
+667,Delivery speed,Tracking with DHL said out for delivery for a week.,0.0,neutral
+667,Tracking & updates,Tracking with DHL said out for delivery for a week.,0.0,neutral
+667,Lost / not delivered,it never arrived.,0.0,neutral
+668,Parcel condition,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+668,Driver behaviour,"Item arrived damaged, DPD must have thrown it over the fence.",-0.7003,negative
+669,Driver behaviour,The InPost courier was polite and handed it to me at the door.,0.0,neutral
+669,Parcel condition,Box was in perfect condition.,0.5719,positive
+669,Delivery speed,"Fast and reliable as always with InPost, no complaints at all.",0.6437,positive
+669,Customer service,"Fast and reliable as always with InPost, no complaints at all.",0.6437,positive
+670,Driver behaviour,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+670,Safe place / doorstep,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+671,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+671,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+672,Delivery speed,Three days late with Amazon delivery and customer service just gave me a chatbot.,-0.2023,negative
+672,Customer service,Three days late with Amazon delivery and customer service just gave me a chatbot.,-0.2023,negative
+673,Delivery speed,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+673,Customer service,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+674,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+674,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+675,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+675,Delivery speed,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+675,Tracking & updates,Tracking with Yodel said out for delivery for a week.,0.0,neutral
+676,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+677,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+678,Delivery speed,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+678,Tracking & updates,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+678,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+678,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+680,Safe place / doorstep,"Delivered to the wrong address by Royal Mail, the neighbour had to bring it round.",-0.4767,negative
+681,Tracking & updates,"Really impressed, InPost turned up exactly when the app said.",0.5256,positive
+682,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+683,Delivery speed,"Shame they use DPD, it turned up two days late.",-0.6808,negative
+683,Driver behaviour,"DPD dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+683,Safe place / doorstep,"DPD dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+684,Delivery speed,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+684,Tracking & updates,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+684,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+685,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+685,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+685,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+686,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+687,Parcel condition,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+687,Driver behaviour,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+689,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+690,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+690,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+691,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+691,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+692,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+693,Parcel condition,The DPD driver left it outside in the rain and the box was soaked.,0.0,neutral
+693,Driver behaviour,The DPD driver left it outside in the rain and the box was soaked.,0.0,neutral
+693,Safe place / doorstep,The DPD driver left it outside in the rain and the box was soaked.,0.0,neutral
+694,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+694,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+695,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+695,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+696,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+697,Tracking & updates,"Really impressed, InPost turned up exactly when the app said.",0.5256,positive
+698,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+699,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+699,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+700,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+700,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+700,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+701,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+701,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+702,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+702,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+703,Lost / not delivered,it never arrived.,0.0,neutral
+704,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+704,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+705,Lost / not delivered,Parcel lost by Amazon delivery.,-0.3182,negative
+705,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+706,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+706,Lost / not delivered,Parcel lost by Royal Mail.,-0.4588,negative
+706,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+707,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+707,Parcel condition,Box was in perfect condition.,0.5719,positive
+708,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+709,Delivery speed,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+709,Customer service,Three days late with DPD and customer service just gave me a chatbot.,-0.3612,negative
+709,Lost / not delivered,it never arrived.,0.0,neutral
+710,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+710,Parcel condition,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+710,Driver behaviour,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+710,Safe place / doorstep,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+711,Delivery speed,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+711,Tracking & updates,"Quick delivery by Yodel, kept me informed the whole way.",0.25,positive
+712,Delivery speed,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+712,Driver behaviour,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+712,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+712,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+713,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+713,Tracking & updates,"Great tracking from Amazon delivery, I got a one hour slot and they stuck to it.",0.5859,positive
+714,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+715,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+715,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+716,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+717,Delivery speed,Still waiting for a refund after Amazon delivery lost my order.,-0.4404,negative
+717,Lost / not delivered,Still waiting for a refund after Amazon delivery lost my order.,-0.4404,negative
+717,Customer service,Still waiting for a refund after Amazon delivery lost my order.,-0.4404,negative
+718,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+719,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+719,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+720,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+720,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+721,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+721,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+721,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+722,Delivery speed,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+722,Customer service,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+724,Delivery speed,"Fast and reliable as always with InPost, no complaints at all.",0.6437,positive
+724,Customer service,"Fast and reliable as always with InPost, no complaints at all.",0.6437,positive
+724,Delivery speed,InPost delivered right on time and the driver was really friendly.,0.5413,positive
+724,Driver behaviour,InPost delivered right on time and the driver was really friendly.,0.5413,positive
+725,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+725,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+725,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+726,Delivery speed,"Parcel arrived a day early with Yodel, brilliant service.",0.7351,positive
+726,Delivery speed,"Lovely Yodel driver, smiled and even waited while I got to the door.",0.8074,positive
+726,Driver behaviour,"Lovely Yodel driver, smiled and even waited while I got to the door.",0.8074,positive
+727,Lost / not delivered,it never arrived.,0.0,neutral
+728,Parcel condition,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+728,Driver behaviour,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+729,Delivery speed,"Shame they use Yodel, it turned up two days late.",-0.6808,negative
+729,Driver behaviour,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+729,Safe place / doorstep,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+730,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+730,Parcel condition,Box was in perfect condition.,0.5719,positive
+731,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+733,Lost / not delivered,it never arrived.,0.0,neutral
+733,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+734,Delivery speed,Waited in all day and Yodel said they attempted delivery.,0.0,neutral
+734,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+735,Driver behaviour,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+735,Safe place / doorstep,"Evri dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+735,Lost / not delivered,it never arrived.,0.0,neutral
+736,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+737,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+737,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+738,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+738,Parcel condition,Box was in perfect condition.,0.5719,positive
+739,Delivery speed,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+739,Tracking & updates,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+739,Delivery speed,"Parcel arrived a day early with Amazon delivery, brilliant service.",0.7845,positive
+740,Safe place / doorstep,"Delivered to the wrong address by DHL, the neighbour had to bring it round.",-0.4767,negative
+741,Delivery speed,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+741,Lost / not delivered,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+741,Customer service,Still waiting for a refund after Evri lost my order.,-0.5574,negative
+742,Parcel condition,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+742,Driver behaviour,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+742,Safe place / doorstep,The Hermes driver left it outside in the rain and the box was soaked.,0.0,neutral
+742,Lost / not delivered,Parcel lost by Hermes.,-0.4588,negative
+742,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+743,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+743,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+745,Driver behaviour,The InPost courier was polite and handed it to me at the door.,0.0,neutral
+745,Parcel condition,Box was in perfect condition.,0.5719,positive
+745,Delivery speed,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+745,Driver behaviour,"Lovely InPost driver, smiled and even waited while I got to the door.",0.8074,positive
+746,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+746,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+746,Driver behaviour,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+746,Safe place / doorstep,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+747,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+747,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+747,Delivery speed,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+747,Tracking & updates,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+748,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+748,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+749,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+750,Lost / not delivered,Parcel lost by DHL.,-0.4588,negative
+750,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+750,Safe place / doorstep,"Delivered to the wrong address by DHL, the neighbour had to bring it round.",-0.4767,negative
+751,Tracking & updates,"Great tracking from Yodel, I got a one hour slot and they stuck to it.",0.4767,positive
+752,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+752,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+752,Parcel condition,Box was in perfect condition.,0.5719,positive
+753,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+753,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+754,Parcel condition,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+754,Driver behaviour,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+754,Safe place / doorstep,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+754,Parcel condition,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+754,Driver behaviour,"Item arrived damaged, Royal Mail must have thrown it over the fence.",-0.7003,negative
+755,Delivery speed,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+755,Tracking & updates,Tracking with Amazon delivery said out for delivery for a week.,0.1779,positive
+756,Parcel condition,The Amazon delivery driver left it outside in the rain and the box was soaked.,0.1779,positive
+756,Driver behaviour,The Amazon delivery driver left it outside in the rain and the box was soaked.,0.1779,positive
+756,Safe place / doorstep,The Amazon delivery driver left it outside in the rain and the box was soaked.,0.1779,positive
+758,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+759,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+759,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+759,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+760,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+760,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+761,Delivery speed,"Parcel arrived a day early with InPost, brilliant service.",0.7351,positive
+763,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+764,Delivery speed,Tracking with DHL said out for delivery for a week.,0.0,neutral
+764,Tracking & updates,Tracking with DHL said out for delivery for a week.,0.0,neutral
+764,Parcel condition,"Item arrived damaged, DHL must have thrown it over the fence.",-0.7003,negative
+764,Driver behaviour,"Item arrived damaged, DHL must have thrown it over the fence.",-0.7003,negative
+765,Safe place / doorstep,"Delivered to the wrong address by Evri, the neighbour had to bring it round.",-0.4767,negative
+765,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+765,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+765,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+766,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+766,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+766,Driver behaviour,The Royal Mail courier was polite and handed it to me at the door.,0.0,neutral
+766,Parcel condition,Box was in perfect condition.,0.5719,positive
+767,Lost / not delivered,it never arrived.,0.0,neutral
+768,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+768,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+768,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+770,Delivery speed,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+770,Driver behaviour,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+771,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+771,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+771,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+771,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+772,Delivery speed,Tracking with Evri said out for delivery for a week.,0.0,neutral
+772,Tracking & updates,Tracking with Evri said out for delivery for a week.,0.0,neutral
+773,Delivery speed,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+773,Customer service,"Fast and reliable as always with Royal Mail, no complaints at all.",0.6437,positive
+773,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+774,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+775,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+775,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+776,Delivery speed,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+776,Driver behaviour,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+777,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+778,Delivery speed,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+778,Customer service,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+779,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+779,Parcel condition,Box was in perfect condition.,0.5719,positive
+781,Delivery speed,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+781,Customer service,Three days late with Yodel and customer service just gave me a chatbot.,-0.3612,negative
+781,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+782,Lost / not delivered,it never arrived.,0.0,neutral
+783,Delivery speed,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+783,Driver behaviour,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+784,Delivery speed,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+784,Customer service,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+785,Delivery speed,"Parcel arrived a day early with Evri, brilliant service.",0.7351,positive
+786,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+786,Parcel condition,Box was in perfect condition.,0.5719,positive
+786,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+786,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+787,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+787,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+787,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+788,Lost / not delivered,it never arrived.,0.0,neutral
+789,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+790,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+790,Parcel condition,Box was in perfect condition.,0.5719,positive
+791,Delivery speed,"Parcel arrived a day early with Evri, brilliant service.",0.7351,positive
+792,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+793,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+794,Lost / not delivered,it never arrived.,0.0,neutral
+794,Parcel condition,The InPost driver left it outside in the rain and the box was soaked.,0.0,neutral
+794,Driver behaviour,The InPost driver left it outside in the rain and the box was soaked.,0.0,neutral
+794,Safe place / doorstep,The InPost driver left it outside in the rain and the box was soaked.,0.0,neutral
+796,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+796,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+796,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+797,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+797,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+798,Driver behaviour,The Yodel courier was polite and handed it to me at the door.,0.0,neutral
+798,Parcel condition,Box was in perfect condition.,0.5719,positive
+799,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+799,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+801,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+801,Parcel condition,Box was in perfect condition.,0.5719,positive
+802,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+802,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+803,Lost / not delivered,Parcel lost by DPD.,-0.4588,negative
+803,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+803,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+804,Tracking & updates,"Great tracking from InPost, I got a one hour slot and they stuck to it.",0.4767,positive
+806,Delivery speed,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+806,Tracking & updates,"Quick delivery by Amazon delivery, kept me informed the whole way.",0.4019,positive
+810,Lost / not delivered,it never arrived.,0.0,neutral
+811,Delivery speed,"Parcel arrived a day early with Evri, brilliant service.",0.7351,positive
+812,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+812,Parcel condition,Box was in perfect condition.,0.5719,positive
+812,Delivery speed,"Parcel arrived a day early with Amazon delivery, brilliant service.",0.7845,positive
+813,Delivery speed,"Parcel arrived a day early with DPD, brilliant service.",0.7351,positive
+814,Driver behaviour,The Amazon delivery courier was polite and handed it to me at the door.,0.1779,positive
+814,Parcel condition,Box was in perfect condition.,0.5719,positive
+814,Delivery speed,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+814,Driver behaviour,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+815,Delivery speed,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+815,Customer service,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+816,Safe place / doorstep,"Delivered to the wrong address by InPost, the neighbour had to bring it round.",-0.4767,negative
+818,Parcel condition,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+818,Driver behaviour,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+818,Parcel condition,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+818,Driver behaviour,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+818,Safe place / doorstep,The Evri driver left it outside in the rain and the box was soaked.,0.0,neutral
+819,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+820,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+822,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+822,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+823,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+823,Delivery speed,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+823,Tracking & updates,"Quick delivery by Royal Mail, kept me informed the whole way.",0.25,positive
+824,Safe place / doorstep,"Delivered to the wrong address by Royal Mail, the neighbour had to bring it round.",-0.4767,negative
+825,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+825,Delivery speed,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+825,Driver behaviour,"Lovely Evri driver, smiled and even waited while I got to the door.",0.8074,positive
+826,Delivery speed,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+826,Tracking & updates,Tracking with Royal Mail said out for delivery for a week.,0.0,neutral
+827,Tracking & updates,"Really impressed, Yodel turned up exactly when the app said.",0.5256,positive
+828,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+828,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+829,Delivery speed,Waited in all day and Royal Mail said they attempted delivery.,0.0,neutral
+829,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+830,Delivery speed,"Shame they use Royal Mail, it turned up two days late.",-0.6808,negative
+831,Delivery speed,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+831,Tracking & updates,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+831,Delivery speed,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+831,Tracking & updates,"Quick delivery by DHL, kept me informed the whole way.",0.25,positive
+832,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+832,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+833,Safe place / doorstep,"Delivered to the wrong address by Evri, the neighbour had to bring it round.",-0.4767,negative
+834,Delivery speed,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+834,Tracking & updates,"Quick delivery by InPost, kept me informed the whole way.",0.25,positive
+835,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+835,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+836,Tracking & updates,"Really impressed, DPD turned up exactly when the app said.",0.5256,positive
+837,Lost / not delivered,Parcel lost by Royal Mail.,-0.4588,negative
+837,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+837,Parcel condition,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+837,Driver behaviour,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+837,Safe place / doorstep,The Royal Mail driver left it outside in the rain and the box was soaked.,0.0,neutral
+838,Delivery speed,Tracking with InPost said out for delivery for a week.,0.0,neutral
+838,Tracking & updates,Tracking with InPost said out for delivery for a week.,0.0,neutral
+838,Delivery speed,Three days late with InPost and customer service just gave me a chatbot.,-0.3612,negative
+838,Customer service,Three days late with InPost and customer service just gave me a chatbot.,-0.3612,negative
+839,Tracking & updates,"Really impressed, Evri turned up exactly when the app said.",0.5256,positive
+840,Parcel condition,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+840,Driver behaviour,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+840,Safe place / doorstep,The Yodel driver left it outside in the rain and the box was soaked.,0.0,neutral
+841,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+841,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+842,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+842,Delivery speed,Still waiting for a refund after DHL lost my order.,-0.5574,negative
+842,Lost / not delivered,Still waiting for a refund after DHL lost my order.,-0.5574,negative
+842,Customer service,Still waiting for a refund after DHL lost my order.,-0.5574,negative
+843,Safe place / doorstep,"Delivered to the wrong address by Royal Mail, the neighbour had to bring it round.",-0.4767,negative
+843,Delivery speed,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+843,Customer service,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+844,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+844,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+845,Tracking & updates,"Really impressed, Royal Mail turned up exactly when the app said.",0.5256,positive
+846,Delivery speed,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+846,Driver behaviour,Amazon delivery delivered right on time and the driver was really friendly.,0.6361,positive
+847,Delivery speed,Waited in all day and DPD said they attempted delivery.,0.0,neutral
+847,Driver behaviour,"Total lie, nobody knocked.",0.0,neutral
+848,Tracking & updates,"Great tracking from Royal Mail, I got a one hour slot and they stuck to it.",0.4767,positive
+848,Delivery speed,"Parcel arrived a day early with Royal Mail, brilliant service.",0.7351,positive
+849,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+849,Lost / not delivered,it never arrived.,0.0,neutral
+850,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+850,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+851,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+851,Parcel condition,Box was in perfect condition.,0.5719,positive
+852,Driver behaviour,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+852,Safe place / doorstep,"Yodel dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+853,Delivery speed,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+853,Customer service,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+854,Delivery speed,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+854,Customer service,"Fast and reliable as always with DPD, no complaints at all.",0.6437,positive
+855,Safe place / doorstep,Mine was left in the bin.,0.0,neutral
+856,Delivery speed,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+856,Driver behaviour,"Lovely DPD driver, smiled and even waited while I got to the door.",0.8074,positive
+857,Parcel condition,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+857,Driver behaviour,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+858,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+858,Parcel condition,Box was in perfect condition.,0.5719,positive
+859,Delivery speed,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+859,Driver behaviour,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+860,Tracking & updates,"Great tracking from Yodel, I got a one hour slot and they stuck to it.",0.4767,positive
+860,Driver behaviour,The Yodel courier was polite and handed it to me at the door.,0.0,neutral
+860,Parcel condition,Box was in perfect condition.,0.5719,positive
+861,Delivery speed,"Parcel arrived a day early with Hermes, brilliant service.",0.7351,positive
+861,Delivery speed,"Parcel arrived a day early with Hermes, brilliant service.",0.7351,positive
+862,Lost / not delivered,it never arrived.,0.0,neutral
+862,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+862,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+863,Delivery speed,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+863,Driver behaviour,Evri delivered right on time and the driver was really friendly.,0.5413,positive
+864,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+865,Delivery speed,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+865,Customer service,"Fast and reliable as always with DHL, no complaints at all.",0.6437,positive
+866,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+866,Parcel condition,Box was in perfect condition.,0.5719,positive
+867,Delivery speed,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+867,Driver behaviour,"Lovely Royal Mail driver, smiled and even waited while I got to the door.",0.8074,positive
+869,Safe place / doorstep,"Delivered to the wrong address by Amazon delivery, the neighbour had to bring it round.",-0.34,negative
+869,Parcel condition,The Amazon delivery driver left it outside in the rain and the box was soaked.,0.1779,positive
+869,Driver behaviour,The Amazon delivery driver left it outside in the rain and the box was soaked.,0.1779,positive
+869,Safe place / doorstep,The Amazon delivery driver left it outside in the rain and the box was soaked.,0.1779,positive
+870,Delivery speed,"Shame they use DHL, it turned up two days late.",-0.6808,negative
+870,Delivery speed,Still waiting for a refund after DHL lost my order.,-0.5574,negative
+870,Lost / not delivered,Still waiting for a refund after DHL lost my order.,-0.5574,negative
+870,Customer service,Still waiting for a refund after DHL lost my order.,-0.5574,negative
+871,Delivery speed,"Parcel arrived a day early with Amazon delivery, brilliant service.",0.7845,positive
+873,Delivery speed,"Shame they use Evri, it turned up two days late.",-0.6808,negative
+873,Delivery speed,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+873,Customer service,Three days late with Evri and customer service just gave me a chatbot.,-0.3612,negative
+874,Delivery speed,Tracking with DPD said out for delivery for a week.,0.0,neutral
+874,Tracking & updates,Tracking with DPD said out for delivery for a week.,0.0,neutral
+874,Lost / not delivered,it never arrived.,0.0,neutral
+875,Lost / not delivered,Parcel lost by Evri.,-0.4588,negative
+875,Customer service,"Tried to call them, impossible to speak to a person.",0.0,neutral
+876,Driver behaviour,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+876,Safe place / doorstep,"Royal Mail dumped it on the doorstep and walked off, no photo, no knock.",-0.5442,negative
+877,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+877,Parcel condition,Box was in perfect condition.,0.5719,positive
+877,Driver behaviour,The DPD courier was polite and handed it to me at the door.,0.0,neutral
+877,Parcel condition,Box was in perfect condition.,0.5719,positive
+878,Delivery speed,"Parcel arrived a day early with Amazon delivery, brilliant service.",0.7845,positive
+879,Tracking & updates,"Really impressed, Hermes turned up exactly when the app said.",0.5256,positive
+881,Safe place / doorstep,"Delivered to the wrong address by Royal Mail, the neighbour had to bring it round.",-0.4767,negative
+882,Delivery speed,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+882,Customer service,Three days late with Royal Mail and customer service just gave me a chatbot.,-0.3612,negative
+883,Tracking & updates,"Great tracking from DPD, I got a one hour slot and they stuck to it.",0.4767,positive
+884,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+884,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+886,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+886,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+887,Delivery speed,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+887,Customer service,"Fast and reliable as always with Amazon delivery, no complaints at all.",0.7147,positive
+888,Tracking & updates,tracking was a bit vague.,-0.1027,negative
+889,Delivery speed,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+889,Driver behaviour,Royal Mail delivered right on time and the driver was really friendly.,0.5413,positive
+890,Delivery speed,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+890,Driver behaviour,DPD delivered right on time and the driver was really friendly.,0.5413,positive
+891,Parcel condition,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+891,Driver behaviour,"Item arrived damaged, Yodel must have thrown it over the fence.",-0.7003,negative
+892,Delivery speed,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+892,Customer service,"Fast and reliable as always with Evri, no complaints at all.",0.6437,positive
+892,Tracking & updates,"Great tracking from Evri, I got a one hour slot and they stuck to it.",0.4767,positive
+893,Lost / not delivered,it never arrived.,0.0,neutral
+894,Delivery speed,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+894,Tracking & updates,"Quick delivery by DPD, kept me informed the whole way.",0.25,positive
+895,Delivery speed,"Parcel arrived a day early with Hermes, brilliant service.",0.7351,positive
+897,Driver behaviour,The Evri courier was polite and handed it to me at the door.,0.0,neutral
+897,Parcel condition,Box was in perfect condition.,0.5719,positive
+898,Parcel condition,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+898,Driver behaviour,"Item arrived damaged, Evri must have thrown it over the fence.",-0.7003,negative
+899,Parcel condition,Box was crushed and the contents broken.,-0.7003,negative
+899,Delivery speed,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+899,Lost / not delivered,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
+899,Customer service,Still waiting for a refund after Royal Mail lost my order.,-0.5574,negative
